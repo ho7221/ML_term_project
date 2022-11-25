@@ -1,0 +1,1520 @@
+Arsenal
+3-1
+Everton
+14410
+Burnley
+1-2
+West Ham
+14411
+Chelsea
+5-1
+Sunderland
+14412
+Hull
+1-7
+Spurs
+14413
+Leicester
+1-1
+Bournemouth
+14414
+Liverpool
+3-0
+Middlesbrough
+14415
+Man Utd
+2-0
+Crystal Palace
+14416
+Southampton
+0-1
+Stoke
+14417
+Swansea
+2-1
+West Brom
+14418
+Watford
+0-5
+Man City
+14419
+Leicester
+1-6
+Spurs
+14375
+Southampton
+0-0
+Man Utd
+14319
+Arsenal
+2-0
+Sunderland
+14370
+Man City
+3-1
+West Brom
+14377
+Chelsea
+4-3
+Watford
+14313
+Spurs
+2-1
+Man Utd
+14407
+Stoke
+1-4
+Arsenal
+14405
+Crystal Palace
+4-0
+Hull
+14401
+West Ham
+0-4
+Liverpool
+14409
+Everton
+1-0
+Watford
+14402
+West Brom
+0-1
+Chelsea
+14408
+Man City
+2-1
+Leicester
+14403
+Bournemouth
+2-1
+Burnley
+14400
+Middlesbrough
+1-2
+Southampton
+14404
+Sunderland
+0-2
+Swansea
+14406
+Southampton
+0-2
+Arsenal
+14296
+Chelsea
+3-0
+Middlesbrough
+14393
+Arsenal
+2-0
+Man Utd
+14390
+Swansea
+1-0
+Everton
+14398
+Liverpool
+0-0
+Southampton
+14396
+West Ham
+1-0
+Spurs
+14399
+Man City
+5-0
+Crystal Palace
+14397
+Bournemouth
+2-2
+Stoke
+14391
+Burnley
+2-2
+West Brom
+14392
+Hull
+0-2
+Sunderland
+14394
+Leicester
+3-0
+Watford
+14395
+Watford
+0-1
+Liverpool
+14388
+Spurs
+2-0
+Arsenal
+14387
+Everton
+0-3
+Chelsea
+14381
+Middlesbrough
+2-2
+Man City
+14383
+Crystal Palace
+0-2
+Burnley
+14380
+Man Utd
+1-1
+Swansea
+14382
+Southampton
+0-0
+Hull
+14384
+Stoke
+0-0
+West Ham
+14385
+Sunderland
+0-1
+Bournemouth
+14386
+West Brom
+0-1
+Leicester
+14389
+Man City
+0-0
+Man Utd
+14295
+Arsenal
+1-0
+Leicester
+14310
+Middlesbrough
+1-0
+Sunderland
+14318
+Crystal Palace
+0-1
+Spurs
+14314
+Chelsea
+4-2
+Southampton
+14373
+Liverpool
+1-2
+Crystal Palace
+14376
+Burnley
+0-2
+Man Utd
+14372
+Bournemouth
+4-0
+Middlesbrough
+14371
+Hull
+2-0
+Watford
+14374
+Swansea
+2-0
+Stoke
+14378
+West Ham
+0-0
+Everton
+14379
+Middlesbrough
+1-2
+Arsenal
+14363
+Man Utd
+2-0
+Chelsea
+14362
+Southampton
+0-3
+Man City
+14364
+West Brom
+0-1
+Liverpool
+14369
+Spurs
+4-0
+Bournemouth
+14367
+Crystal Palace
+2-2
+Leicester
+14360
+Everton
+3-1
+Burnley
+14361
+Stoke
+3-1
+Hull
+14365
+Sunderland
+2-2
+West Ham
+14366
+Watford
+1-0
+Swansea
+14368
+Crystal Palace
+3-0
+Arsenal
+14351
+Everton
+4-2
+Leicester
+14352
+Bournemouth
+1-3
+Chelsea
+14350
+Sunderland
+0-3
+Man Utd
+14356
+Spurs
+4-0
+Watford
+14357
+Man City
+3-1
+Hull
+14353
+Middlesbrough
+0-0
+Burnley
+14354
+Stoke
+1-2
+Liverpool
+14355
+West Brom
+0-1
+Southampton
+14358
+West Ham
+1-0
+Swansea
+14359
+Arsenal
+3-0
+West Ham
+14340
+Chelsea
+2-1
+Man City
+14347
+Liverpool
+2-2
+Bournemouth
+14348
+Hull
+4-2
+Middlesbrough
+14342
+Southampton
+3-1
+Crystal Palace
+14349
+Swansea
+1-3
+Spurs
+14345
+Burnley
+1-0
+Stoke
+14341
+Leicester
+2-0
+Sunderland
+14343
+Watford
+2-0
+West Brom
+14346
+Man Utd
+1-1
+Everton
+14344
+Arsenal
+2-2
+Man City
+14330
+Southampton
+0-0
+Bournemouth
+14337
+Swansea
+0-0
+Middlesbrough
+14338
+Liverpool
+3-1
+Everton
+14335
+Burnley
+0-2
+Spurs
+14331
+Chelsea
+1-2
+Crystal Palace
+14332
+Hull
+2-1
+West Ham
+14333
+Leicester
+2-0
+Stoke
+14334
+Man Utd
+0-0
+West Brom
+14336
+Watford
+1-0
+Sunderland
+14339
+Man City
+1-1
+Liverpool
+14323
+Crystal Palace
+1-0
+Watford
+14321
+Everton
+4-0
+Hull
+14322
+Stoke
+1-2
+Chelsea
+14325
+Sunderland
+0-0
+Burnley
+14326
+West Ham
+2-3
+Leicester
+14329
+Bournemouth
+2-0
+Swansea
+14320
+Middlesbrough
+1-3
+Man Utd
+14324
+Spurs
+2-1
+Southampton
+14327
+West Brom
+3-1
+Arsenal
+14328
+Liverpool
+2-1
+Burnley
+14051
+Bournemouth
+3-2
+West Ham
+14311
+Everton
+3-0
+West Brom
+14315
+Hull
+2-1
+Swansea
+14316
+Man City
+0-0
+Stoke
+14317
+West Ham
+1-2
+Chelsea
+14309
+Sunderland
+0-2
+Man City
+14304
+Leicester
+3-1
+Hull
+14300
+Stoke
+2-0
+Middlesbrough
+14303
+Swansea
+3-2
+Burnley
+14305
+Watford
+3-4
+Southampton
+14307
+Liverpool
+3-1
+Arsenal
+14301
+Spurs
+3-2
+Everton
+14306
+West Brom
+0-2
+Crystal Palace
+14308
+Man Utd
+1-1
+Bournemouth
+14302
+Leicester
+3-1
+Liverpool
+14294
+Chelsea
+3-1
+Swansea
+14290
+Crystal Palace
+1-0
+Middlesbrough
+14291
+Everton
+2-0
+Sunderland
+14292
+Hull
+1-1
+Burnley
+14293
+West Brom
+2-1
+Bournemouth
+14299
+Watford
+1-1
+West Ham
+14298
+Spurs
+4-0
+Stoke
+14297
+Bournemouth
+0-2
+Man City
+14281
+Swansea
+2-0
+Leicester
+14288
+Man Utd
+2-0
+Watford
+14284
+Middlesbrough
+0-0
+Everton
+14285
+Stoke
+1-0
+Crystal Palace
+14286
+Sunderland
+0-4
+Southampton
+14287
+West Ham
+2-2
+West Brom
+14289
+Liverpool
+2-0
+Spurs
+14283
+Burnley
+1-1
+Chelsea
+14282
+Arsenal
+2-0
+Hull
+14280
+Leicester
+0-3
+Man Utd
+14274
+Crystal Palace
+0-4
+Sunderland
+14271
+Everton
+6-3
+Bournemouth
+14272
+Hull
+2-0
+Liverpool
+14273
+Southampton
+1-3
+West Ham
+14276
+Watford
+2-1
+Burnley
+14278
+West Brom
+1-0
+Stoke
+14279
+Spurs
+1-0
+Middlesbrough
+14277
+Man City
+2-1
+Swansea
+14275
+Chelsea
+3-1
+Arsenal
+14270
+West Ham
+0-4
+Man City
+14267
+Man Utd
+0-0
+Hull
+14263
+Stoke
+1-1
+Everton
+14269
+Arsenal
+1-2
+Watford
+14260
+Bournemouth
+0-2
+Crystal Palace
+14261
+Burnley
+1-0
+Leicester
+14262
+Middlesbrough
+1-1
+West Brom
+14264
+Sunderland
+0-0
+Spurs
+14265
+Swansea
+2-1
+Southampton
+14266
+Liverpool
+1-1
+Chelsea
+14268
+Chelsea
+2-0
+Hull
+14252
+Bournemouth
+2-2
+Watford
+14251
+Crystal Palace
+0-1
+Everton
+14253
+Middlesbrough
+1-3
+West Ham
+14256
+Stoke
+1-1
+Man Utd
+14258
+West Brom
+2-0
+Sunderland
+14259
+Man City
+2-2
+Spurs
+14255
+Southampton
+3-0
+Leicester
+14257
+Arsenal
+2-1
+Burnley
+14250
+Liverpool
+2-3
+Swansea
+14254
+Man Utd
+1-1
+Liverpool
+14244
+Burnley
+1-0
+Southampton
+14240
+Hull
+3-1
+Bournemouth
+14242
+Sunderland
+1-3
+Stoke
+14245
+Swansea
+0-4
+Arsenal
+14246
+Watford
+0-0
+Middlesbrough
+14248
+West Ham
+3-0
+Crystal Palace
+14249
+Leicester
+0-3
+Chelsea
+14243
+Everton
+4-0
+Man City
+14241
+Spurs
+4-0
+West Brom
+14247
+Spurs
+2-0
+Chelsea
+14237
+Bournemouth
+3-3
+Arsenal
+14230
+Crystal Palace
+1-2
+Swansea
+14231
+Stoke
+2-0
+Watford
+14235
+Everton
+3-0
+Southampton
+14232
+Man City
+2-1
+Burnley
+14233
+Sunderland
+2-2
+Liverpool
+14236
+West Brom
+3-1
+Hull
+14238
+West Ham
+0-2
+Man Utd
+14239
+Arsenal
+2-0
+Crystal Palace
+14220
+Middlesbrough
+0-0
+Leicester
+14234
+Burnley
+4-1
+Sunderland
+14221
+Chelsea
+4-2
+Stoke
+14222
+Leicester
+1-0
+West Ham
+14224
+Man Utd
+2-1
+Middlesbrough
+14226
+Southampton
+1-2
+West Brom
+14227
+Swansea
+0-3
+Bournemouth
+14228
+Liverpool
+1-0
+Man City
+14225
+Watford
+1-4
+Spurs
+14229
+Hull
+2-2
+Everton
+14223
+Southampton
+1-4
+Spurs
+14217
+Liverpool
+4-1
+Stoke
+14215
+Arsenal
+1-0
+West Brom
+14210
+Burnley
+1-0
+Middlesbrough
+14211
+Chelsea
+3-0
+Bournemouth
+14212
+Leicester
+0-2
+Everton
+14214
+Man Utd
+3-1
+Sunderland
+14216
+Swansea
+1-4
+West Ham
+14218
+Hull
+0-3
+Man City
+14213
+Watford
+1-1
+Crystal Palace
+14219
+Everton
+0-1
+Liverpool
+14202
+Man City
+2-1
+Arsenal
+14203
+Spurs
+2-1
+Burnley
+14207
+Middlesbrough
+3-0
+Swansea
+14204
+Stoke
+2-2
+Leicester
+14205
+Sunderland
+1-0
+Watford
+14206
+West Ham
+1-0
+Hull
+14209
+West Brom
+0-2
+Man Utd
+14208
+Bournemouth
+1-3
+Southampton
+14200
+Crystal Palace
+0-1
+Chelsea
+14201
+Middlesbrough
+0-3
+Liverpool
+14192
+Sunderland
+0-1
+Chelsea
+14193
+West Ham
+1-0
+Burnley
+14195
+Crystal Palace
+1-2
+Man Utd
+14191
+Man City
+2-0
+Watford
+14197
+Stoke
+0-0
+Southampton
+14198
+Spurs
+3-0
+Hull
+14199
+West Brom
+3-1
+Swansea
+14194
+Bournemouth
+1-0
+Leicester
+14190
+Everton
+2-1
+Arsenal
+14196
+Liverpool
+2-2
+West Ham
+14185
+Arsenal
+3-1
+Stoke
+14180
+Burnley
+3-2
+Bournemouth
+14181
+Hull
+3-3
+Crystal Palace
+14183
+Swansea
+3-0
+Sunderland
+14188
+Leicester
+4-2
+Man City
+14184
+Chelsea
+1-0
+West Brom
+14182
+Man Utd
+1-0
+Spurs
+14186
+Southampton
+1-0
+Middlesbrough
+14187
+Watford
+3-2
+Everton
+14189
+Middlesbrough
+1-0
+Hull
+14174
+Everton
+1-1
+Man Utd
+14172
+Crystal Palace
+3-0
+Southampton
+14171
+Stoke
+2-0
+Burnley
+14175
+Sunderland
+2-1
+Leicester
+14176
+Spurs
+5-0
+Swansea
+14177
+West Brom
+3-1
+Watford
+14178
+West Ham
+1-5
+Arsenal
+14179
+Bournemouth
+4-3
+Liverpool
+14170
+Man City
+1-3
+Chelsea
+14173
+Man Utd
+1-1
+West Ham
+14166
+Southampton
+1-0
+Everton
+14167
+Hull
+1-1
+West Brom
+14163
+Leicester
+2-2
+Middlesbrough
+14164
+Liverpool
+2-0
+Sunderland
+14165
+Swansea
+5-4
+Crystal Palace
+14168
+Chelsea
+2-1
+Spurs
+14162
+Watford
+0-1
+Stoke
+14169
+Arsenal
+3-1
+Bournemouth
+14160
+Burnley
+1-2
+Man City
+14161
+West Brom
+4-0
+Burnley
+14159
+Middlesbrough
+0-1
+Chelsea
+14153
+Crystal Palace
+1-2
+Man City
+14150
+Everton
+1-1
+Swansea
+14151
+Southampton
+0-0
+Liverpool
+14154
+Stoke
+0-1
+Bournemouth
+14155
+Sunderland
+3-0
+Hull
+14156
+Watford
+2-1
+Leicester
+14158
+Spurs
+3-2
+West Ham
+14157
+Man Utd
+1-1
+Arsenal
+14152
+Swansea
+1-3
+Man Utd
+14148
+Leicester
+1-2
+West Brom
+14145
+Bournemouth
+1-2
+Sunderland
+14141
+Burnley
+3-2
+Crystal Palace
+14142
+Man City
+1-1
+Middlesbrough
+14147
+West Ham
+1-1
+Stoke
+14149
+Chelsea
+5-0
+Everton
+14143
+Arsenal
+1-1
+Spurs
+14140
+Hull
+2-1
+Southampton
+14144
+Liverpool
+6-1
+Watford
+14146
+Stoke
+3-1
+Swansea
+14135
+Southampton
+0-2
+Chelsea
+14134
+Crystal Palace
+2-4
+Liverpool
+14130
+Everton
+2-0
+West Ham
+14131
+Sunderland
+1-4
+Arsenal
+14136
+Man Utd
+0-0
+Burnley
+14132
+Middlesbrough
+2-0
+Bournemouth
+14133
+Spurs
+1-1
+Leicester
+14137
+Watford
+1-0
+Hull
+14138
+West Brom
+0-4
+Man City
+14139
+Chelsea
+4-0
+Man Utd
+14123
+Liverpool
+2-1
+West Brom
+14126
+Man City
+1-1
+Southampton
+14127
+Bournemouth
+0-0
+Spurs
+14121
+Arsenal
+0-0
+Middlesbrough
+14120
+Burnley
+2-1
+Everton
+14122
+Hull
+0-2
+Stoke
+14124
+Leicester
+3-1
+Crystal Palace
+14125
+Swansea
+0-0
+Watford
+14128
+West Ham
+1-0
+Sunderland
+14129
+Liverpool
+0-0
+Man Utd
+14114
+Southampton
+3-1
+Burnley
+14117
+Crystal Palace
+0-1
+West Ham
+14113
+Middlesbrough
+0-1
+Watford
+14116
+Chelsea
+3-0
+Leicester
+14112
+Arsenal
+3-2
+Swansea
+14110
+Bournemouth
+6-1
+Hull
+14111
+Man City
+1-1
+Everton
+14115
+Stoke
+2-0
+Sunderland
+14118
+West Brom
+1-1
+Spurs
+14119
+Burnley
+0-1
+Arsenal
+14100
+Man Utd
+1-1
+Stoke
+14104
+Leicester
+0-0
+Southampton
+14103
+Spurs
+2-0
+Man City
+14107
+Everton
+1-1
+Crystal Palace
+14101
+Swansea
+1-2
+Liverpool
+14106
+Hull
+0-2
+Chelsea
+14102
+Sunderland
+1-1
+West Brom
+14105
+Watford
+2-2
+Bournemouth
+14108
+West Ham
+1-1
+Middlesbrough
+14109
+Burnley
+2-0
+Watford
+14092
+West Ham
+0-3
+Southampton
+14099
+Arsenal
+3-0
+Chelsea
+14090
+Man Utd
+4-1
+Leicester
+14094
+Bournemouth
+1-0
+Everton
+14091
+Liverpool
+5-1
+Hull
+14093
+Middlesbrough
+1-2
+Spurs
+14095
+Stoke
+1-1
+West Brom
+14096
+Sunderland
+2-3
+Crystal Palace
+14097
+Swansea
+1-3
+Man City
+14098
+Spurs
+1-0
+Sunderland
+14087
+Everton
+3-1
+Middlesbrough
+14082
+Watford
+3-1
+Man Utd
+14088
+Crystal Palace
+4-1
+Stoke
+14081
+Southampton
+1-0
+Swansea
+14086
+Chelsea
+1-2
+Liverpool
+14080
+Hull
+1-4
+Arsenal
+14083
+Leicester
+3-0
+Burnley
+14084
+Man City
+4-0
+Bournemouth
+14085
+West Brom
+4-2
+West Ham
+14089
+Sunderland
+0-3
+Everton
+14077
+Swansea
+2-2
+Chelsea
+14078
+Liverpool
+4-1
+Leicester
+14073
+Man Utd
+1-2
+Man City
+14074
+Arsenal
+2-1
+Southampton
+14070
+Bournemouth
+1-0
+West Brom
+14071
+Burnley
+1-1
+Hull
+14072
+Middlesbrough
+1-2
+Crystal Palace
+14075
+Stoke
+0-4
+Spurs
+14076
+West Ham
+2-4
+Watford
+14079
+Man City
+3-1
+West Ham
+14065
+Hull
+0-1
+Man Utd
+14063
+West Brom
+0-0
+Middlesbrough
+14069
+Spurs
+1-1
+Liverpool
+14067
+Chelsea
+3-0
+Burnley
+14060
+Crystal Palace
+1-1
+Bournemouth
+14061
+Everton
+1-0
+Stoke
+14062
+Leicester
+2-1
+Swansea
+14064
+Southampton
+1-1
+Sunderland
+14066
+Watford
+1-3
+Arsenal
+14068
+West Ham
+1-0
+Bournemouth
+14059
+Leicester
+0-0
+Arsenal
+14050
+Sunderland
+1-2
+Middlesbrough
+14054
+Man Utd
+2-0
+Southampton
+14052
+Stoke
+1-4
+Man City
+14053
+Burnley
+2-0
+Liverpool
+14312
+Swansea
+0-2
+Hull
+14055
+Spurs
+1-0
+Crystal Palace
+14056
+Watford
+1-2
+Chelsea
+14057
+West Brom
+1-2
+Everton
+14058
+Chelsea
+2-1
+West Ham
+14043
+Arsenal
+3-4
+Liverpool
+14040
+Man City
+2-1
+Sunderland
+14047
+Bournemouth
+1-3
+Man Utd
+14041
+Hull
+2-1
+Leicester
+14046
+Burnley
+0-1
+Swansea
+14042
+Crystal Palace
+0-1
+West Brom
+14044
+Everton
+1-1
+Spurs
+14045
+Middlesbrough
+1-1
+Stoke
+14048
+Southampton
+1-1
+Watford
+14049

@@ -1,0 +1,1520 @@
+Brighton
+1-4
+Man City
+38678
+Burnley
+1-3
+Arsenal
+38679
+Crystal Palace
+5-3
+Bournemouth
+38680
+Fulham
+0-4
+Newcastle
+38681
+Leicester
+0-0
+Chelsea
+38682
+Liverpool
+2-0
+Wolves
+38683
+Man Utd
+0-2
+Cardiff
+38684
+Southampton
+1-1
+Huddersfield
+38685
+Spurs
+2-2
+Everton
+38686
+Watford
+1-4
+West Ham
+38687
+Man City
+1-0
+Leicester
+38674
+Arsenal
+1-1
+Brighton
+38668
+Cardiff
+2-3
+Crystal Palace
+38670
+Newcastle
+2-3
+Liverpool
+38675
+Chelsea
+3-0
+Watford
+38671
+Huddersfield
+1-1
+Man Utd
+38673
+Everton
+2-0
+Burnley
+38672
+Bournemouth
+1-0
+Spurs
+38669
+West Ham
+3-0
+Southampton
+38676
+Wolves
+1-0
+Fulham
+38677
+Man Utd
+1-1
+Chelsea
+38664
+Brighton
+1-1
+Newcastle
+38658
+Leicester
+3-0
+Arsenal
+38662
+Burnley
+0-1
+Man City
+38659
+Liverpool
+5-0
+Huddersfield
+38663
+Spurs
+0-1
+West Ham
+38666
+Crystal Palace
+0-0
+Everton
+38660
+Fulham
+1-0
+Cardiff
+38661
+Southampton
+3-3
+Bournemouth
+38665
+Watford
+1-2
+Wolves
+38667
+Wolves
+3-1
+Arsenal
+38617
+Man Utd
+0-2
+Man City
+38613
+Spurs
+1-0
+Brighton
+38635
+Watford
+1-1
+Southampton
+38615
+Chelsea
+2-2
+Burnley
+38651
+Arsenal
+2-3
+Crystal Palace
+38648
+Cardiff
+0-2
+Liverpool
+38650
+Newcastle
+3-1
+Southampton
+38655
+Everton
+4-0
+Man Utd
+38652
+Bournemouth
+0-1
+Fulham
+38649
+Man City
+1-0
+Spurs
+38654
+Huddersfield
+1-2
+Watford
+38653
+West Ham
+2-2
+Leicester
+38656
+Wolves
+0-0
+Brighton
+38657
+Brighton
+0-2
+Cardiff
+38609
+Watford
+0-1
+Arsenal
+38647
+Liverpool
+2-0
+Chelsea
+38643
+Man Utd
+2-1
+West Ham
+38644
+Crystal Palace
+1-3
+Man City
+38640
+Leicester
+0-1
+Newcastle
+38642
+Spurs
+4-0
+Huddersfield
+38646
+Brighton
+0-5
+Bournemouth
+38638
+Burnley
+2-0
+Cardiff
+38639
+Fulham
+2-0
+Everton
+38641
+Southampton
+3-1
+Wolves
+38645
+Chelsea
+2-0
+West Ham
+38629
+Everton
+1-0
+Arsenal
+38630
+Southampton
+1-3
+Liverpool
+38634
+Bournemouth
+1-3
+Burnley
+38628
+Huddersfield
+1-4
+Leicester
+38631
+Newcastle
+0-1
+Crystal Palace
+38633
+Chelsea
+3-0
+Brighton
+38572
+Man City
+2-0
+Cardiff
+38632
+Spurs
+2-0
+Crystal Palace
+38614
+Watford
+4-1
+Fulham
+38636
+Wolves
+2-1
+Man Utd
+38637
+Arsenal
+2-0
+Newcastle
+38618
+Liverpool
+2-1
+Spurs
+38625
+Brighton
+0-1
+Southampton
+38619
+Burnley
+2-0
+Wolves
+38620
+Crystal Palace
+2-0
+Huddersfield
+38622
+Leicester
+2-0
+Bournemouth
+38624
+Man Utd
+2-1
+Watford
+38626
+West Ham
+0-2
+Everton
+38627
+Cardiff
+1-2
+Chelsea
+38621
+Fulham
+0-2
+Man City
+38623
+Everton
+2-0
+Chelsea
+38611
+Bournemouth
+2-2
+Newcastle
+38608
+Burnley
+1-2
+Leicester
+38610
+Fulham
+1-2
+Liverpool
+38612
+West Ham
+4-3
+Huddersfield
+38616
+Arsenal
+2-0
+Man Utd
+38598
+Cardiff
+2-0
+West Ham
+38599
+Huddersfield
+0-2
+Bournemouth
+38602
+Leicester
+3-1
+Fulham
+38603
+Newcastle
+3-2
+Everton
+38606
+Southampton
+2-1
+Spurs
+38607
+Man City
+3-1
+Watford
+38605
+Liverpool
+4-2
+Burnley
+38604
+Chelsea
+1-1
+Wolves
+38600
+Crystal Palace
+1-2
+Brighton
+38601
+Everton
+0-0
+Liverpool
+38591
+Bournemouth
+0-1
+Man City
+38588
+Brighton
+1-0
+Huddersfield
+38589
+Burnley
+1-3
+Crystal Palace
+38590
+Man Utd
+3-2
+Southampton
+38593
+Wolves
+2-0
+Cardiff
+38597
+West Ham
+2-0
+Newcastle
+38596
+Watford
+2-1
+Leicester
+38595
+Fulham
+1-2
+Chelsea
+38592
+Spurs
+1-1
+Arsenal
+38594
+Arsenal
+5-1
+Bournemouth
+38578
+Southampton
+2-0
+Fulham
+38587
+Chelsea
+2-0
+Spurs
+38583
+Crystal Palace
+1-3
+Man Utd
+38580
+Liverpool
+5-0
+Watford
+38584
+Man City
+1-0
+West Ham
+38585
+Cardiff
+0-3
+Everton
+38579
+Huddersfield
+1-0
+Wolves
+38581
+Leicester
+2-1
+Brighton
+38582
+Newcastle
+2-0
+Burnley
+38586
+Bournemouth
+1-1
+Wolves
+38569
+Newcastle
+2-0
+Huddersfield
+38576
+Leicester
+1-4
+Crystal Palace
+38574
+Arsenal
+2-0
+Southampton
+38568
+Man Utd
+0-0
+Liverpool
+38575
+Cardiff
+1-5
+Watford
+38571
+West Ham
+3-1
+Fulham
+38577
+Burnley
+2-1
+Spurs
+38570
+Wolves
+1-1
+Newcastle
+38567
+Man City
+6-0
+Chelsea
+38563
+Crystal Palace
+1-1
+West Ham
+38559
+Huddersfield
+1-2
+Arsenal
+38561
+Liverpool
+3-0
+Bournemouth
+38562
+Southampton
+1-2
+Cardiff
+38564
+Watford
+1-0
+Everton
+38566
+Brighton
+1-3
+Burnley
+38558
+Spurs
+3-1
+Leicester
+38565
+Fulham
+0-3
+Man Utd
+38560
+Everton
+0-2
+Man City
+38573
+West Ham
+1-1
+Liverpool
+38557
+Man City
+3-1
+Arsenal
+38555
+Brighton
+0-0
+Watford
+38548
+Burnley
+1-1
+Southampton
+38549
+Chelsea
+5-0
+Huddersfield
+38551
+Crystal Palace
+2-0
+Fulham
+38552
+Everton
+1-3
+Wolves
+38553
+Cardiff
+2-0
+Bournemouth
+38550
+Leicester
+0-1
+Man Utd
+38554
+Spurs
+1-0
+Newcastle
+38556
+Bournemouth
+4-0
+Chelsea
+38539
+Southampton
+1-1
+Crystal Palace
+38546
+Liverpool
+1-1
+Leicester
+38544
+Spurs
+2-1
+Watford
+38547
+Arsenal
+2-1
+Cardiff
+38538
+Fulham
+4-2
+Brighton
+38540
+Huddersfield
+0-1
+Everton
+38541
+Wolves
+3-0
+West Ham
+38543
+Man Utd
+2-2
+Burnley
+38542
+Newcastle
+2-1
+Man City
+38545
+Fulham
+1-2
+Spurs
+38530
+Bournemouth
+2-0
+West Ham
+38529
+Liverpool
+4-3
+Crystal Palace
+38532
+Man Utd
+2-1
+Brighton
+38533
+Newcastle
+3-0
+Cardiff
+38534
+Southampton
+2-1
+Everton
+38535
+Watford
+0-0
+Burnley
+38536
+Arsenal
+2-0
+Chelsea
+38528
+Huddersfield
+0-3
+Man City
+38531
+Wolves
+4-3
+Leicester
+38537
+Man City
+3-0
+Wolves
+38525
+Spurs
+0-1
+Man Utd
+38526
+Brighton
+0-1
+Liverpool
+38518
+Burnley
+2-1
+Fulham
+38519
+Cardiff
+0-0
+Huddersfield
+38520
+Crystal Palace
+1-2
+Watford
+38522
+Leicester
+1-2
+Southampton
+38524
+Chelsea
+2-1
+Newcastle
+38521
+Everton
+2-0
+Bournemouth
+38523
+West Ham
+1-0
+Arsenal
+38527
+Man City
+2-1
+Liverpool
+38514
+Bournemouth
+3-3
+Watford
+38509
+Chelsea
+0-0
+Southampton
+38511
+Huddersfield
+1-2
+Burnley
+38513
+West Ham
+2-2
+Brighton
+38516
+Wolves
+0-2
+Crystal Palace
+38517
+Newcastle
+0-2
+Man Utd
+38515
+Arsenal
+4-1
+Fulham
+38508
+Cardiff
+0-3
+Spurs
+38510
+Everton
+0-1
+Leicester
+38512
+Man Utd
+4-1
+Bournemouth
+38504
+Brighton
+1-0
+Everton
+38498
+Fulham
+1-0
+Huddersfield
+38501
+Leicester
+0-1
+Cardiff
+38502
+Spurs
+1-3
+Wolves
+38506
+Watford
+1-1
+Newcastle
+38507
+Liverpool
+5-1
+Arsenal
+38503
+Crystal Palace
+0-1
+Chelsea
+38500
+Burnley
+2-0
+West Ham
+38499
+Southampton
+1-3
+Man City
+38505
+Southampton
+1-2
+West Ham
+38495
+Burnley
+1-5
+Everton
+38489
+Crystal Palace
+0-0
+Cardiff
+38490
+Leicester
+2-1
+Man City
+38492
+Liverpool
+4-0
+Newcastle
+38493
+Man Utd
+3-1
+Huddersfield
+38494
+Spurs
+5-0
+Bournemouth
+38496
+Brighton
+1-1
+Arsenal
+38488
+Watford
+1-2
+Chelsea
+38497
+Fulham
+1-1
+Wolves
+38491
+Everton
+2-6
+Spurs
+38482
+Bournemouth
+2-0
+Brighton
+38479
+Chelsea
+0-1
+Leicester
+38481
+Huddersfield
+1-3
+Southampton
+38483
+Man City
+2-3
+Crystal Palace
+38484
+Newcastle
+0-0
+Fulham
+38485
+West Ham
+0-2
+Watford
+38486
+Cardiff
+1-5
+Man Utd
+38480
+Wolves
+0-2
+Liverpool
+38487
+Arsenal
+3-1
+Burnley
+38478
+Liverpool
+3-1
+Man Utd
+38472
+Crystal Palace
+1-0
+Leicester
+38469
+Huddersfield
+0-1
+Newcastle
+38471
+Spurs
+1-0
+Burnley
+38475
+Watford
+3-2
+Cardiff
+38476
+Wolves
+2-0
+Bournemouth
+38477
+Fulham
+0-2
+West Ham
+38470
+Brighton
+1-2
+Chelsea
+38468
+Southampton
+3-2
+Arsenal
+38474
+Man City
+3-1
+Everton
+38473
+Everton
+2-2
+Watford
+38463
+Newcastle
+1-2
+Wolves
+38466
+Arsenal
+1-0
+Huddersfield
+38458
+Burnley
+1-0
+Brighton
+38460
+Cardiff
+1-0
+Southampton
+38461
+Man Utd
+4-1
+Fulham
+38465
+West Ham
+3-2
+Crystal Palace
+38467
+Chelsea
+2-0
+Man City
+38462
+Leicester
+0-2
+Spurs
+38464
+Bournemouth
+0-4
+Liverpool
+38459
+Burnley
+1-3
+Liverpool
+38450
+Everton
+1-1
+Newcastle
+38456
+Fulham
+1-1
+Leicester
+38451
+Wolves
+2-1
+Chelsea
+38455
+Man Utd
+2-2
+Arsenal
+38452
+Spurs
+3-1
+Southampton
+38457
+Bournemouth
+2-1
+Huddersfield
+38448
+Brighton
+3-1
+Crystal Palace
+38449
+West Ham
+3-1
+Cardiff
+38454
+Watford
+1-2
+Man City
+38453
+Liverpool
+1-0
+Everton
+38444
+Crystal Palace
+2-0
+Burnley
+38441
+Huddersfield
+1-2
+Brighton
+38442
+Leicester
+2-0
+Watford
+38443
+Man City
+3-1
+Bournemouth
+38445
+Newcastle
+0-3
+West Ham
+38446
+Southampton
+2-2
+Man Utd
+38447
+Chelsea
+2-0
+Fulham
+38440
+Arsenal
+4-2
+Spurs
+38438
+Cardiff
+2-1
+Wolves
+38439
+Burnley
+1-2
+Newcastle
+38430
+Wolves
+0-2
+Huddersfield
+38437
+Brighton
+1-1
+Leicester
+38429
+Everton
+1-0
+Cardiff
+38431
+Fulham
+3-2
+Southampton
+38432
+Man Utd
+0-0
+Crystal Palace
+38433
+Watford
+0-3
+Liverpool
+38435
+West Ham
+0-4
+Man City
+38436
+Spurs
+3-1
+Chelsea
+38434
+Bournemouth
+1-2
+Arsenal
+38428
+Arsenal
+1-1
+Wolves
+38418
+Man City
+3-1
+Man Utd
+38425
+Huddersfield
+1-1
+West Ham
+38422
+Leicester
+0-0
+Burnley
+38423
+Newcastle
+2-1
+Bournemouth
+38426
+Southampton
+1-1
+Watford
+38427
+Crystal Palace
+0-1
+Spurs
+38421
+Liverpool
+2-0
+Fulham
+38424
+Chelsea
+0-0
+Everton
+38420
+Cardiff
+2-1
+Brighton
+38419
+Huddersfield
+1-0
+Fulham
+38413
+Man City
+6-1
+Southampton
+38414
+Chelsea
+3-1
+Crystal Palace
+38411
+Cardiff
+0-1
+Leicester
+38410
+Everton
+3-1
+Brighton
+38412
+Newcastle
+1-0
+Watford
+38415
+West Ham
+4-2
+Burnley
+38416
+Arsenal
+1-1
+Liverpool
+38408
+Wolves
+2-3
+Spurs
+38417
+Bournemouth
+1-2
+Man Utd
+38409
+Spurs
+0-1
+Man City
+38406
+Man Utd
+2-1
+Everton
+38404
+Leicester
+1-1
+West Ham
+38402
+Burnley
+0-4
+Chelsea
+38399
+Crystal Palace
+2-2
+Arsenal
+38400
+Brighton
+1-0
+Wolves
+38398
+Fulham
+0-3
+Bournemouth
+38401
+Liverpool
+4-1
+Cardiff
+38403
+Southampton
+0-0
+Newcastle
+38405
+Watford
+3-0
+Huddersfield
+38407
+Arsenal
+3-1
+Leicester
+38388
+Everton
+2-0
+Crystal Palace
+38392
+Huddersfield
+0-1
+Liverpool
+38393
+Chelsea
+2-2
+Man Utd
+38391
+Bournemouth
+0-0
+Southampton
+38389
+Cardiff
+4-2
+Fulham
+38390
+Man City
+5-0
+Burnley
+38394
+Newcastle
+0-1
+Brighton
+38395
+West Ham
+0-1
+Spurs
+38396
+Wolves
+0-2
+Watford
+38397
+Liverpool
+0-0
+Man City
+38383
+Man Utd
+3-2
+Newcastle
+38384
+Fulham
+1-5
+Arsenal
+38381
+Southampton
+0-3
+Chelsea
+38385
+Brighton
+1-0
+West Ham
+38378
+Burnley
+1-1
+Huddersfield
+38379
+Crystal Palace
+0-1
+Wolves
+38380
+Leicester
+1-2
+Everton
+38382
+Spurs
+1-0
+Cardiff
+38386
+Watford
+0-4
+Bournemouth
+38387
+Bournemouth
+2-1
+Crystal Palace
+38369
+Cardiff
+1-2
+Burnley
+38370
+Chelsea
+1-1
+Liverpool
+38371
+West Ham
+3-1
+Man Utd
+38376
+Arsenal
+2-0
+Watford
+38368
+Everton
+3-0
+Fulham
+38372
+Huddersfield
+0-2
+Spurs
+38373
+Man City
+2-0
+Brighton
+38374
+Newcastle
+0-2
+Leicester
+38375
+Wolves
+2-0
+Southampton
+38377
+Arsenal
+2-0
+Everton
+38358
+Brighton
+1-2
+Spurs
+38359
+West Ham
+0-0
+Chelsea
+38367
+Fulham
+1-1
+Watford
+38363
+Burnley
+4-0
+Bournemouth
+38360
+Cardiff
+0-5
+Man City
+38361
+Crystal Palace
+0-0
+Newcastle
+38362
+Leicester
+3-1
+Huddersfield
+38364
+Liverpool
+3-0
+Southampton
+38365
+Man Utd
+1-1
+Wolves
+38366
+Southampton
+2-2
+Brighton
+38354
+Everton
+1-3
+West Ham
+38350
+Watford
+1-2
+Man Utd
+38356
+Wolves
+1-0
+Burnley
+38357
+Spurs
+1-2
+Liverpool
+38355
+Bournemouth
+4-2
+Leicester
+38348
+Chelsea
+4-1
+Cardiff
+38349
+Huddersfield
+0-1
+Crystal Palace
+38351
+Man City
+3-0
+Fulham
+38352
+Newcastle
+1-2
+Arsenal
+38353
+Burnley
+0-2
+Man Utd
+38339
+Watford
+2-1
+Spurs
+38346
+Man City
+2-1
+Newcastle
+38345
+Cardiff
+2-3
+Arsenal
+38340
+Leicester
+1-2
+Liverpool
+38344
+Brighton
+2-2
+Fulham
+38338
+Chelsea
+2-0
+Bournemouth
+38341
+Crystal Palace
+0-2
+Southampton
+38342
+Everton
+1-1
+Huddersfield
+38343
+West Ham
+0-1
+Wolves
+38347
+Man Utd
+0-3
+Spurs
+38333
+Fulham
+4-2
+Burnley
+38330
+Newcastle
+1-2
+Chelsea
+38334
+Liverpool
+1-0
+Brighton
+38332
+Watford
+2-1
+Crystal Palace
+38336
+Wolves
+1-1
+Man City
+38337
+Arsenal
+3-1
+West Ham
+38328
+Bournemouth
+2-2
+Everton
+38329
+Huddersfield
+0-0
+Cardiff
+38331
+Southampton
+1-2
+Leicester
+38335
+Crystal Palace
+0-2
+Liverpool
+38322
+Brighton
+3-2
+Man Utd
+38318
+Chelsea
+3-2
+Arsenal
+38321
+Burnley
+1-3
+Watford
+38319
+Man City
+6-1
+Huddersfield
+38325
+Cardiff
+0-0
+Newcastle
+38320
+Everton
+2-1
+Southampton
+38323
+Leicester
+2-0
+Wolves
+38324
+Spurs
+3-1
+Fulham
+38326
+West Ham
+1-2
+Bournemouth
+38327
+Arsenal
+0-2
+Man City
+38308
+Wolves
+2-2
+Everton
+38317
+Liverpool
+4-0
+West Ham
+38312
+Southampton
+0-0
+Burnley
+38315
+Man Utd
+2-1
+Leicester
+38313
+Newcastle
+1-2
+Spurs
+38314
+Bournemouth
+2-0
+Cardiff
+38309
+Fulham
+0-2
+Crystal Palace
+38310
+Huddersfield
+0-3
+Chelsea
+38311
+Watford
+2-0
+Brighton
+38316

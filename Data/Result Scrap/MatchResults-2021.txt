@@ -1,0 +1,1520 @@
+Arsenal
+2-0
+Brighton
+59266
+Aston Villa
+2-1
+Chelsea
+59267
+Fulham
+0-2
+Newcastle
+59268
+Leeds
+3-1
+West Brom
+59269
+Leicester
+2-4
+Spurs
+59270
+Liverpool
+2-0
+Crystal Palace
+59271
+Man City
+5-0
+Everton
+59272
+Sheffield Utd
+1-0
+Burnley
+59273
+West Ham
+3-0
+Southampton
+59274
+Wolves
+1-2
+Man Utd
+59275
+Everton
+1-0
+Wolves
+59260
+Newcastle
+1-0
+Sheffield Utd
+59262
+Spurs
+1-2
+Aston Villa
+59264
+Crystal Palace
+1-3
+Arsenal
+59259
+Burnley
+0-3
+Liverpool
+59257
+West Brom
+1-3
+West Ham
+59265
+Man Utd
+1-1
+Fulham
+59261
+Southampton
+0-2
+Leeds
+59263
+Brighton
+3-2
+Man City
+59256
+Chelsea
+2-1
+Leicester
+59258
+West Brom
+1-2
+Liverpool
+59250
+Everton
+0-1
+Sheffield Utd
+59248
+Brighton
+1-1
+West Ham
+59246
+Crystal Palace
+3-2
+Aston Villa
+59252
+Spurs
+2-0
+Wolves
+59255
+Newcastle
+3-4
+Man City
+59253
+Burnley
+0-4
+Leeds
+59247
+Southampton
+3-1
+Fulham
+59254
+Aston Villa
+0-0
+Everton
+59077
+Man Utd
+2-4
+Liverpool
+59231
+Chelsea
+0-1
+Arsenal
+59251
+Man Utd
+1-2
+Leicester
+59249
+Southampton
+3-1
+Crystal Palace
+59214
+Fulham
+0-2
+Burnley
+59238
+West Ham
+0-1
+Everton
+59244
+Arsenal
+3-1
+West Brom
+59236
+Man City
+1-2
+Chelsea
+59242
+Liverpool
+2-0
+Southampton
+59241
+Wolves
+2-1
+Brighton
+59245
+Aston Villa
+1-3
+Man Utd
+59237
+Leicester
+2-4
+Newcastle
+59240
+Leeds
+3-1
+Spurs
+59239
+Sheffield Utd
+0-2
+Crystal Palace
+59243
+West Brom
+1-1
+Wolves
+59235
+Burnley
+1-2
+West Ham
+59227
+Spurs
+4-0
+Sheffield Utd
+59234
+Chelsea
+2-0
+Fulham
+59228
+Everton
+1-2
+Aston Villa
+59230
+Newcastle
+0-2
+Arsenal
+59232
+Southampton
+1-1
+Leicester
+59233
+Crystal Palace
+0-2
+Man City
+59229
+Brighton
+2-0
+Leeds
+59226
+Leicester
+2-1
+Crystal Palace
+59220
+Aston Villa
+2-2
+West Brom
+59217
+West Ham
+0-1
+Chelsea
+59224
+Sheffield Utd
+1-0
+Brighton
+59223
+Wolves
+0-4
+Burnley
+59225
+Leeds
+0-0
+Man Utd
+59219
+Arsenal
+0-1
+Everton
+59216
+Liverpool
+1-1
+Newcastle
+59221
+Leicester
+3-0
+West Brom
+59211
+Spurs
+2-1
+Southampton
+59183
+Aston Villa
+1-2
+Man City
+59207
+Chelsea
+0-0
+Brighton
+59208
+Leeds
+1-1
+Liverpool
+59210
+Man Utd
+3-1
+Burnley
+59212
+Wolves
+1-0
+Sheffield Utd
+59215
+Arsenal
+1-1
+Fulham
+59206
+Everton
+2-2
+Spurs
+59209
+Newcastle
+3-2
+West Ham
+59213
+West Brom
+3-0
+Southampton
+59204
+Brighton
+0-0
+Everton
+59196
+Spurs
+1-3
+Man Utd
+59203
+Sheffield Utd
+0-3
+Arsenal
+59202
+Crystal Palace
+1-4
+Chelsea
+59198
+Burnley
+1-2
+Newcastle
+59197
+West Ham
+3-2
+Leicester
+59205
+Fulham
+0-1
+Wolves
+59199
+Man City
+1-2
+Leeds
+59201
+Liverpool
+2-1
+Aston Villa
+59200
+Everton
+1-1
+Crystal Palace
+59189
+Wolves
+2-3
+West Ham
+59195
+Aston Villa
+3-1
+Fulham
+59187
+Man Utd
+2-1
+Brighton
+59192
+Leicester
+0-2
+Man City
+59191
+Arsenal
+0-3
+Liverpool
+59186
+Southampton
+3-2
+Burnley
+59194
+Newcastle
+2-2
+Spurs
+59193
+Chelsea
+2-5
+West Brom
+59188
+Leeds
+2-1
+Sheffield Utd
+59190
+West Ham
+3-3
+Arsenal
+59185
+Aston Villa
+0-2
+Spurs
+59067
+Brighton
+3-0
+Newcastle
+59176
+Fulham
+1-2
+Leeds
+59179
+Wolves
+0-1
+Liverpool
+59175
+Arsenal
+2-1
+Spurs
+59166
+Man Utd
+1-0
+West Ham
+59172
+Crystal Palace
+1-0
+West Brom
+59167
+Everton
+1-2
+Burnley
+59168
+Fulham
+0-3
+Man City
+59169
+Southampton
+1-2
+Brighton
+59174
+Leicester
+5-0
+Sheffield Utd
+59171
+Newcastle
+1-1
+Aston Villa
+59173
+Leeds
+0-0
+Chelsea
+59170
+Man City
+5-2
+Southampton
+59222
+Chelsea
+2-0
+Everton
+59159
+West Ham
+2-0
+Leeds
+59165
+Man City
+0-2
+Man Utd
+59161
+Spurs
+4-1
+Crystal Palace
+59163
+Sheffield Utd
+0-2
+Southampton
+59162
+Aston Villa
+0-0
+Wolves
+59156
+Brighton
+1-2
+Leicester
+59157
+West Brom
+0-0
+Newcastle
+59164
+Liverpool
+0-1
+Fulham
+59160
+Burnley
+1-1
+Arsenal
+59158
+Fulham
+0-1
+Spurs
+59218
+West Brom
+0-1
+Everton
+59184
+Liverpool
+0-1
+Chelsea
+59180
+Burnley
+1-1
+Leicester
+59177
+Crystal Palace
+0-0
+Man Utd
+59178
+Sheffield Utd
+1-0
+Aston Villa
+59182
+Man City
+4-1
+Wolves
+59181
+Everton
+1-0
+Southampton
+59148
+Chelsea
+0-0
+Man Utd
+59146
+Sheffield Utd
+0-2
+Liverpool
+59153
+West Brom
+1-0
+Brighton
+59155
+Leeds
+0-1
+Aston Villa
+59149
+Newcastle
+1-1
+Wolves
+59152
+Crystal Palace
+0-0
+Fulham
+59147
+Leicester
+1-3
+Arsenal
+59150
+Spurs
+4-0
+Burnley
+59154
+Man City
+2-1
+West Ham
+59151
+Leeds
+3-0
+Southampton
+59069
+Brighton
+1-2
+Crystal Palace
+59138
+Arsenal
+0-1
+Man City
+59136
+Man Utd
+3-1
+Newcastle
+59142
+Burnley
+0-0
+West Brom
+59139
+Liverpool
+0-2
+Everton
+59141
+Fulham
+1-0
+Sheffield Utd
+59140
+West Ham
+2-1
+Spurs
+59144
+Aston Villa
+1-2
+Leicester
+59137
+Wolves
+1-0
+Leeds
+59145
+Southampton
+1-1
+Chelsea
+59143
+Burnley
+1-1
+Fulham
+59057
+Everton
+1-3
+Man City
+59050
+West Ham
+3-0
+Sheffield Utd
+59135
+Chelsea
+2-0
+Newcastle
+59128
+Arsenal
+4-2
+Leeds
+59126
+Everton
+0-2
+Fulham
+59130
+Crystal Palace
+0-3
+Burnley
+59129
+Man City
+3-0
+Spurs
+59132
+Brighton
+0-0
+Aston Villa
+59127
+Southampton
+1-2
+Wolves
+59133
+West Brom
+1-1
+Man Utd
+59134
+Leicester
+3-1
+Liverpool
+59131
+Leeds
+2-0
+Crystal Palace
+59119
+Liverpool
+1-4
+Man City
+59120
+Sheffield Utd
+1-2
+Chelsea
+59123
+Spurs
+2-0
+West Brom
+59124
+Wolves
+0-0
+Leicester
+59125
+Burnley
+1-1
+Brighton
+59117
+Newcastle
+3-2
+Southampton
+59122
+Fulham
+0-0
+West Ham
+59118
+Man Utd
+3-3
+Everton
+59121
+Aston Villa
+1-0
+Arsenal
+59116
+Spurs
+0-1
+Chelsea
+59115
+Burnley
+0-2
+Man City
+59107
+Fulham
+0-2
+Leicester
+59108
+Leeds
+1-2
+Everton
+59109
+Aston Villa
+1-3
+West Ham
+59106
+Liverpool
+0-1
+Brighton
+59113
+Sheffield Utd
+2-1
+West Brom
+59111
+Wolves
+2-1
+Arsenal
+59112
+Man Utd
+9-0
+Southampton
+59110
+Newcastle
+1-2
+Crystal Palace
+59114
+West Ham
+1-3
+Liverpool
+59105
+Brighton
+1-0
+Spurs
+59097
+Crystal Palace
+1-0
+Wolves
+59099
+Man City
+1-0
+Sheffield Utd
+59102
+West Brom
+2-2
+Fulham
+59104
+Arsenal
+0-0
+Man Utd
+59096
+Southampton
+0-1
+Aston Villa
+59103
+Chelsea
+2-0
+Burnley
+59098
+Leicester
+1-3
+Leeds
+59101
+Everton
+0-2
+Newcastle
+59100
+Spurs
+1-3
+Liverpool
+59095
+Burnley
+3-2
+Aston Villa
+59087
+Chelsea
+0-0
+Wolves
+59091
+Brighton
+0-0
+Fulham
+59086
+Everton
+1-1
+Leicester
+59088
+Man Utd
+1-2
+Sheffield Utd
+59089
+Crystal Palace
+2-3
+West Ham
+59092
+Newcastle
+1-2
+Leeds
+59093
+Southampton
+1-3
+Arsenal
+59094
+West Brom
+0-5
+Man City
+59090
+Aston Villa
+2-0
+Newcastle
+58996
+Liverpool
+0-1
+Burnley
+59074
+Man City
+2-0
+Aston Villa
+58900
+Fulham
+1-2
+Man Utd
+59068
+Leicester
+2-0
+Chelsea
+59070
+West Ham
+2-1
+West Brom
+59072
+Arsenal
+3-0
+Newcastle
+59076
+Liverpool
+0-0
+Man Utd
+59081
+Man City
+4-0
+Crystal Palace
+59082
+Leeds
+0-1
+Brighton
+59079
+West Ham
+1-0
+Burnley
+59084
+Fulham
+0-1
+Chelsea
+59078
+Leicester
+2-0
+Southampton
+59080
+Sheffield Utd
+1-3
+Spurs
+59083
+Wolves
+2-3
+West Brom
+59085
+Arsenal
+0-0
+Crystal Palace
+59066
+Man City
+1-0
+Brighton
+59075
+Spurs
+1-1
+Fulham
+59054
+Sheffield Utd
+1-0
+Newcastle
+59071
+Burnley
+0-1
+Man Utd
+58896
+Wolves
+1-2
+Everton
+59073
+Southampton
+1-0
+Liverpool
+59063
+Chelsea
+1-3
+Man City
+59058
+Crystal Palace
+2-0
+Sheffield Utd
+59059
+Brighton
+3-3
+Wolves
+59056
+West Brom
+0-4
+Arsenal
+59065
+Newcastle
+1-2
+Leicester
+59062
+Everton
+0-1
+West Ham
+59060
+Man Utd
+2-1
+Aston Villa
+59061
+Spurs
+3-0
+Leeds
+59064
+Newcastle
+0-0
+Liverpool
+59052
+Brighton
+0-1
+Arsenal
+59046
+Burnley
+1-0
+Sheffield Utd
+59047
+Southampton
+0-0
+West Ham
+59053
+West Brom
+0-5
+Leeds
+59055
+Man Utd
+1-0
+Wolves
+59051
+Crystal Palace
+1-1
+Leicester
+59049
+Chelsea
+1-1
+Aston Villa
+59048
+Liverpool
+1-1
+West Brom
+59041
+Wolves
+1-1
+Spurs
+59045
+Arsenal
+3-1
+Chelsea
+59036
+Man City
+2-0
+Newcastle
+59042
+Sheffield Utd
+0-1
+Everton
+59043
+Leeds
+1-0
+Burnley
+59039
+West Ham
+2-2
+Brighton
+59044
+Aston Villa
+3-0
+Crystal Palace
+59037
+Fulham
+0-0
+Southampton
+59038
+Leicester
+2-2
+Man Utd
+59040
+Burnley
+2-1
+Wolves
+59027
+Chelsea
+3-0
+West Ham
+59028
+Man Utd
+6-2
+Leeds
+59031
+West Brom
+0-3
+Aston Villa
+59035
+Southampton
+0-1
+Man City
+59033
+Everton
+2-1
+Arsenal
+59030
+Newcastle
+1-1
+Fulham
+59032
+Brighton
+1-1
+Sheffield Utd
+59026
+Spurs
+0-2
+Leicester
+59034
+Crystal Palace
+0-7
+Liverpool
+59029
+Aston Villa
+0-0
+Burnley
+59017
+Sheffield Utd
+2-3
+Man Utd
+59021
+Arsenal
+1-1
+Southampton
+59016
+Leeds
+5-2
+Newcastle
+59019
+Leicester
+0-2
+Everton
+59020
+Fulham
+0-0
+Brighton
+59018
+Liverpool
+2-1
+Spurs
+59024
+West Ham
+1-1
+Crystal Palace
+59022
+Wolves
+2-1
+Chelsea
+59023
+Man City
+1-1
+West Brom
+59025
+Fulham
+1-1
+Liverpool
+59009
+Arsenal
+0-1
+Burnley
+59006
+Leicester
+3-0
+Brighton
+59011
+Newcastle
+2-1
+West Brom
+59013
+Man Utd
+0-0
+Man City
+59012
+Everton
+1-0
+Chelsea
+59008
+Southampton
+3-0
+Sheffield Utd
+59014
+Crystal Palace
+1-1
+Spurs
+59007
+Leeds
+1-2
+West Ham
+59010
+Wolves
+0-1
+Aston Villa
+59015
+Brighton
+1-2
+Southampton
+58997
+Spurs
+2-0
+Arsenal
+59003
+Liverpool
+4-0
+Wolves
+59000
+West Ham
+1-3
+Man Utd
+59005
+Chelsea
+3-1
+Leeds
+58999
+West Brom
+1-5
+Crystal Palace
+59004
+Sheffield Utd
+1-2
+Leicester
+59002
+Man City
+2-0
+Fulham
+59001
+Burnley
+1-1
+Everton
+58998
+Leicester
+1-2
+Fulham
+58991
+West Ham
+2-1
+Aston Villa
+58995
+Chelsea
+0-0
+Spurs
+58988
+Arsenal
+1-2
+Wolves
+58986
+Man City
+5-0
+Burnley
+58992
+Everton
+0-1
+Leeds
+58990
+West Brom
+1-0
+Sheffield Utd
+58994
+Southampton
+2-3
+Man Utd
+58993
+Crystal Palace
+0-2
+Newcastle
+58989
+Brighton
+1-1
+Liverpool
+58987
+Burnley
+1-0
+Crystal Palace
+58977
+Wolves
+1-1
+Southampton
+58985
+Leeds
+0-0
+Arsenal
+58979
+Liverpool
+3-0
+Leicester
+58980
+Aston Villa
+1-2
+Brighton
+58976
+Spurs
+2-0
+Man City
+58984
+Man Utd
+1-0
+West Brom
+58981
+Fulham
+2-3
+Everton
+58978
+Sheffield Utd
+0-1
+West Ham
+58983
+Newcastle
+0-2
+Chelsea
+58982
+Man City
+1-1
+Liverpool
+58972
+Arsenal
+0-3
+Aston Villa
+58966
+Crystal Palace
+4-1
+Leeds
+58969
+Chelsea
+4-1
+Sheffield Utd
+58968
+West Ham
+1-0
+Fulham
+58975
+West Brom
+0-1
+Spurs
+58974
+Leicester
+1-0
+Wolves
+58971
+Brighton
+0-0
+Burnley
+58967
+Southampton
+2-0
+Newcastle
+58973
+Everton
+1-3
+Man Utd
+58970
+Fulham
+2-0
+West Brom
+58958
+Leeds
+1-4
+Leicester
+58959
+Man Utd
+0-1
+Arsenal
+58961
+Spurs
+2-1
+Brighton
+58964
+Burnley
+0-3
+Chelsea
+58957
+Liverpool
+2-1
+West Ham
+58960
+Aston Villa
+3-4
+Southampton
+58956
+Newcastle
+2-1
+Everton
+58962
+Wolves
+2-0
+Crystal Palace
+58965
+Sheffield Utd
+0-1
+Man City
+58963
+Brighton
+1-1
+West Brom
+58948
+Burnley
+0-1
+Spurs
+58949
+Wolves
+1-1
+Newcastle
+58955
+Arsenal
+0-1
+Leicester
+58946
+Man Utd
+0-0
+Chelsea
+58952
+Liverpool
+2-1
+Sheffield Utd
+58951
+Southampton
+2-0
+Everton
+58953
+Aston Villa
+0-3
+Leeds
+58947
+West Ham
+1-1
+Man City
+58954
+Fulham
+1-2
+Crystal Palace
+58950
+West Brom
+0-0
+Burnley
+58945
+Leeds
+0-1
+Wolves
+58939
+Spurs
+3-3
+West Ham
+58944
+Leicester
+0-1
+Aston Villa
+58940
+Man City
+1-0
+Arsenal
+58941
+Newcastle
+1-4
+Man Utd
+58942
+Sheffield Utd
+1-1
+Fulham
+58943
+Crystal Palace
+1-1
+Brighton
+58937
+Everton
+2-2
+Liverpool
+58938
+Chelsea
+3-3
+Southampton
+58936
+Man Utd
+1-6
+Spurs
+58932
+Aston Villa
+7-2
+Liverpool
+58927
+Leeds
+1-1
+Man City
+58930
+Newcastle
+3-1
+Burnley
+58933
+Leicester
+0-3
+West Ham
+58931
+Southampton
+2-0
+West Brom
+58934
+Arsenal
+2-1
+Sheffield Utd
+58926
+Wolves
+1-0
+Fulham
+58935
+Chelsea
+4-0
+Crystal Palace
+58928
+Everton
+4-2
+Brighton
+58929
+Fulham
+0-3
+Aston Villa
+58919
+Liverpool
+3-1
+Arsenal
+58920
+Man City
+2-5
+Leicester
+58921
+West Ham
+4-0
+Wolves
+58925
+West Brom
+3-3
+Chelsea
+58924
+Burnley
+0-1
+Southampton
+58917
+Sheffield Utd
+0-1
+Leeds
+58922
+Spurs
+1-1
+Newcastle
+58923
+Brighton
+2-3
+Man Utd
+58916
+Crystal Palace
+1-2
+Everton
+58918
+Aston Villa
+1-0
+Sheffield Utd
+58907
+Wolves
+1-3
+Man City
+58915
+Chelsea
+0-2
+Liverpool
+58908
+Leicester
+4-2
+Burnley
+58911
+Man Utd
+1-3
+Crystal Palace
+58912
+Arsenal
+2-1
+West Ham
+58906
+Southampton
+2-5
+Spurs
+58914
+Newcastle
+0-3
+Brighton
+58913
+Everton
+5-2
+West Brom
+58909
+Leeds
+4-3
+Fulham
+58910
+Sheffield Utd
+0-2
+Wolves
+58905
+Brighton
+1-3
+Chelsea
+58904
+Spurs
+0-1
+Everton
+58901
+Liverpool
+4-3
+Leeds
+58899
+West Ham
+0-2
+Newcastle
+58903
+West Brom
+0-3
+Leicester
+58902
+Fulham
+0-3
+Arsenal
+58898
+Crystal Palace
+1-0
+Southampton
+58897

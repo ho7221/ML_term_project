@@ -1,0 +1,584 @@
+Fulham
+1-2
+Man Utd
+75063
+Bournemouth
+3-0
+Everton
+75061
+Liverpool
+3-1
+Southampton
+75064
+Nott'm Forest
+1-0
+Crystal Palace
+75067
+Spurs
+4-3
+Leeds
+75068
+West Ham
+0-2
+Leicester
+75069
+Newcastle
+1-0
+Chelsea
+75066
+Wolves
+0-2
+Arsenal
+75070
+Brighton
+1-2
+Aston Villa
+75062
+Man City
+1-2
+Brentford
+75065
+Spurs
+1-2
+Liverpool
+75058
+Leeds
+4-3
+Bournemouth
+75054
+Man City
+2-1
+Fulham
+75055
+Nott'm Forest
+2-2
+Brentford
+75056
+Wolves
+2-3
+Brighton
+75060
+Everton
+0-2
+Leicester
+75053
+Chelsea
+0-1
+Arsenal
+75052
+Aston Villa
+3-1
+Man Utd
+75051
+Southampton
+1-4
+Newcastle
+75057
+West Ham
+1-2
+Crystal Palace
+75059
+Man Utd
+1-0
+West Ham
+75049
+Fulham
+0-0
+Everton
+75046
+Liverpool
+1-2
+Leeds
+75048
+Arsenal
+5-0
+Nott'm Forest
+75041
+Leicester
+0-1
+Man City
+75047
+Bournemouth
+2-3
+Spurs
+75042
+Brentford
+1-1
+Wolves
+75043
+Brighton
+4-1
+Chelsea
+75044
+Crystal Palace
+1-0
+Southampton
+75045
+Newcastle
+4-0
+Aston Villa
+75050
+West Ham
+2-0
+Bournemouth
+75039
+Spurs
+1-2
+Newcastle
+75038
+Chelsea
+1-1
+Man Utd
+75032
+Aston Villa
+4-0
+Brentford
+75031
+Leeds
+2-3
+Fulham
+75034
+Southampton
+1-1
+Arsenal
+75037
+Wolves
+0-4
+Leicester
+75040
+Nott'm Forest
+1-0
+Liverpool
+75036
+Everton
+3-0
+Crystal Palace
+75033
+Man City
+3-1
+Brighton
+75035
+Fulham
+3-0
+Aston Villa
+75026
+Leicester
+2-0
+Leeds
+75027
+Bournemouth
+0-1
+Southampton
+75022
+Brentford
+0-0
+Chelsea
+75023
+Liverpool
+1-0
+West Ham
+75028
+Newcastle
+1-0
+Everton
+75030
+Man Utd
+2-0
+Spurs
+75029
+Brighton
+0-0
+Nott'm Forest
+75024
+Crystal Palace
+2-1
+Wolves
+75025
+Liverpool
+1-0
+Man City
+75016
+Spurs
+2-0
+Everton
+75019
+Aston Villa
+0-2
+Chelsea
+75011
+Leeds
+0-1
+Arsenal
+75014
+Man Utd
+0-0
+Newcastle
+75017
+Southampton
+1-1
+West Ham
+75018
+Brentford
+2-0
+Brighton
+75012
+Leicester
+0-0
+Crystal Palace
+75015
+Fulham
+2-2
+Bournemouth
+75013
+Wolves
+1-0
+Nott'm Forest
+75020
+Nott'm Forest
+1-1
+Aston Villa
+75009
+Arsenal
+3-2
+Liverpool
+75001
+Everton
+1-2
+Man Utd
+75006
+Brighton
+0-1
+Spurs
+75003
+Crystal Palace
+2-1
+Leeds
+75005
+West Ham
+3-1
+Fulham
+75010
+Bournemouth
+2-1
+Leicester
+75002
+Chelsea
+3-0
+Wolves
+75004
+Man City
+4-0
+Southampton
+75007
+Newcastle
+5-1
+Brentford
+75008
+Leicester
+4-0
+Nott'm Forest
+74996
+Leeds
+0-0
+Aston Villa
+74995
+West Ham
+2-0
+Wolves
+75000
+Man City
+6-3
+Man Utd
+74998
+Arsenal
+3-1
+Spurs
+74991
+Bournemouth
+0-0
+Brentford
+74992
+Crystal Palace
+1-2
+Chelsea
+74993
+Fulham
+1-4
+Newcastle
+74994
+Liverpool
+3-3
+Brighton
+74997
+Southampton
+1-2
+Everton
+74999
+Everton
+1-0
+West Ham
+74985
+Spurs
+6-2
+Leicester
+74989
+Brentford
+0-3
+Arsenal
+74982
+Aston Villa
+1-0
+Southampton
+74981
+Nott'm Forest
+2-3
+Fulham
+74988
+Wolves
+0-3
+Man City
+74990
+Newcastle
+1-1
+Bournemouth
+74987
+Man Utd
+3-1
+Arsenal
+74966
+Aston Villa
+1-1
+Man City
+74961
+Brighton
+5-2
+Leicester
+74963
+Everton
+0-0
+Liverpool
+74965
+Brentford
+5-2
+Leeds
+74962
+Chelsea
+2-1
+West Ham
+74964
+Newcastle
+0-0
+Crystal Palace
+74967
+Nott'm Forest
+2-3
+Bournemouth
+74968
+Spurs
+2-1
+Fulham
+74969
+Wolves
+1-0
+Southampton
+74970
+Leicester
+0-1
+Man Utd
+74956
+Arsenal
+2-1
+Aston Villa
+74951
+Bournemouth
+0-0
+Wolves
+74952
+Man City
+6-0
+Nott'm Forest
+74959
+West Ham
+1-1
+Spurs
+74957
+Liverpool
+2-1
+Newcastle
+74958
+Crystal Palace
+1-1
+Brentford
+74953
+Fulham
+2-1
+Brighton
+74954
+Southampton
+2-1
+Chelsea
+74960
+Leeds
+1-1
+Everton
+74955
+Nott'm Forest
+0-2
+Spurs
+74948
+Arsenal
+2-1
+Fulham
+74941
+Aston Villa
+0-1
+West Ham
+74942
+Wolves
+1-1
+Newcastle
+74950
+Southampton
+0-1
+Man Utd
+74949
+Brentford
+1-1
+Everton
+74943
+Brighton
+1-0
+Leeds
+74944
+Chelsea
+2-1
+Leicester
+74945
+Liverpool
+9-0
+Bournemouth
+74946
+Man City
+4-2
+Crystal Palace
+74947
+Man Utd
+2-1
+Liverpool
+74937
+Newcastle
+3-3
+Man City
+74938
+Leeds
+3-0
+Chelsea
+74935
+West Ham
+0-2
+Brighton
+74940
+Bournemouth
+0-3
+Arsenal
+74931
+Spurs
+1-0
+Wolves
+74939
+Crystal Palace
+3-1
+Aston Villa
+74932
+Everton
+1-1
+Nott'm Forest
+74933
+Fulham
+3-2
+Brentford
+74934
+Leicester
+1-2
+Southampton
+74936
+Liverpool
+1-1
+Crystal Palace
+74926
+Chelsea
+2-2
+Spurs
+74925
+Brentford
+4-0
+Man Utd
+74923
+Nott'm Forest
+1-0
+West Ham
+74928
+Aston Villa
+2-1
+Everton
+74922
+Arsenal
+4-2
+Leicester
+74921
+Brighton
+0-0
+Newcastle
+74924
+Man City
+4-0
+Bournemouth
+74927
+Southampton
+2-2
+Leeds
+74929
+Wolves
+0-0
+Fulham
+74930
+West Ham
+0-2
+Man City
+74920
+Everton
+0-1
+Chelsea
+74913
+Leicester
+2-2
+Brentford
+74916
+Man Utd
+1-2
+Brighton
+74919
+Crystal Palace
+0-2
+Arsenal
+74911
+Fulham
+2-2
+Liverpool
+74914
+Bournemouth
+2-0
+Aston Villa
+74912
+Leeds
+2-1
+Wolves
+74915
+Newcastle
+2-0
+Nott'm Forest
+74917
+Spurs
+4-1
+Southampton
+74918

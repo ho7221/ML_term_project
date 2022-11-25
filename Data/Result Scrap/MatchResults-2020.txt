@@ -1,0 +1,1520 @@
+Arsenal
+3-2
+Watford
+46975
+Burnley
+1-2
+Brighton
+46976
+Chelsea
+2-0
+Wolves
+46977
+Crystal Palace
+1-1
+Spurs
+46978
+Everton
+1-3
+Bournemouth
+46979
+Leicester
+0-2
+Man Utd
+46980
+Man City
+5-0
+Norwich
+46981
+Newcastle
+1-3
+Liverpool
+46982
+Southampton
+3-1
+Sheffield Utd
+46983
+West Ham
+1-1
+Aston Villa
+46984
+Man Utd
+1-1
+West Ham
+46969
+Liverpool
+5-3
+Chelsea
+46968
+Watford
+0-4
+Man City
+46973
+Aston Villa
+1-0
+Arsenal
+46965
+Brighton
+0-0
+Newcastle
+46967
+Sheffield Utd
+0-1
+Everton
+46971
+Wolves
+2-0
+Crystal Palace
+46974
+Spurs
+3-0
+Leicester
+46972
+Norwich
+0-2
+Burnley
+46970
+Bournemouth
+0-2
+Southampton
+46966
+West Ham
+3-1
+Watford
+46964
+Everton
+1-1
+Aston Villa
+46959
+Leicester
+2-0
+Sheffield Utd
+46960
+Crystal Palace
+0-2
+Man Utd
+46958
+Southampton
+1-1
+Brighton
+46963
+Burnley
+1-1
+Wolves
+46956
+Man City
+2-1
+Bournemouth
+46961
+Newcastle
+1-3
+Spurs
+46962
+Arsenal
+2-1
+Liverpool
+46955
+Chelsea
+1-0
+Norwich
+46957
+Man Utd
+2-2
+Southampton
+46949
+Spurs
+2-1
+Arsenal
+46952
+Bournemouth
+4-1
+Leicester
+46946
+Sheffield Utd
+3-0
+Chelsea
+46951
+Brighton
+0-5
+Man City
+46947
+Wolves
+3-0
+Everton
+46954
+Aston Villa
+2-0
+Crystal Palace
+46945
+Norwich
+0-4
+West Ham
+46950
+Watford
+2-1
+Newcastle
+46953
+Liverpool
+1-1
+Burnley
+46948
+Bournemouth
+0-0
+Spurs
+46937
+Everton
+1-1
+Southampton
+46940
+Aston Villa
+0-3
+Man Utd
+46936
+Man City
+5-0
+Newcastle
+46941
+Sheffield Utd
+1-0
+Wolves
+46942
+West Ham
+0-1
+Burnley
+46944
+Brighton
+1-3
+Liverpool
+46938
+Crystal Palace
+2-3
+Chelsea
+46939
+Watford
+2-1
+Norwich
+46943
+Arsenal
+1-1
+Leicester
+46935
+Spurs
+1-0
+Everton
+46933
+Liverpool
+2-0
+Aston Villa
+46928
+Southampton
+1-0
+Man City
+46932
+Wolves
+0-2
+Arsenal
+46934
+Chelsea
+3-0
+Watford
+46926
+Burnley
+1-1
+Sheffield Utd
+46925
+Newcastle
+2-2
+West Ham
+46930
+Norwich
+0-1
+Brighton
+46931
+Leicester
+3-0
+Crystal Palace
+46927
+Man Utd
+5-2
+Bournemouth
+46929
+Sheffield Utd
+3-1
+Spurs
+46922
+Man City
+4-0
+Liverpool
+46921
+Arsenal
+4-0
+Norwich
+46915
+Bournemouth
+1-4
+Newcastle
+46917
+Everton
+2-1
+Leicester
+46920
+West Ham
+3-2
+Chelsea
+46924
+Brighton
+0-3
+Man Utd
+46918
+Crystal Palace
+0-1
+Burnley
+46919
+Watford
+1-3
+Southampton
+46923
+Aston Villa
+0-1
+Wolves
+46916
+Burnley
+1-0
+Watford
+46905
+Southampton
+0-2
+Arsenal
+46912
+Chelsea
+2-1
+Man City
+46906
+Man Utd
+3-0
+Sheffield Utd
+46909
+Newcastle
+1-1
+Aston Villa
+46910
+Norwich
+0-1
+Everton
+46911
+Wolves
+1-0
+Bournemouth
+46914
+Liverpool
+4-0
+Crystal Palace
+46908
+Leicester
+0-0
+Brighton
+46907
+Spurs
+2-0
+West Ham
+46913
+Man City
+5-0
+Burnley
+46899
+Aston Villa
+1-2
+Chelsea
+46895
+Everton
+0-0
+Liverpool
+46898
+West Ham
+0-2
+Wolves
+46904
+Bournemouth
+0-2
+Crystal Palace
+46896
+Newcastle
+3-0
+Sheffield Utd
+46900
+Norwich
+0-3
+Southampton
+46901
+Spurs
+1-1
+Man Utd
+46902
+Watford
+1-1
+Leicester
+46903
+Brighton
+2-1
+Arsenal
+46897
+Aston Villa
+0-0
+Sheffield Utd
+46875
+Man City
+3-0
+Arsenal
+46879
+Leicester
+4-0
+Aston Villa
+46889
+Man Utd
+2-0
+Man City
+46891
+Arsenal
+1-0
+West Ham
+46885
+Crystal Palace
+1-0
+Watford
+46888
+Sheffield Utd
+1-0
+Norwich
+46892
+Southampton
+0-1
+Newcastle
+46893
+Wolves
+0-0
+Brighton
+46894
+Burnley
+1-1
+Spurs
+46886
+Chelsea
+4-0
+Everton
+46887
+Liverpool
+2-1
+Bournemouth
+46890
+Bournemouth
+2-2
+Chelsea
+46876
+Newcastle
+0-0
+Burnley
+46880
+West Ham
+3-1
+Southampton
+46884
+Watford
+3-0
+Liverpool
+46883
+Everton
+1-1
+Man Utd
+46878
+Spurs
+2-3
+Wolves
+46882
+Norwich
+1-0
+Leicester
+46881
+Brighton
+0-1
+Crystal Palace
+46877
+Liverpool
+3-2
+West Ham
+46870
+Arsenal
+3-2
+Everton
+46865
+Burnley
+3-0
+Bournemouth
+46866
+Crystal Palace
+1-0
+Newcastle
+46868
+Sheffield Utd
+1-1
+Brighton
+46872
+Southampton
+2-0
+Aston Villa
+46873
+Leicester
+0-1
+Man City
+46869
+Man Utd
+3-0
+Watford
+46871
+Wolves
+3-0
+Norwich
+46874
+Chelsea
+2-1
+Spurs
+46867
+Man City
+2-0
+West Ham
+46860
+Chelsea
+0-2
+Man Utd
+46858
+Arsenal
+4-0
+Newcastle
+46855
+Norwich
+0-1
+Liverpool
+46861
+Aston Villa
+2-3
+Spurs
+46856
+Wolves
+0-0
+Leicester
+46864
+Southampton
+1-2
+Burnley
+46863
+Brighton
+1-1
+Watford
+46857
+Sheffield Utd
+2-1
+Bournemouth
+46862
+Everton
+3-1
+Crystal Palace
+46859
+Spurs
+2-0
+Man City
+46852
+Bournemouth
+2-1
+Aston Villa
+46845
+Crystal Palace
+0-1
+Sheffield Utd
+46847
+Liverpool
+4-0
+Southampton
+46849
+Newcastle
+0-0
+Norwich
+46851
+Watford
+2-3
+Everton
+46853
+West Ham
+3-3
+Brighton
+46854
+Man Utd
+0-0
+Wolves
+46850
+Burnley
+0-0
+Arsenal
+46846
+Leicester
+2-2
+Chelsea
+46848
+West Ham
+0-2
+Liverpool
+46784
+Wolves
+1-2
+Liverpool
+46841
+Leicester
+4-1
+West Ham
+46838
+Spurs
+2-1
+Norwich
+46844
+Man Utd
+0-2
+Burnley
+46839
+Aston Villa
+2-1
+Watford
+46835
+Bournemouth
+3-1
+Brighton
+46836
+Crystal Palace
+0-2
+Southampton
+46843
+Everton
+2-2
+Newcastle
+46837
+Sheffield Utd
+0-1
+Man City
+46840
+Chelsea
+2-2
+Arsenal
+46842
+Liverpool
+2-0
+Man Utd
+46828
+Arsenal
+1-1
+Sheffield Utd
+46825
+Brighton
+1-1
+Aston Villa
+46826
+Man City
+2-2
+Crystal Palace
+46829
+Norwich
+1-0
+Bournemouth
+46831
+Southampton
+2-3
+Wolves
+46832
+West Ham
+1-1
+Everton
+46834
+Newcastle
+1-0
+Chelsea
+46830
+Burnley
+2-1
+Leicester
+46827
+Watford
+0-0
+Spurs
+46833
+Aston Villa
+1-6
+Man City
+46815
+Chelsea
+3-0
+Burnley
+46817
+Everton
+1-0
+Brighton
+46819
+Leicester
+1-2
+Southampton
+46820
+Man Utd
+4-0
+Norwich
+46821
+Wolves
+1-1
+Newcastle
+46824
+Spurs
+0-1
+Liverpool
+46823
+Bournemouth
+0-3
+Watford
+46816
+Sheffield Utd
+1-0
+West Ham
+46822
+Crystal Palace
+1-1
+Arsenal
+46818
+Liverpool
+2-0
+Sheffield Utd
+46808
+Newcastle
+0-3
+Leicester
+46810
+Southampton
+1-0
+Spurs
+46812
+Watford
+2-1
+Wolves
+46813
+Man City
+2-1
+Everton
+46809
+Norwich
+1-1
+Crystal Palace
+46811
+West Ham
+4-0
+Bournemouth
+46814
+Arsenal
+2-0
+Man Utd
+46805
+Brighton
+1-1
+Chelsea
+46806
+Burnley
+1-2
+Aston Villa
+46807
+Liverpool
+1-0
+Wolves
+46798
+Man City
+2-0
+Sheffield Utd
+46799
+Newcastle
+1-2
+Everton
+46800
+Southampton
+1-1
+Crystal Palace
+46802
+Watford
+3-0
+Aston Villa
+46803
+Norwich
+2-2
+Spurs
+46801
+West Ham
+1-2
+Leicester
+46804
+Burnley
+0-2
+Man Utd
+46797
+Arsenal
+1-2
+Chelsea
+46795
+Wolves
+3-2
+Man City
+46794
+Brighton
+2-0
+Bournemouth
+46796
+Aston Villa
+1-0
+Norwich
+46785
+Bournemouth
+1-1
+Arsenal
+46786
+Chelsea
+0-2
+Southampton
+46787
+Crystal Palace
+2-1
+West Ham
+46788
+Everton
+1-0
+Burnley
+46789
+Sheffield Utd
+1-1
+Watford
+46792
+Man Utd
+4-1
+Newcastle
+46791
+Leicester
+0-4
+Liverpool
+46790
+Spurs
+2-1
+Brighton
+46793
+Spurs
+0-2
+Chelsea
+46782
+Aston Villa
+1-3
+Southampton
+46775
+Bournemouth
+0-1
+Burnley
+46776
+Brighton
+0-1
+Sheffield Utd
+46777
+Newcastle
+1-0
+Crystal Palace
+46780
+Norwich
+1-2
+Wolves
+46781
+Man City
+3-1
+Leicester
+46779
+Watford
+2-0
+Man Utd
+46783
+Everton
+0-0
+Arsenal
+46778
+Crystal Palace
+1-1
+Brighton
+46768
+Arsenal
+0-3
+Man City
+46765
+Burnley
+1-0
+Newcastle
+46766
+Chelsea
+0-1
+Bournemouth
+46767
+Leicester
+1-1
+Norwich
+46769
+Sheffield Utd
+2-0
+Aston Villa
+46772
+Southampton
+0-1
+West Ham
+46773
+Man Utd
+1-1
+Everton
+46771
+Wolves
+1-2
+Spurs
+46774
+Liverpool
+2-0
+Watford
+46770
+West Ham
+1-3
+Arsenal
+46764
+Brighton
+2-2
+Wolves
+46757
+Bournemouth
+0-3
+Liverpool
+46756
+Spurs
+5-0
+Burnley
+46762
+Watford
+0-0
+Crystal Palace
+46763
+Man City
+1-2
+Man Utd
+46759
+Aston Villa
+1-4
+Leicester
+46755
+Newcastle
+2-1
+Southampton
+46760
+Norwich
+1-2
+Sheffield Utd
+46761
+Everton
+3-1
+Chelsea
+46758
+Sheffield Utd
+0-2
+Newcastle
+46749
+Arsenal
+1-2
+Brighton
+46745
+Chelsea
+2-1
+Aston Villa
+46751
+Leicester
+2-0
+Watford
+46747
+Man Utd
+2-1
+Spurs
+46748
+Southampton
+2-1
+Norwich
+46754
+Wolves
+2-0
+West Ham
+46750
+Liverpool
+5-2
+Everton
+46753
+Crystal Palace
+1-0
+Bournemouth
+46752
+Burnley
+1-4
+Man City
+46746
+Leicester
+2-1
+Everton
+46737
+Man Utd
+2-2
+Aston Villa
+46739
+Burnley
+0-2
+Crystal Palace
+46735
+Chelsea
+0-1
+West Ham
+46736
+Liverpool
+2-1
+Brighton
+46738
+Spurs
+3-2
+Bournemouth
+46743
+Southampton
+2-1
+Watford
+46742
+Norwich
+2-2
+Arsenal
+46741
+Wolves
+1-1
+Sheffield Utd
+46744
+Newcastle
+2-2
+Man City
+46740
+Aston Villa
+2-0
+Newcastle
+46726
+Sheffield Utd
+3-3
+Man Utd
+46732
+Arsenal
+2-2
+Southampton
+46725
+Bournemouth
+1-2
+Wolves
+46727
+Brighton
+0-2
+Leicester
+46728
+Crystal Palace
+1-2
+Liverpool
+46729
+Everton
+0-2
+Norwich
+46730
+Watford
+0-3
+Burnley
+46733
+Man City
+2-1
+Chelsea
+46731
+West Ham
+2-3
+Spurs
+46734
+Liverpool
+3-1
+Man City
+46718
+Burnley
+3-0
+West Ham
+46715
+Newcastle
+2-1
+Bournemouth
+46720
+Southampton
+1-2
+Everton
+46722
+Spurs
+1-1
+Sheffield Utd
+46723
+Leicester
+2-0
+Arsenal
+46717
+Man Utd
+3-1
+Brighton
+46719
+Wolves
+2-1
+Aston Villa
+46724
+Norwich
+0-2
+Watford
+46721
+Chelsea
+2-0
+Crystal Palace
+46716
+Everton
+1-1
+Spurs
+46710
+Arsenal
+1-1
+Wolves
+46705
+Aston Villa
+1-2
+Liverpool
+46706
+Brighton
+2-0
+Norwich
+46708
+Man City
+2-1
+Southampton
+46711
+Sheffield Utd
+3-0
+Burnley
+46712
+West Ham
+2-3
+Newcastle
+46714
+Watford
+1-2
+Chelsea
+46713
+Crystal Palace
+0-2
+Leicester
+46709
+Bournemouth
+1-0
+Man Utd
+46707
+Arsenal
+2-2
+Crystal Palace
+46695
+Liverpool
+2-1
+Spurs
+46698
+Norwich
+1-3
+Man Utd
+46701
+Burnley
+2-4
+Chelsea
+46697
+Newcastle
+1-1
+Wolves
+46700
+Southampton
+0-9
+Leicester
+46702
+Man City
+3-0
+Aston Villa
+46699
+Brighton
+3-2
+Everton
+46696
+Watford
+0-0
+Bournemouth
+46703
+West Ham
+1-1
+Sheffield Utd
+46704
+Sheffield Utd
+1-0
+Arsenal
+46692
+Man Utd
+1-1
+Liverpool
+46691
+Crystal Palace
+0-2
+Man City
+46688
+Everton
+2-0
+West Ham
+46689
+Aston Villa
+2-1
+Brighton
+46685
+Bournemouth
+0-0
+Norwich
+46686
+Chelsea
+1-0
+Newcastle
+46687
+Leicester
+2-1
+Burnley
+46690
+Spurs
+1-1
+Watford
+46693
+Wolves
+1-1
+Southampton
+46694
+Newcastle
+1-0
+Man Utd
+46680
+West Ham
+1-2
+Crystal Palace
+46684
+Arsenal
+1-0
+Bournemouth
+46675
+Man City
+0-2
+Wolves
+46679
+Southampton
+1-4
+Chelsea
+46682
+Brighton
+3-0
+Spurs
+46676
+Burnley
+1-0
+Everton
+46677
+Liverpool
+2-1
+Leicester
+46678
+Norwich
+1-5
+Aston Villa
+46681
+Watford
+0-0
+Sheffield Utd
+46683
+Man Utd
+1-1
+Arsenal
+46671
+Leicester
+5-0
+Newcastle
+46670
+Everton
+1-3
+Man City
+46669
+Sheffield Utd
+0-1
+Liverpool
+46672
+Aston Villa
+2-2
+Burnley
+46665
+Bournemouth
+2-2
+West Ham
+46666
+Chelsea
+2-0
+Brighton
+46667
+Crystal Palace
+2-0
+Norwich
+46668
+Spurs
+2-1
+Southampton
+46673
+Wolves
+2-0
+Watford
+46674
+Arsenal
+3-2
+Aston Villa
+46655
+Chelsea
+1-2
+Liverpool
+46657
+Newcastle
+0-0
+Brighton
+46662
+Crystal Palace
+1-1
+Wolves
+46658
+West Ham
+2-0
+Man Utd
+46664
+Southampton
+1-3
+Bournemouth
+46663
+Leicester
+2-1
+Spurs
+46660
+Burnley
+2-0
+Norwich
+46656
+Everton
+0-2
+Sheffield Utd
+46659
+Man City
+8-0
+Watford
+46661
+Aston Villa
+0-0
+West Ham
+46645
+Watford
+2-2
+Arsenal
+46653
+Norwich
+3-2
+Man City
+46650
+Bournemouth
+3-1
+Everton
+46646
+Liverpool
+3-1
+Newcastle
+46648
+Brighton
+1-1
+Burnley
+46647
+Man Utd
+1-0
+Leicester
+46649
+Sheffield Utd
+0-1
+Southampton
+46651
+Spurs
+4-0
+Crystal Palace
+46652
+Wolves
+2-5
+Chelsea
+46654
+Arsenal
+2-2
+Spurs
+46635
+Burnley
+0-3
+Liverpool
+46636
+Everton
+3-2
+Wolves
+46639
+Southampton
+1-1
+Man Utd
+46643
+Chelsea
+2-2
+Sheffield Utd
+46637
+Crystal Palace
+1-0
+Aston Villa
+46638
+Leicester
+3-1
+Bournemouth
+46640
+Man City
+4-0
+Brighton
+46641
+Newcastle
+1-1
+Watford
+46642
+West Ham
+2-0
+Norwich
+46644
+Spurs
+0-1
+Newcastle
+46632
+Wolves
+1-1
+Burnley
+46634
+Liverpool
+3-1
+Arsenal
+46628
+Bournemouth
+1-3
+Man City
+46626
+Aston Villa
+2-0
+Everton
+46625
+Norwich
+2-3
+Chelsea
+46630
+Brighton
+0-2
+Southampton
+46627
+Man Utd
+1-2
+Crystal Palace
+46629
+Sheffield Utd
+1-2
+Leicester
+46631
+Watford
+1-3
+West Ham
+46633
+Wolves
+1-1
+Man Utd
+46624
+Chelsea
+1-1
+Leicester
+46618
+Man City
+2-2
+Spurs
+46620
+Sheffield Utd
+1-0
+Crystal Palace
+46622
+Arsenal
+2-1
+Burnley
+46615
+Aston Villa
+1-2
+Bournemouth
+46616
+Brighton
+1-1
+West Ham
+46617
+Everton
+1-0
+Watford
+46619
+Norwich
+3-1
+Newcastle
+46621
+Southampton
+1-2
+Liverpool
+46623
+Man Utd
+4-0
+Chelsea
+46613
+Spurs
+3-1
+Aston Villa
+46610
+Leicester
+0-0
+Wolves
+46609
+Newcastle
+0-1
+Arsenal
+46614
+Liverpool
+4-1
+Norwich
+46605
+West Ham
+0-5
+Man City
+46612
+Bournemouth
+1-1
+Sheffield Utd
+46606
+Burnley
+3-0
+Southampton
+46607
+Crystal Palace
+0-0
+Everton
+46608
+Watford
+0-3
+Brighton
+46611

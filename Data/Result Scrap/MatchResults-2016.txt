@@ -1,0 +1,1520 @@
+Man Utd
+3-1
+Bournemouth
+12494
+Arsenal
+4-0
+Aston Villa
+12485
+Chelsea
+1-1
+Leicester
+12486
+Everton
+3-0
+Norwich
+12487
+Newcastle
+5-1
+Spurs
+12488
+Southampton
+4-1
+Crystal Palace
+12489
+Stoke
+2-1
+West Ham
+12490
+Swansea
+1-1
+Man City
+12491
+Watford
+2-2
+Sunderland
+12492
+West Brom
+1-1
+Liverpool
+12493
+Norwich
+4-2
+Watford
+12483
+Sunderland
+3-0
+Everton
+12484
+Liverpool
+1-1
+Chelsea
+12482
+West Ham
+3-2
+Man Utd
+12481
+Liverpool
+2-0
+Watford
+12478
+Man City
+2-2
+Arsenal
+12479
+Leicester
+3-1
+Everton
+12474
+Spurs
+1-2
+Southampton
+12480
+Norwich
+0-1
+Man Utd
+12475
+Aston Villa
+0-0
+Newcastle
+12471
+Bournemouth
+1-1
+West Brom
+12472
+Crystal Palace
+2-1
+Stoke
+12473
+Sunderland
+3-2
+Chelsea
+12476
+West Ham
+1-4
+Swansea
+12477
+Chelsea
+2-2
+Spurs
+12470
+Southampton
+4-2
+Man City
+12468
+Arsenal
+1-0
+Norwich
+12461
+Swansea
+3-1
+Liverpool
+12469
+Man Utd
+1-1
+Leicester
+12467
+Everton
+2-1
+Bournemouth
+12462
+Newcastle
+1-0
+Crystal Palace
+12463
+Stoke
+1-1
+Sunderland
+12464
+Watford
+3-2
+Aston Villa
+12465
+West Brom
+0-3
+West Ham
+12466
+Spurs
+1-1
+West Brom
+12460
+Leicester
+4-0
+Swansea
+12458
+Sunderland
+0-0
+Arsenal
+12459
+Aston Villa
+2-4
+Southampton
+12454
+Bournemouth
+1-4
+Chelsea
+12455
+Liverpool
+2-2
+Newcastle
+12456
+Man City
+4-0
+Stoke
+12457
+Arsenal
+2-0
+West Brom
+12453
+West Ham
+3-1
+Watford
+12452
+Liverpool
+4-0
+Everton
+12450
+Man Utd
+2-0
+Crystal Palace
+12451
+Newcastle
+1-1
+Man City
+12449
+Stoke
+0-4
+Spurs
+12448
+Arsenal
+1-1
+Crystal Palace
+12445
+Chelsea
+0-3
+Man City
+12439
+Bournemouth
+1-2
+Liverpool
+12446
+Leicester
+2-2
+West Ham
+12447
+Norwich
+0-3
+Sunderland
+12443
+Everton
+1-1
+Southampton
+12440
+Man Utd
+1-0
+Aston Villa
+12441
+Newcastle
+3-0
+Swansea
+12442
+West Brom
+0-1
+Watford
+12444
+Crystal Palace
+0-0
+Everton
+12438
+Liverpool
+4-1
+Stoke
+12435
+Spurs
+3-0
+Man Utd
+12437
+Man City
+2-1
+West Brom
+12430
+Sunderland
+0-2
+Leicester
+12436
+West Ham
+3-3
+Arsenal
+12434
+Aston Villa
+1-2
+Bournemouth
+12428
+Crystal Palace
+1-0
+Norwich
+12429
+Southampton
+3-1
+Newcastle
+12431
+Swansea
+1-0
+Chelsea
+12432
+Watford
+1-1
+Everton
+12433
+Man Utd
+1-0
+Everton
+12427
+Liverpool
+1-1
+Spurs
+12421
+Leicester
+1-0
+Southampton
+12426
+Aston Villa
+0-4
+Chelsea
+12419
+Arsenal
+4-0
+Watford
+12418
+Bournemouth
+0-4
+Man City
+12420
+Norwich
+3-2
+Newcastle
+12422
+Stoke
+2-2
+Swansea
+12423
+Sunderland
+0-0
+West Brom
+12424
+West Ham
+2-2
+Crystal Palace
+12425
+Man City
+0-1
+Man Utd
+12414
+Spurs
+3-0
+Bournemouth
+12417
+Newcastle
+1-1
+Sunderland
+12415
+Chelsea
+2-2
+West Ham
+12408
+Crystal Palace
+0-1
+Leicester
+12409
+Watford
+1-2
+Stoke
+12412
+West Brom
+0-1
+Norwich
+12413
+Swansea
+1-0
+Aston Villa
+12411
+Southampton
+3-2
+Liverpool
+12416
+Everton
+0-2
+Arsenal
+12410
+Leicester
+1-0
+Newcastle
+12407
+Aston Villa
+0-2
+Spurs
+12406
+Bournemouth
+3-2
+Swansea
+12403
+Stoke
+1-2
+Southampton
+12405
+Norwich
+0-0
+Man City
+12404
+West Brom
+1-0
+Man Utd
+12402
+Chelsea
+1-1
+Stoke
+12393
+Everton
+2-3
+West Ham
+12394
+Man City
+4-0
+Aston Villa
+12395
+Newcastle
+1-3
+Bournemouth
+12396
+Southampton
+1-1
+Sunderland
+12397
+Swansea
+1-0
+Norwich
+12398
+Watford
+0-1
+Leicester
+12400
+Crystal Palace
+1-2
+Liverpool
+12401
+Spurs
+2-2
+Arsenal
+12399
+Arsenal
+1-2
+Swansea
+12388
+Stoke
+1-0
+Newcastle
+12391
+West Ham
+1-0
+Spurs
+12392
+Liverpool
+3-0
+Man City
+12389
+Man Utd
+1-0
+Watford
+12390
+Aston Villa
+1-3
+Everton
+12383
+Bournemouth
+2-0
+Southampton
+12384
+Leicester
+2-2
+West Brom
+12385
+Norwich
+1-2
+Chelsea
+12386
+Sunderland
+2-2
+Crystal Palace
+12387
+Leicester
+1-0
+Norwich
+12375
+Southampton
+1-2
+Chelsea
+12376
+Stoke
+2-1
+Aston Villa
+12377
+Watford
+0-0
+Bournemouth
+12378
+West Brom
+3-2
+Crystal Palace
+12379
+Man Utd
+3-2
+Arsenal
+12381
+Spurs
+2-1
+Swansea
+12382
+West Ham
+1-0
+Sunderland
+12380
+Man City
+1-2
+Spurs
+12374
+Bournemouth
+1-3
+Stoke
+12365
+Crystal Palace
+1-2
+Watford
+12367
+Everton
+0-1
+West Brom
+12368
+Norwich
+2-2
+West Ham
+12369
+Swansea
+0-1
+Southampton
+12371
+Chelsea
+5-1
+Newcastle
+12366
+Arsenal
+2-1
+Leicester
+12372
+Aston Villa
+0-6
+Liverpool
+12373
+Sunderland
+2-1
+Man Utd
+12370
+Chelsea
+1-1
+Man Utd
+12364
+Aston Villa
+2-0
+Norwich
+12355
+Liverpool
+2-2
+Sunderland
+12356
+Newcastle
+1-0
+West Brom
+12358
+Stoke
+0-3
+Everton
+12360
+Swansea
+1-1
+Crystal Palace
+12361
+Spurs
+1-0
+Watford
+12362
+Southampton
+1-0
+West Ham
+12359
+Bournemouth
+0-2
+Arsenal
+12363
+Man City
+1-3
+Leicester
+12357
+Everton
+3-0
+Newcastle
+12353
+Watford
+0-0
+Chelsea
+12354
+Arsenal
+0-0
+Southampton
+12345
+Leicester
+2-0
+Liverpool
+12347
+Norwich
+0-3
+Spurs
+12349
+Sunderland
+0-1
+Man City
+12350
+West Ham
+2-0
+Aston Villa
+12352
+Crystal Palace
+1-2
+Bournemouth
+12346
+Man Utd
+3-0
+Stoke
+12348
+West Brom
+1-1
+Swansea
+12351
+Arsenal
+0-1
+Chelsea
+12343
+Crystal Palace
+1-3
+Spurs
+12335
+Leicester
+3-0
+Stoke
+12336
+Man Utd
+0-1
+Southampton
+12337
+Sunderland
+1-1
+Bournemouth
+12339
+Watford
+2-1
+Newcastle
+12340
+West Brom
+0-0
+Aston Villa
+12341
+West Ham
+2-2
+Man City
+12342
+Everton
+1-2
+Swansea
+12344
+Norwich
+4-5
+Liverpool
+12338
+Swansea
+1-0
+Watford
+12334
+Stoke
+0-0
+Arsenal
+12333
+Bournemouth
+3-0
+Norwich
+12326
+Chelsea
+3-3
+Everton
+12327
+Man City
+4-0
+Crystal Palace
+12328
+Newcastle
+2-1
+West Ham
+12329
+Southampton
+3-0
+West Brom
+12330
+Aston Villa
+1-1
+Leicester
+12325
+Liverpool
+0-1
+Man Utd
+12332
+Spurs
+4-1
+Sunderland
+12331
+Chelsea
+2-2
+West Brom
+12318
+Man City
+0-0
+Everton
+12320
+Southampton
+2-0
+Watford
+12321
+Stoke
+3-1
+Norwich
+12322
+Swansea
+2-4
+Sunderland
+12323
+Liverpool
+3-3
+Arsenal
+12319
+Spurs
+0-1
+Leicester
+12324
+Aston Villa
+1-0
+Crystal Palace
+12315
+Bournemouth
+1-3
+West Ham
+12316
+Newcastle
+3-3
+Man Utd
+12317
+Everton
+1-1
+Spurs
+12314
+Arsenal
+1-0
+Newcastle
+12305
+Leicester
+0-0
+Bournemouth
+12306
+Man Utd
+2-1
+Swansea
+12307
+Norwich
+1-0
+Southampton
+12308
+Sunderland
+3-1
+Aston Villa
+12309
+West Brom
+2-1
+Stoke
+12311
+Watford
+1-2
+Man City
+12310
+Crystal Palace
+0-3
+Chelsea
+12313
+West Ham
+2-0
+Liverpool
+12312
+Sunderland
+0-1
+Liverpool
+12304
+Leicester
+0-0
+Man City
+12303
+Crystal Palace
+0-0
+Swansea
+12296
+Everton
+3-4
+Stoke
+12297
+Norwich
+2-0
+Aston Villa
+12299
+Watford
+1-2
+Spurs
+12300
+West Brom
+1-0
+Newcastle
+12301
+Arsenal
+2-0
+Bournemouth
+12295
+Man Utd
+0-0
+Chelsea
+12298
+West Ham
+2-1
+Southampton
+12302
+Aston Villa
+1-1
+West Ham
+12285
+Bournemouth
+0-0
+Crystal Palace
+12286
+Chelsea
+2-2
+Watford
+12287
+Liverpool
+1-0
+Leicester
+12288
+Man City
+4-1
+Sunderland
+12289
+Swansea
+1-0
+West Brom
+12293
+Spurs
+3-0
+Norwich
+12294
+Newcastle
+0-1
+Everton
+12290
+Southampton
+4-0
+Arsenal
+12291
+Stoke
+2-0
+Man Utd
+12292
+Arsenal
+2-1
+Man City
+12284
+Swansea
+0-0
+West Ham
+12282
+Chelsea
+3-1
+Sunderland
+12275
+Everton
+2-3
+Leicester
+12276
+Man Utd
+1-2
+Norwich
+12277
+Southampton
+0-2
+Spurs
+12279
+Stoke
+1-2
+Crystal Palace
+12280
+West Brom
+1-2
+Bournemouth
+12281
+Newcastle
+1-1
+Aston Villa
+12278
+Watford
+3-0
+Liverpool
+12283
+Leicester
+2-1
+Chelsea
+12274
+Liverpool
+2-2
+West Brom
+12272
+Spurs
+1-2
+Newcastle
+12273
+Crystal Palace
+1-0
+Southampton
+12266
+Man City
+2-1
+Swansea
+12267
+Sunderland
+0-1
+Watford
+12269
+West Ham
+0-0
+Stoke
+12270
+Bournemouth
+2-1
+Man Utd
+12265
+Aston Villa
+0-2
+Arsenal
+12271
+Norwich
+1-1
+Everton
+12268
+Everton
+1-1
+Crystal Palace
+12264
+Newcastle
+2-0
+Liverpool
+12263
+Arsenal
+3-1
+Sunderland
+12255
+Man Utd
+0-0
+West Ham
+12257
+Southampton
+1-1
+Aston Villa
+12258
+Swansea
+0-3
+Leicester
+12260
+Watford
+2-0
+Norwich
+12261
+West Brom
+1-1
+Spurs
+12262
+Chelsea
+0-1
+Bournemouth
+12256
+Stoke
+2-0
+Man City
+12259
+Liverpool
+1-0
+Swansea
+12251
+Norwich
+1-1
+Arsenal
+12252
+Aston Villa
+2-3
+Watford
+12245
+Bournemouth
+3-3
+Everton
+12246
+Crystal Palace
+5-1
+Newcastle
+12247
+Man City
+3-1
+Southampton
+12249
+Sunderland
+2-0
+Stoke
+12250
+Leicester
+1-1
+Man Utd
+12248
+Spurs
+0-0
+Chelsea
+12253
+West Ham
+1-1
+West Brom
+12254
+Crystal Palace
+0-1
+Sunderland
+12244
+Spurs
+4-1
+West Ham
+12243
+Chelsea
+1-0
+Norwich
+12235
+Everton
+4-0
+Aston Villa
+12236
+Newcastle
+0-3
+Leicester
+12238
+Southampton
+0-1
+Stoke
+12239
+Swansea
+2-2
+Bournemouth
+12240
+West Brom
+2-1
+Arsenal
+12242
+Man City
+1-4
+Liverpool
+12237
+Watford
+1-2
+Man Utd
+12241
+Arsenal
+1-1
+Spurs
+12232
+Liverpool
+1-2
+Crystal Palace
+12234
+Leicester
+2-1
+Watford
+12226
+Man Utd
+2-0
+West Brom
+12227
+Norwich
+1-0
+Swansea
+12228
+Sunderland
+0-1
+Southampton
+12230
+West Ham
+1-1
+Everton
+12231
+Stoke
+1-0
+Chelsea
+12229
+Aston Villa
+0-0
+Man City
+12233
+Bournemouth
+0-1
+Newcastle
+12225
+Spurs
+3-1
+Aston Villa
+12224
+Southampton
+2-0
+Bournemouth
+12223
+Crystal Palace
+0-0
+Man Utd
+12216
+Man City
+2-1
+Norwich
+12217
+Newcastle
+0-0
+Stoke
+12218
+Swansea
+0-3
+Arsenal
+12219
+Watford
+2-0
+West Ham
+12220
+West Brom
+2-3
+Leicester
+12221
+Everton
+6-2
+Sunderland
+12222
+Chelsea
+1-3
+Liverpool
+12215
+Liverpool
+1-1
+Southampton
+12212
+Arsenal
+2-1
+Everton
+12205
+Sunderland
+3-0
+Newcastle
+12214
+Bournemouth
+1-5
+Spurs
+12211
+Man Utd
+0-0
+Man City
+12213
+Aston Villa
+1-2
+Swansea
+12206
+Leicester
+1-0
+Crystal Palace
+12207
+Norwich
+0-1
+West Brom
+12208
+Stoke
+0-2
+Watford
+12209
+West Ham
+2-1
+Chelsea
+12210
+Swansea
+0-1
+Stoke
+12204
+Newcastle
+6-2
+Norwich
+12203
+Watford
+0-3
+Arsenal
+12201
+Spurs
+0-0
+Liverpool
+12200
+Chelsea
+2-0
+Aston Villa
+12195
+Crystal Palace
+1-3
+West Ham
+12196
+Everton
+0-3
+Man Utd
+12197
+Man City
+5-1
+Bournemouth
+12198
+Southampton
+2-2
+Leicester
+12199
+West Brom
+1-0
+Sunderland
+12202
+Arsenal
+3-0
+Man Utd
+12192
+Swansea
+2-2
+Spurs
+12194
+Chelsea
+1-3
+Southampton
+12187
+Everton
+1-1
+Liverpool
+12193
+Crystal Palace
+2-0
+West Brom
+12188
+Aston Villa
+0-1
+Stoke
+12185
+Bournemouth
+1-1
+Watford
+12186
+Man City
+6-1
+Newcastle
+12189
+Norwich
+1-2
+Leicester
+12190
+Sunderland
+2-2
+West Ham
+12191
+West Brom
+2-3
+Everton
+12184
+Watford
+0-1
+Crystal Palace
+12183
+Newcastle
+2-2
+Chelsea
+12178
+Spurs
+4-1
+Man City
+12181
+Leicester
+2-5
+Arsenal
+12175
+Liverpool
+3-2
+Aston Villa
+12176
+Man Utd
+3-0
+Sunderland
+12177
+Southampton
+3-1
+Swansea
+12179
+Stoke
+2-1
+Bournemouth
+12180
+West Ham
+2-2
+Norwich
+12182
+Liverpool
+1-1
+Norwich
+12172
+Southampton
+2-3
+Man Utd
+12173
+Man City
+1-2
+West Ham
+12168
+Spurs
+1-0
+Crystal Palace
+12174
+Chelsea
+2-0
+Arsenal
+12167
+Aston Villa
+0-1
+West Brom
+12165
+Bournemouth
+2-0
+Sunderland
+12166
+Newcastle
+1-2
+Watford
+12169
+Stoke
+2-2
+Leicester
+12170
+Swansea
+0-0
+Everton
+12171
+West Ham
+2-0
+Newcastle
+12164
+Leicester
+3-2
+Aston Villa
+12162
+Man Utd
+3-1
+Liverpool
+12158
+Sunderland
+0-1
+Spurs
+12163
+Everton
+3-1
+Chelsea
+12157
+Arsenal
+2-0
+Stoke
+12155
+Crystal Palace
+0-1
+Man City
+12156
+Norwich
+3-1
+Bournemouth
+12159
+Watford
+1-0
+Swansea
+12160
+West Brom
+0-0
+Southampton
+12161
+Swansea
+2-1
+Man Utd
+12154
+Spurs
+0-0
+Everton
+12152
+Southampton
+3-0
+Norwich
+12153
+Newcastle
+0-1
+Arsenal
+12150
+Aston Villa
+2-2
+Sunderland
+12145
+Bournemouth
+1-1
+Leicester
+12146
+Chelsea
+1-2
+Crystal Palace
+12147
+Liverpool
+0-3
+West Ham
+12148
+Man City
+2-0
+Watford
+12149
+Stoke
+0-1
+West Brom
+12151
+Arsenal
+0-0
+Liverpool
+12144
+Everton
+0-2
+Man City
+12141
+Watford
+0-0
+Southampton
+12142
+West Brom
+2-3
+Chelsea
+12143
+Man Utd
+0-0
+Newcastle
+12137
+Crystal Palace
+2-1
+Aston Villa
+12135
+Leicester
+1-1
+Spurs
+12136
+Norwich
+1-1
+Stoke
+12138
+Sunderland
+1-1
+Swansea
+12139
+West Ham
+3-4
+Bournemouth
+12140
+Liverpool
+1-0
+Bournemouth
+12134
+Man City
+3-0
+Chelsea
+12133
+Crystal Palace
+1-2
+Arsenal
+12132
+Aston Villa
+0-1
+Man Utd
+12125
+Southampton
+0-3
+Everton
+12126
+Sunderland
+1-3
+Norwich
+12127
+Swansea
+2-0
+Newcastle
+12128
+Spurs
+2-2
+Stoke
+12129
+Watford
+0-0
+West Brom
+12130
+West Ham
+1-2
+Leicester
+12131
+West Brom
+0-3
+Man City
+12124
+Stoke
+0-1
+Liverpool
+12123
+Chelsea
+2-2
+Swansea
+12116
+Arsenal
+0-2
+West Ham
+12121
+Newcastle
+2-2
+Southampton
+12122
+Man Utd
+1-0
+Spurs
+12119
+Bournemouth
+0-1
+Aston Villa
+12115
+Everton
+2-2
+Watford
+12117
+Leicester
+4-2
+Sunderland
+12118
+Norwich
+1-3
+Crystal Palace
+12120

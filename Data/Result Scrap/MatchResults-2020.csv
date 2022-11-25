@@ -1,0 +1,381 @@
+MatchID,Home_team,Away_team,Score_home,Score_away
+46975,Arsenal,Watford,3,2
+46976,Burnley,Brighton,1,2
+46977,Chelsea,Wolves,2,0
+46978,Crystal Palace,Spurs,1,1
+46979,Everton,Bournemouth,1,3
+46980,Leicester,Man Utd,0,2
+46981,Man City,Norwich,5,0
+46982,Newcastle,Liverpool,1,3
+46983,Southampton,Sheffield Utd,3,1
+46984,West Ham,Aston Villa,1,1
+46969,Man Utd,West Ham,1,1
+46968,Liverpool,Chelsea,5,3
+46973,Watford,Man City,0,4
+46965,Aston Villa,Arsenal,1,0
+46967,Brighton,Newcastle,0,0
+46971,Sheffield Utd,Everton,0,1
+46974,Wolves,Crystal Palace,2,0
+46972,Spurs,Leicester,3,0
+46970,Norwich,Burnley,0,2
+46966,Bournemouth,Southampton,0,2
+46964,West Ham,Watford,3,1
+46959,Everton,Aston Villa,1,1
+46960,Leicester,Sheffield Utd,2,0
+46958,Crystal Palace,Man Utd,0,2
+46963,Southampton,Brighton,1,1
+46956,Burnley,Wolves,1,1
+46961,Man City,Bournemouth,2,1
+46962,Newcastle,Spurs,1,3
+46955,Arsenal,Liverpool,2,1
+46957,Chelsea,Norwich,1,0
+46949,Man Utd,Southampton,2,2
+46952,Spurs,Arsenal,2,1
+46946,Bournemouth,Leicester,4,1
+46951,Sheffield Utd,Chelsea,3,0
+46947,Brighton,Man City,0,5
+46954,Wolves,Everton,3,0
+46945,Aston Villa,Crystal Palace,2,0
+46950,Norwich,West Ham,0,4
+46953,Watford,Newcastle,2,1
+46948,Liverpool,Burnley,1,1
+46937,Bournemouth,Spurs,0,0
+46940,Everton,Southampton,1,1
+46936,Aston Villa,Man Utd,0,3
+46941,Man City,Newcastle,5,0
+46942,Sheffield Utd,Wolves,1,0
+46944,West Ham,Burnley,0,1
+46938,Brighton,Liverpool,1,3
+46939,Crystal Palace,Chelsea,2,3
+46943,Watford,Norwich,2,1
+46935,Arsenal,Leicester,1,1
+46933,Spurs,Everton,1,0
+46928,Liverpool,Aston Villa,2,0
+46932,Southampton,Man City,1,0
+46934,Wolves,Arsenal,0,2
+46926,Chelsea,Watford,3,0
+46925,Burnley,Sheffield Utd,1,1
+46930,Newcastle,West Ham,2,2
+46931,Norwich,Brighton,0,1
+46927,Leicester,Crystal Palace,3,0
+46929,Man Utd,Bournemouth,5,2
+46922,Sheffield Utd,Spurs,3,1
+46921,Man City,Liverpool,4,0
+46915,Arsenal,Norwich,4,0
+46917,Bournemouth,Newcastle,1,4
+46920,Everton,Leicester,2,1
+46924,West Ham,Chelsea,3,2
+46918,Brighton,Man Utd,0,3
+46919,Crystal Palace,Burnley,0,1
+46923,Watford,Southampton,1,3
+46916,Aston Villa,Wolves,0,1
+46905,Burnley,Watford,1,0
+46912,Southampton,Arsenal,0,2
+46906,Chelsea,Man City,2,1
+46909,Man Utd,Sheffield Utd,3,0
+46910,Newcastle,Aston Villa,1,1
+46911,Norwich,Everton,0,1
+46914,Wolves,Bournemouth,1,0
+46908,Liverpool,Crystal Palace,4,0
+46907,Leicester,Brighton,0,0
+46913,Spurs,West Ham,2,0
+46899,Man City,Burnley,5,0
+46895,Aston Villa,Chelsea,1,2
+46898,Everton,Liverpool,0,0
+46904,West Ham,Wolves,0,2
+46896,Bournemouth,Crystal Palace,0,2
+46900,Newcastle,Sheffield Utd,3,0
+46901,Norwich,Southampton,0,3
+46902,Spurs,Man Utd,1,1
+46903,Watford,Leicester,1,1
+46897,Brighton,Arsenal,2,1
+46875,Aston Villa,Sheffield Utd,0,0
+46879,Man City,Arsenal,3,0
+46889,Leicester,Aston Villa,4,0
+46891,Man Utd,Man City,2,0
+46885,Arsenal,West Ham,1,0
+46888,Crystal Palace,Watford,1,0
+46892,Sheffield Utd,Norwich,1,0
+46893,Southampton,Newcastle,0,1
+46894,Wolves,Brighton,0,0
+46886,Burnley,Spurs,1,1
+46887,Chelsea,Everton,4,0
+46890,Liverpool,Bournemouth,2,1
+46876,Bournemouth,Chelsea,2,2
+46880,Newcastle,Burnley,0,0
+46884,West Ham,Southampton,3,1
+46883,Watford,Liverpool,3,0
+46878,Everton,Man Utd,1,1
+46882,Spurs,Wolves,2,3
+46881,Norwich,Leicester,1,0
+46877,Brighton,Crystal Palace,0,1
+46870,Liverpool,West Ham,3,2
+46865,Arsenal,Everton,3,2
+46866,Burnley,Bournemouth,3,0
+46868,Crystal Palace,Newcastle,1,0
+46872,Sheffield Utd,Brighton,1,1
+46873,Southampton,Aston Villa,2,0
+46869,Leicester,Man City,0,1
+46871,Man Utd,Watford,3,0
+46874,Wolves,Norwich,3,0
+46867,Chelsea,Spurs,2,1
+46860,Man City,West Ham,2,0
+46858,Chelsea,Man Utd,0,2
+46855,Arsenal,Newcastle,4,0
+46861,Norwich,Liverpool,0,1
+46856,Aston Villa,Spurs,2,3
+46864,Wolves,Leicester,0,0
+46863,Southampton,Burnley,1,2
+46857,Brighton,Watford,1,1
+46862,Sheffield Utd,Bournemouth,2,1
+46859,Everton,Crystal Palace,3,1
+46852,Spurs,Man City,2,0
+46845,Bournemouth,Aston Villa,2,1
+46847,Crystal Palace,Sheffield Utd,0,1
+46849,Liverpool,Southampton,4,0
+46851,Newcastle,Norwich,0,0
+46853,Watford,Everton,2,3
+46854,West Ham,Brighton,3,3
+46850,Man Utd,Wolves,0,0
+46846,Burnley,Arsenal,0,0
+46848,Leicester,Chelsea,2,2
+46784,West Ham,Liverpool,0,2
+46841,Wolves,Liverpool,1,2
+46838,Leicester,West Ham,4,1
+46844,Spurs,Norwich,2,1
+46839,Man Utd,Burnley,0,2
+46835,Aston Villa,Watford,2,1
+46836,Bournemouth,Brighton,3,1
+46843,Crystal Palace,Southampton,0,2
+46837,Everton,Newcastle,2,2
+46840,Sheffield Utd,Man City,0,1
+46842,Chelsea,Arsenal,2,2
+46828,Liverpool,Man Utd,2,0
+46825,Arsenal,Sheffield Utd,1,1
+46826,Brighton,Aston Villa,1,1
+46829,Man City,Crystal Palace,2,2
+46831,Norwich,Bournemouth,1,0
+46832,Southampton,Wolves,2,3
+46834,West Ham,Everton,1,1
+46830,Newcastle,Chelsea,1,0
+46827,Burnley,Leicester,2,1
+46833,Watford,Spurs,0,0
+46815,Aston Villa,Man City,1,6
+46817,Chelsea,Burnley,3,0
+46819,Everton,Brighton,1,0
+46820,Leicester,Southampton,1,2
+46821,Man Utd,Norwich,4,0
+46824,Wolves,Newcastle,1,1
+46823,Spurs,Liverpool,0,1
+46816,Bournemouth,Watford,0,3
+46822,Sheffield Utd,West Ham,1,0
+46818,Crystal Palace,Arsenal,1,1
+46808,Liverpool,Sheffield Utd,2,0
+46810,Newcastle,Leicester,0,3
+46812,Southampton,Spurs,1,0
+46813,Watford,Wolves,2,1
+46809,Man City,Everton,2,1
+46811,Norwich,Crystal Palace,1,1
+46814,West Ham,Bournemouth,4,0
+46805,Arsenal,Man Utd,2,0
+46806,Brighton,Chelsea,1,1
+46807,Burnley,Aston Villa,1,2
+46798,Liverpool,Wolves,1,0
+46799,Man City,Sheffield Utd,2,0
+46800,Newcastle,Everton,1,2
+46802,Southampton,Crystal Palace,1,1
+46803,Watford,Aston Villa,3,0
+46801,Norwich,Spurs,2,2
+46804,West Ham,Leicester,1,2
+46797,Burnley,Man Utd,0,2
+46795,Arsenal,Chelsea,1,2
+46794,Wolves,Man City,3,2
+46796,Brighton,Bournemouth,2,0
+46785,Aston Villa,Norwich,1,0
+46786,Bournemouth,Arsenal,1,1
+46787,Chelsea,Southampton,0,2
+46788,Crystal Palace,West Ham,2,1
+46789,Everton,Burnley,1,0
+46792,Sheffield Utd,Watford,1,1
+46791,Man Utd,Newcastle,4,1
+46790,Leicester,Liverpool,0,4
+46793,Spurs,Brighton,2,1
+46782,Spurs,Chelsea,0,2
+46775,Aston Villa,Southampton,1,3
+46776,Bournemouth,Burnley,0,1
+46777,Brighton,Sheffield Utd,0,1
+46780,Newcastle,Crystal Palace,1,0
+46781,Norwich,Wolves,1,2
+46779,Man City,Leicester,3,1
+46783,Watford,Man Utd,2,0
+46778,Everton,Arsenal,0,0
+46768,Crystal Palace,Brighton,1,1
+46765,Arsenal,Man City,0,3
+46766,Burnley,Newcastle,1,0
+46767,Chelsea,Bournemouth,0,1
+46769,Leicester,Norwich,1,1
+46772,Sheffield Utd,Aston Villa,2,0
+46773,Southampton,West Ham,0,1
+46771,Man Utd,Everton,1,1
+46774,Wolves,Spurs,1,2
+46770,Liverpool,Watford,2,0
+46764,West Ham,Arsenal,1,3
+46757,Brighton,Wolves,2,2
+46756,Bournemouth,Liverpool,0,3
+46762,Spurs,Burnley,5,0
+46763,Watford,Crystal Palace,0,0
+46759,Man City,Man Utd,1,2
+46755,Aston Villa,Leicester,1,4
+46760,Newcastle,Southampton,2,1
+46761,Norwich,Sheffield Utd,1,2
+46758,Everton,Chelsea,3,1
+46749,Sheffield Utd,Newcastle,0,2
+46745,Arsenal,Brighton,1,2
+46751,Chelsea,Aston Villa,2,1
+46747,Leicester,Watford,2,0
+46748,Man Utd,Spurs,2,1
+46754,Southampton,Norwich,2,1
+46750,Wolves,West Ham,2,0
+46753,Liverpool,Everton,5,2
+46752,Crystal Palace,Bournemouth,1,0
+46746,Burnley,Man City,1,4
+46737,Leicester,Everton,2,1
+46739,Man Utd,Aston Villa,2,2
+46735,Burnley,Crystal Palace,0,2
+46736,Chelsea,West Ham,0,1
+46738,Liverpool,Brighton,2,1
+46743,Spurs,Bournemouth,3,2
+46742,Southampton,Watford,2,1
+46741,Norwich,Arsenal,2,2
+46744,Wolves,Sheffield Utd,1,1
+46740,Newcastle,Man City,2,2
+46726,Aston Villa,Newcastle,2,0
+46732,Sheffield Utd,Man Utd,3,3
+46725,Arsenal,Southampton,2,2
+46727,Bournemouth,Wolves,1,2
+46728,Brighton,Leicester,0,2
+46729,Crystal Palace,Liverpool,1,2
+46730,Everton,Norwich,0,2
+46733,Watford,Burnley,0,3
+46731,Man City,Chelsea,2,1
+46734,West Ham,Spurs,2,3
+46718,Liverpool,Man City,3,1
+46715,Burnley,West Ham,3,0
+46720,Newcastle,Bournemouth,2,1
+46722,Southampton,Everton,1,2
+46723,Spurs,Sheffield Utd,1,1
+46717,Leicester,Arsenal,2,0
+46719,Man Utd,Brighton,3,1
+46724,Wolves,Aston Villa,2,1
+46721,Norwich,Watford,0,2
+46716,Chelsea,Crystal Palace,2,0
+46710,Everton,Spurs,1,1
+46705,Arsenal,Wolves,1,1
+46706,Aston Villa,Liverpool,1,2
+46708,Brighton,Norwich,2,0
+46711,Man City,Southampton,2,1
+46712,Sheffield Utd,Burnley,3,0
+46714,West Ham,Newcastle,2,3
+46713,Watford,Chelsea,1,2
+46709,Crystal Palace,Leicester,0,2
+46707,Bournemouth,Man Utd,1,0
+46695,Arsenal,Crystal Palace,2,2
+46698,Liverpool,Spurs,2,1
+46701,Norwich,Man Utd,1,3
+46697,Burnley,Chelsea,2,4
+46700,Newcastle,Wolves,1,1
+46702,Southampton,Leicester,0,9
+46699,Man City,Aston Villa,3,0
+46696,Brighton,Everton,3,2
+46703,Watford,Bournemouth,0,0
+46704,West Ham,Sheffield Utd,1,1
+46692,Sheffield Utd,Arsenal,1,0
+46691,Man Utd,Liverpool,1,1
+46688,Crystal Palace,Man City,0,2
+46689,Everton,West Ham,2,0
+46685,Aston Villa,Brighton,2,1
+46686,Bournemouth,Norwich,0,0
+46687,Chelsea,Newcastle,1,0
+46690,Leicester,Burnley,2,1
+46693,Spurs,Watford,1,1
+46694,Wolves,Southampton,1,1
+46680,Newcastle,Man Utd,1,0
+46684,West Ham,Crystal Palace,1,2
+46675,Arsenal,Bournemouth,1,0
+46679,Man City,Wolves,0,2
+46682,Southampton,Chelsea,1,4
+46676,Brighton,Spurs,3,0
+46677,Burnley,Everton,1,0
+46678,Liverpool,Leicester,2,1
+46681,Norwich,Aston Villa,1,5
+46683,Watford,Sheffield Utd,0,0
+46671,Man Utd,Arsenal,1,1
+46670,Leicester,Newcastle,5,0
+46669,Everton,Man City,1,3
+46672,Sheffield Utd,Liverpool,0,1
+46665,Aston Villa,Burnley,2,2
+46666,Bournemouth,West Ham,2,2
+46667,Chelsea,Brighton,2,0
+46668,Crystal Palace,Norwich,2,0
+46673,Spurs,Southampton,2,1
+46674,Wolves,Watford,2,0
+46655,Arsenal,Aston Villa,3,2
+46657,Chelsea,Liverpool,1,2
+46662,Newcastle,Brighton,0,0
+46658,Crystal Palace,Wolves,1,1
+46664,West Ham,Man Utd,2,0
+46663,Southampton,Bournemouth,1,3
+46660,Leicester,Spurs,2,1
+46656,Burnley,Norwich,2,0
+46659,Everton,Sheffield Utd,0,2
+46661,Man City,Watford,8,0
+46645,Aston Villa,West Ham,0,0
+46653,Watford,Arsenal,2,2
+46650,Norwich,Man City,3,2
+46646,Bournemouth,Everton,3,1
+46648,Liverpool,Newcastle,3,1
+46647,Brighton,Burnley,1,1
+46649,Man Utd,Leicester,1,0
+46651,Sheffield Utd,Southampton,0,1
+46652,Spurs,Crystal Palace,4,0
+46654,Wolves,Chelsea,2,5
+46635,Arsenal,Spurs,2,2
+46636,Burnley,Liverpool,0,3
+46639,Everton,Wolves,3,2
+46643,Southampton,Man Utd,1,1
+46637,Chelsea,Sheffield Utd,2,2
+46638,Crystal Palace,Aston Villa,1,0
+46640,Leicester,Bournemouth,3,1
+46641,Man City,Brighton,4,0
+46642,Newcastle,Watford,1,1
+46644,West Ham,Norwich,2,0
+46632,Spurs,Newcastle,0,1
+46634,Wolves,Burnley,1,1
+46628,Liverpool,Arsenal,3,1
+46626,Bournemouth,Man City,1,3
+46625,Aston Villa,Everton,2,0
+46630,Norwich,Chelsea,2,3
+46627,Brighton,Southampton,0,2
+46629,Man Utd,Crystal Palace,1,2
+46631,Sheffield Utd,Leicester,1,2
+46633,Watford,West Ham,1,3
+46624,Wolves,Man Utd,1,1
+46618,Chelsea,Leicester,1,1
+46620,Man City,Spurs,2,2
+46622,Sheffield Utd,Crystal Palace,1,0
+46615,Arsenal,Burnley,2,1
+46616,Aston Villa,Bournemouth,1,2
+46617,Brighton,West Ham,1,1
+46619,Everton,Watford,1,0
+46621,Norwich,Newcastle,3,1
+46623,Southampton,Liverpool,1,2
+46613,Man Utd,Chelsea,4,0
+46610,Spurs,Aston Villa,3,1
+46609,Leicester,Wolves,0,0
+46614,Newcastle,Arsenal,0,1
+46605,Liverpool,Norwich,4,1
+46612,West Ham,Man City,0,5
+46606,Bournemouth,Sheffield Utd,1,1
+46607,Burnley,Southampton,3,0
+46608,Crystal Palace,Everton,0,0
+46611,Watford,Brighton,0,3

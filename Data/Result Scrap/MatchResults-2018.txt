@@ -1,0 +1,1520 @@
+Burnley
+1-2
+Bournemouth
+22712
+Crystal Palace
+2-0
+West Brom
+22713
+Huddersfield
+0-1
+Arsenal
+22714
+Liverpool
+4-0
+Brighton
+22715
+Man Utd
+1-0
+Watford
+22716
+Newcastle
+3-0
+Chelsea
+22717
+Southampton
+0-1
+Man City
+22718
+Swansea
+1-2
+Stoke
+22719
+Spurs
+5-4
+Leicester
+22720
+West Ham
+3-1
+Everton
+22721
+West Ham
+0-0
+Man Utd
+22651
+Chelsea
+1-1
+Huddersfield
+22685
+Leicester
+3-1
+Arsenal
+22645
+Man City
+3-1
+Brighton
+22647
+Spurs
+1-0
+Newcastle
+22650
+Swansea
+0-1
+Southampton
+22649
+Arsenal
+5-0
+Burnley
+22702
+Chelsea
+1-0
+Liverpool
+22705
+Everton
+1-1
+Southampton
+22706
+Man City
+0-0
+Huddersfield
+22708
+Brighton
+1-0
+Man Utd
+22704
+Stoke
+1-2
+Crystal Palace
+22709
+Bournemouth
+1-0
+Swansea
+22703
+Leicester
+0-2
+West Ham
+22707
+Watford
+2-1
+Newcastle
+22710
+West Brom
+1-0
+Spurs
+22711
+Spurs
+2-0
+Watford
+22700
+Man Utd
+2-1
+Arsenal
+22696
+Swansea
+0-1
+Chelsea
+22699
+West Ham
+1-4
+Man City
+22701
+Liverpool
+0-0
+Stoke
+22695
+Burnley
+0-0
+Brighton
+22692
+Crystal Palace
+5-0
+Leicester
+22693
+Huddersfield
+0-2
+Everton
+22694
+Newcastle
+0-1
+West Brom
+22697
+Southampton
+2-1
+Bournemouth
+22698
+Everton
+1-0
+Newcastle
+22686
+Man City
+5-0
+Swansea
+22688
+Arsenal
+4-1
+West Ham
+22682
+Stoke
+1-1
+Burnley
+22689
+West Brom
+2-2
+Liverpool
+22691
+Watford
+0-0
+Crystal Palace
+22690
+Burnley
+1-2
+Chelsea
+22643
+Leicester
+0-0
+Southampton
+22687
+Bournemouth
+0-2
+Man Utd
+22683
+Brighton
+1-1
+Spurs
+22684
+West Ham
+1-1
+Stoke
+22681
+Man Utd
+0-1
+West Brom
+22676
+Liverpool
+3-0
+Bournemouth
+22675
+Spurs
+1-3
+Man City
+22680
+Newcastle
+2-1
+Arsenal
+22677
+Southampton
+2-3
+Chelsea
+22678
+Burnley
+2-1
+Leicester
+22672
+Crystal Palace
+3-2
+Brighton
+22673
+Huddersfield
+1-0
+Watford
+22674
+Swansea
+1-1
+Everton
+22679
+Chelsea
+1-1
+West Ham
+22665
+Man City
+2-3
+Man Utd
+22668
+Arsenal
+3-2
+Southampton
+22662
+Everton
+0-0
+Liverpool
+22666
+Bournemouth
+2-2
+Crystal Palace
+22663
+Brighton
+1-1
+Huddersfield
+22664
+Leicester
+1-2
+Newcastle
+22667
+Stoke
+1-2
+Spurs
+22669
+Watford
+1-2
+Burnley
+22670
+West Brom
+1-1
+Swansea
+22671
+Chelsea
+1-3
+Spurs
+22654
+Everton
+1-3
+Man City
+22656
+Arsenal
+3-0
+Stoke
+22652
+Crystal Palace
+1-2
+Liverpool
+22655
+Brighton
+0-2
+Leicester
+22653
+Man Utd
+2-0
+Swansea
+22657
+Newcastle
+1-0
+Huddersfield
+22658
+Watford
+2-2
+Bournemouth
+22660
+West Brom
+1-2
+Burnley
+22661
+West Ham
+3-0
+Southampton
+22361
+Bournemouth
+2-1
+West Brom
+22642
+Huddersfield
+0-2
+Crystal Palace
+22644
+Stoke
+1-2
+Everton
+22648
+Liverpool
+5-0
+Watford
+22646
+Stoke
+0-2
+Man City
+22639
+Bournemouth
+1-4
+Spurs
+22633
+Everton
+2-0
+Brighton
+22635
+Huddersfield
+0-0
+Swansea
+22636
+Newcastle
+3-0
+Southampton
+22638
+West Brom
+1-4
+Leicester
+22640
+West Ham
+0-3
+Burnley
+22641
+Chelsea
+2-1
+Crystal Palace
+22634
+Arsenal
+3-0
+Watford
+22632
+Man Utd
+2-1
+Liverpool
+22637
+Crystal Palace
+2-3
+Man Utd
+22624
+Man City
+1-0
+Chelsea
+22627
+Leicester
+1-1
+Bournemouth
+22625
+Southampton
+0-0
+Stoke
+22628
+Swansea
+4-1
+West Ham
+22629
+Spurs
+2-0
+Huddersfield
+22630
+Watford
+1-0
+West Brom
+22631
+Liverpool
+2-0
+Newcastle
+22626
+Brighton
+2-1
+Arsenal
+22622
+Burnley
+2-1
+Everton
+22623
+Arsenal
+0-3
+Man City
+22612
+Bournemouth
+2-2
+Newcastle
+22613
+Brighton
+4-1
+Swansea
+22614
+Burnley
+1-1
+Southampton
+22615
+Liverpool
+4-1
+West Ham
+22618
+West Brom
+1-2
+Huddersfield
+22621
+Watford
+1-0
+Everton
+22620
+Crystal Palace
+0-1
+Spurs
+22616
+Man Utd
+2-1
+Chelsea
+22619
+Leicester
+1-1
+Stoke
+22617
+Chelsea
+3-0
+West Brom
+22602
+Southampton
+0-2
+Liverpool
+22607
+Everton
+3-1
+Crystal Palace
+22603
+Stoke
+1-1
+Brighton
+22608
+Swansea
+1-0
+Burnley
+22609
+West Ham
+2-0
+Watford
+22611
+Man City
+5-1
+Leicester
+22605
+Huddersfield
+4-1
+Bournemouth
+22604
+Newcastle
+1-0
+Man Utd
+22606
+Spurs
+1-0
+Arsenal
+22610
+Watford
+4-1
+Chelsea
+22600
+Liverpool
+2-2
+Spurs
+22598
+Bournemouth
+2-1
+Stoke
+22593
+Brighton
+3-1
+West Ham
+22594
+Leicester
+1-1
+Swansea
+22597
+Man Utd
+2-0
+Huddersfield
+22599
+West Brom
+2-3
+Southampton
+22601
+Arsenal
+5-1
+Everton
+22592
+Crystal Palace
+1-1
+Newcastle
+22596
+Burnley
+1-1
+Man City
+22595
+Chelsea
+0-3
+Bournemouth
+22585
+Everton
+2-1
+Leicester
+22586
+Newcastle
+1-1
+Burnley
+22588
+Southampton
+1-1
+Brighton
+22589
+Man City
+3-0
+West Brom
+22587
+Stoke
+0-0
+Watford
+22590
+Spurs
+2-0
+Man Utd
+22591
+Swansea
+3-1
+Arsenal
+22583
+West Ham
+1-1
+Crystal Palace
+22584
+Huddersfield
+0-3
+Liverpool
+22582
+Swansea
+1-0
+Liverpool
+22580
+Southampton
+1-1
+Spurs
+22578
+Arsenal
+4-1
+Crystal Palace
+22572
+Burnley
+0-1
+Man Utd
+22574
+Everton
+1-1
+West Brom
+22575
+Leicester
+2-0
+Watford
+22576
+Stoke
+2-0
+Huddersfield
+22579
+West Ham
+1-1
+Bournemouth
+22581
+Man City
+3-1
+Newcastle
+22577
+Brighton
+0-4
+Chelsea
+22573
+Man Utd
+3-0
+Stoke
+22567
+Liverpool
+4-3
+Man City
+22566
+Chelsea
+0-0
+Leicester
+22563
+Crystal Palace
+1-0
+Burnley
+22564
+Huddersfield
+1-4
+West Ham
+22565
+Newcastle
+1-1
+Swansea
+22568
+Watford
+2-2
+Southampton
+22570
+West Brom
+2-0
+Brighton
+22571
+Spurs
+4-0
+Everton
+22569
+Bournemouth
+2-1
+Arsenal
+22562
+Spurs
+1-1
+West Ham
+22549
+Arsenal
+2-2
+Chelsea
+22552
+Southampton
+1-2
+Crystal Palace
+22558
+Swansea
+0-2
+Spurs
+22560
+West Ham
+2-1
+West Brom
+22561
+Man City
+3-1
+Watford
+22557
+Burnley
+1-2
+Liverpool
+22554
+Leicester
+3-0
+Huddersfield
+22556
+Stoke
+0-1
+Newcastle
+22559
+Everton
+0-2
+Man Utd
+22555
+West Brom
+1-1
+Arsenal
+22551
+Brighton
+2-2
+Bournemouth
+22553
+Bournemouth
+2-1
+Everton
+22542
+Chelsea
+5-0
+Stoke
+22543
+Huddersfield
+0-0
+Burnley
+22545
+Liverpool
+2-1
+Leicester
+22546
+Newcastle
+0-0
+Brighton
+22548
+Watford
+1-2
+Swansea
+22550
+Man Utd
+0-0
+Southampton
+22547
+Crystal Palace
+0-0
+Man City
+22544
+Crystal Palace
+2-3
+Arsenal
+22534
+Newcastle
+0-1
+Man City
+22538
+Bournemouth
+3-3
+West Ham
+22532
+Chelsea
+2-0
+Brighton
+22533
+Huddersfield
+1-1
+Stoke
+22535
+Man Utd
+2-2
+Burnley
+22537
+Watford
+2-1
+Leicester
+22540
+West Brom
+0-0
+Everton
+22541
+Liverpool
+5-0
+Swansea
+22536
+Spurs
+5-2
+Southampton
+22539
+Brighton
+1-0
+Watford
+22523
+Man City
+4-0
+Bournemouth
+22527
+Southampton
+1-1
+Huddersfield
+22528
+Stoke
+3-1
+West Brom
+22529
+Swansea
+1-1
+Crystal Palace
+22530
+West Ham
+2-3
+Newcastle
+22531
+Burnley
+0-3
+Spurs
+22524
+Leicester
+2-2
+Man Utd
+22526
+Arsenal
+3-3
+Liverpool
+22522
+Everton
+0-0
+Chelsea
+22525
+Everton
+3-1
+Swansea
+22516
+Bournemouth
+0-4
+Liverpool
+22513
+Arsenal
+1-0
+Newcastle
+22512
+Brighton
+0-0
+Burnley
+22514
+Chelsea
+1-0
+Southampton
+22515
+Watford
+1-4
+Huddersfield
+22520
+Stoke
+0-3
+West Ham
+22519
+Man City
+4-1
+Spurs
+22518
+West Brom
+1-2
+Man Utd
+22521
+Leicester
+0-3
+Crystal Palace
+22517
+Newcastle
+0-1
+Everton
+22509
+Southampton
+1-4
+Leicester
+22510
+Swansea
+0-4
+Man City
+22506
+Liverpool
+0-0
+West Brom
+22508
+Man Utd
+1-0
+Bournemouth
+22505
+Spurs
+2-0
+Brighton
+22511
+West Ham
+0-0
+Arsenal
+22507
+Burnley
+1-0
+Stoke
+22502
+Crystal Palace
+2-1
+Watford
+22503
+Huddersfield
+1-3
+Chelsea
+22504
+Man Utd
+1-2
+Man City
+22496
+Burnley
+1-0
+Watford
+22492
+Crystal Palace
+2-2
+Bournemouth
+22493
+Huddersfield
+2-0
+Brighton
+22494
+Swansea
+1-0
+West Brom
+22499
+Spurs
+5-1
+Stoke
+22500
+Newcastle
+2-3
+Leicester
+22497
+Southampton
+1-1
+Arsenal
+22498
+Liverpool
+1-1
+Everton
+22495
+West Ham
+1-0
+Chelsea
+22501
+Man City
+2-1
+West Ham
+22488
+Brighton
+1-5
+Liverpool
+22484
+Everton
+2-0
+Huddersfield
+22486
+Leicester
+1-0
+Burnley
+22487
+Stoke
+2-1
+Swansea
+22489
+Watford
+1-1
+Spurs
+22490
+West Brom
+0-0
+Crystal Palace
+22491
+Arsenal
+1-3
+Man Utd
+22482
+Bournemouth
+1-1
+Southampton
+22483
+Chelsea
+3-1
+Newcastle
+22485
+Arsenal
+5-0
+Huddersfield
+22472
+Bournemouth
+1-2
+Burnley
+22473
+Chelsea
+1-0
+Swansea
+22478
+Everton
+4-0
+West Ham
+22479
+Man City
+2-1
+Southampton
+22480
+Stoke
+0-3
+Liverpool
+22481
+Brighton
+0-0
+Crystal Palace
+22474
+Leicester
+2-1
+Spurs
+22475
+Watford
+2-4
+Man Utd
+22476
+West Brom
+2-2
+Newcastle
+22477
+Huddersfield
+1-2
+Man City
+22464
+Crystal Palace
+2-1
+Stoke
+22463
+Man Utd
+1-0
+Brighton
+22466
+Newcastle
+0-3
+Watford
+22467
+Swansea
+0-0
+Bournemouth
+22469
+Spurs
+1-1
+West Brom
+22470
+Liverpool
+1-1
+Chelsea
+22465
+Southampton
+4-1
+Everton
+22468
+Burnley
+0-1
+Arsenal
+22462
+West Ham
+1-1
+Leicester
+22471
+Brighton
+2-2
+Stoke
+22454
+Watford
+2-0
+West Ham
+22460
+Bournemouth
+4-0
+Huddersfield
+22453
+Burnley
+2-0
+Swansea
+22455
+Crystal Palace
+2-2
+Everton
+22456
+Leicester
+0-2
+Man City
+22457
+Liverpool
+3-0
+Southampton
+22458
+West Brom
+0-4
+Chelsea
+22461
+Man Utd
+4-1
+Newcastle
+22459
+Arsenal
+2-0
+Spurs
+22452
+Chelsea
+1-0
+Man Utd
+22442
+Everton
+3-2
+Watford
+22443
+Huddersfield
+1-0
+West Brom
+22444
+Newcastle
+0-1
+Bournemouth
+22446
+Southampton
+0-1
+Burnley
+22447
+Swansea
+0-1
+Brighton
+22449
+West Ham
+1-4
+Liverpool
+22451
+Spurs
+1-0
+Crystal Palace
+22450
+Man City
+3-1
+Arsenal
+22445
+Stoke
+2-2
+Leicester
+22448
+Burnley
+1-0
+Newcastle
+22435
+Leicester
+2-0
+Everton
+22437
+Bournemouth
+0-1
+Chelsea
+22433
+Brighton
+1-1
+Southampton
+22434
+Man Utd
+1-0
+Spurs
+22439
+Arsenal
+2-1
+Swansea
+22432
+Crystal Palace
+2-2
+West Ham
+22436
+Liverpool
+3-0
+Huddersfield
+22438
+Watford
+0-1
+Stoke
+22440
+West Brom
+2-3
+Man City
+22441
+Spurs
+4-1
+Liverpool
+22430
+Southampton
+1-0
+West Brom
+22427
+Everton
+2-5
+Arsenal
+22423
+West Ham
+0-3
+Brighton
+22431
+Chelsea
+4-2
+Watford
+22422
+Huddersfield
+2-1
+Man Utd
+22424
+Man City
+3-0
+Burnley
+22425
+Newcastle
+1-0
+Crystal Palace
+22426
+Stoke
+1-2
+Bournemouth
+22428
+Swansea
+1-2
+Leicester
+22429
+Leicester
+1-1
+West Brom
+22415
+Southampton
+2-2
+Newcastle
+22418
+Watford
+2-1
+Arsenal
+22421
+Brighton
+1-1
+Everton
+22412
+Liverpool
+0-0
+Man Utd
+22416
+Burnley
+1-1
+West Ham
+22413
+Crystal Palace
+2-1
+Chelsea
+22414
+Man City
+7-2
+Stoke
+22417
+Swansea
+2-0
+Huddersfield
+22419
+Spurs
+1-0
+Bournemouth
+22420
+Newcastle
+1-1
+Liverpool
+22408
+Chelsea
+0-1
+Man City
+22404
+Arsenal
+2-0
+Brighton
+22402
+Everton
+0-1
+Burnley
+22405
+Huddersfield
+0-4
+Spurs
+22406
+Bournemouth
+0-0
+Leicester
+22403
+Man Utd
+4-0
+Crystal Palace
+22407
+Stoke
+2-1
+Southampton
+22409
+West Brom
+2-2
+Watford
+22410
+West Ham
+1-0
+Swansea
+22411
+Arsenal
+2-0
+West Brom
+22392
+Brighton
+1-0
+Newcastle
+22393
+Leicester
+2-3
+Liverpool
+22396
+West Ham
+2-3
+Spurs
+22401
+Burnley
+0-0
+Huddersfield
+22394
+Everton
+2-1
+Bournemouth
+22395
+Man City
+5-0
+Crystal Palace
+22397
+Southampton
+0-1
+Man Utd
+22398
+Stoke
+0-4
+Chelsea
+22399
+Swansea
+1-2
+Watford
+22400
+Man Utd
+4-0
+Everton
+22387
+Spurs
+0-0
+Swansea
+22389
+Chelsea
+0-0
+Arsenal
+22383
+Bournemouth
+2-1
+Brighton
+22382
+Crystal Palace
+0-1
+Southampton
+22384
+Huddersfield
+1-1
+Leicester
+22385
+Liverpool
+1-1
+Burnley
+22386
+Newcastle
+2-1
+Stoke
+22388
+Watford
+0-6
+Man City
+22390
+West Brom
+0-0
+West Ham
+22391
+West Ham
+2-0
+Huddersfield
+22381
+Swansea
+0-1
+Newcastle
+22380
+Stoke
+2-2
+Man Utd
+22379
+Burnley
+1-0
+Crystal Palace
+22374
+Man City
+5-0
+Liverpool
+22377
+Arsenal
+3-0
+Bournemouth
+22372
+Brighton
+3-1
+West Brom
+22373
+Everton
+0-3
+Spurs
+22375
+Leicester
+1-2
+Chelsea
+22376
+Southampton
+0-2
+Watford
+22378
+Liverpool
+4-0
+Arsenal
+22366
+Spurs
+1-1
+Burnley
+22369
+Man Utd
+2-0
+Leicester
+22367
+Chelsea
+2-0
+Everton
+22363
+West Brom
+1-1
+Stoke
+22371
+Bournemouth
+1-2
+Man City
+22362
+Crystal Palace
+0-2
+Swansea
+22364
+Huddersfield
+0-0
+Southampton
+22365
+Newcastle
+3-0
+West Ham
+22368
+Watford
+0-0
+Brighton
+22370
+Man City
+1-1
+Everton
+22357
+Spurs
+1-2
+Chelsea
+22360
+Stoke
+1-0
+Arsenal
+22358
+Huddersfield
+1-0
+Newcastle
+22354
+Swansea
+0-4
+Man Utd
+22359
+Bournemouth
+0-2
+Watford
+22352
+Burnley
+0-1
+West Brom
+22353
+Leicester
+2-0
+Brighton
+22355
+Liverpool
+1-0
+Crystal Palace
+22356
+Southampton
+3-2
+West Ham
+22659
+Man Utd
+4-0
+West Ham
+22347
+Brighton
+0-2
+Man City
+22343
+Newcastle
+0-2
+Spurs
+22348
+Arsenal
+4-3
+Leicester
+22342
+Watford
+3-3
+Liverpool
+22350
+Chelsea
+2-3
+Burnley
+22344
+Crystal Palace
+0-3
+Huddersfield
+22345
+Everton
+1-0
+Stoke
+22346
+Southampton
+0-0
+Swansea
+22349
+West Brom
+1-0
+Bournemouth
+22351
