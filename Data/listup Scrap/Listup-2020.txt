@@ -9212,31 +9212,31 @@ Simon Moore
 
 Match: 46661
 Home Lineup
-
-
-
-
-
-
-
-
-
-
-
-
+Ederson
+Kyle Walker
+Benjamin Mendy
+Fernandinho
+Nicolás Otamendi
+Rodri
+Kevin De Bruyne
+David Silva
+Sergio Agüero
+Bernardo Silva
+Riyad Mahrez
+Claudio Bravo
 Away Lineup
-
-
-
-
-
-
-
-
-
-
-
-
+Ben Foster
+Craig Dawson
+Adrian Mariappa
+kiko Femenia
+José Holebas
+Dimitri Foulquier
+Abdoulaye Doucouré
+Will Hughes
+Etienne Capoue
+Gerard Deulofeu
+Tom Cleverley
+Heurelho Gomes
 
 Match: 46645
 Home Lineup
