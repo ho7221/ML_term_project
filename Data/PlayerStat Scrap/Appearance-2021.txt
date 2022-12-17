@@ -1,0 +1,2571 @@
+playerID: 13286
+player: Tammy Abraham
+89
+playerID: 21821
+player: Adam Lewis
+0
+playerID: 4979
+player: Adama Traoré
+172
+playerID: 10905
+player: Che Adams
+110
+playerID: 13549
+player: Tosin Adarabioyo
+43
+playerID: 14674
+player: Dennis Adeniran
+0
+playerID: 4852
+player: Adrián
+139
+playerID: 11357
+player: Adrien Silva
+14
+playerID: 21797
+player: Oladapo Afolayan
+0
+playerID: 4328
+player: Sergio Agüero
+275
+playerID: 4183
+player: Ahmed El Mohamady
+197
+playerID: 6609
+player: Ahmed Hegazy
+39
+playerID: 10439
+player: Ola Aina
+34
+playerID: 71432
+player: Rayan Aït-Nouri
+54
+playerID: 10424
+player: Semi Ajayi
+33
+playerID: 5248
+player: Albian Ajeti
+9
+playerID: 4499
+player: Nathan Aké
+178
+playerID: 3564
+player: Marc Albrighton
+307
+playerID: 4916
+player: Toby Alderweireld
+200
+playerID: 20053
+player: Ajibola Alese
+0
+playerID: 5467
+player: Alex Telles
+30
+playerID: 14732
+player: Trent Alexander-Arnold
+175
+playerID: 55603
+player: Ali Koiki
+0
+playerID: 22698
+player: Ezgjan Alioski
+36
+playerID: 20559
+player: Alisson
+150
+playerID: 15994
+player: Allan
+52
+playerID: 9167
+player: Dele Alli
+194
+playerID: 54312
+player: Miguel Almirón
+125
+playerID: 4093
+player: Marcos Alonso
+179
+playerID: 112097
+player: Frederik Alves
+0
+playerID: 20723
+player: Steven Alzate
+43
+playerID: 12306
+player: Daniel Amartey
+98
+playerID: 19731
+player: Ethan Ampadu
+26
+playerID: 48689
+player: Joseph Anang
+0
+playerID: 26151
+player: Joachim Andersen
+78
+playerID: 51593
+player: Elliot Anderson
+8
+playerID: 37587
+player: Florin Andone
+26
+playerID: 5061
+player: André Gomes
+88
+playerID: 10476
+player: Andreas Pereira
+60
+playerID: 32162
+player: Frank Anguissa
+58
+playerID: 24708
+player: Faustino Anjorin
+1
+playerID: 9595
+player: Michail Antonio
+209
+playerID: 25281
+player: Cameron Archer
+9
+playerID: 5748
+player: Alphonse Aréola
+39
+playerID: 12186
+player: Stuart Armstrong
+131
+playerID: 11373
+player: Kepa Arrizabalaga
+86
+playerID: 8050
+player: Harry Arter
+94
+playerID: 31883
+player: Harrison Ashby
+1
+playerID: 23750
+player: Ryan Astley
+0
+playerID: 4859
+player: Christian Atsu
+80
+playerID: 5110
+player: Pierre-Emerick Aubameyang
+134
+playerID: 11293
+player: Serge Aurier
+84
+playerID: 15114
+player: Brandon Austin
+0
+playerID: 15340
+player: Taiwo Awoniyi
+13
+playerID: 5595
+player: Jordan Ayew
+215
+playerID: 3314
+player: Luke Ayling
+71
+playerID: 21518
+player: Finn Azaz
+0
+playerID: 26975
+player: Miguel Azeez
+0
+playerID: 4496
+player: César Azpilicueta
+335
+playerID: 12937
+player: Eric Bailly
+70
+playerID: 3030
+player: Leighton Baines
+420
+playerID: 11260
+player: Tiemoué Bakayoko
+29
+playerID: 4749
+player: Lewis Baker
+0
+playerID: 32435
+player: Fabián Balbuena
+54
+playerID: 9169
+player: George Baldock
+70
+playerID: 3513
+player: Gareth Bale
+166
+playerID: 19864
+player: Dan Ballard
+0
+playerID: 19871
+player: Folarin Balogun
+2
+playerID: 4291
+player: Patrick Bamford
+84
+playerID: 14623
+player: Beni Baningime
+8
+playerID: 51695
+player: Jamal Baptiste
+0
+playerID: 2517
+player: Phil Bardsley
+303
+playerID: 4115
+player: Ross Barkley
+232
+playerID: 13590
+player: Daniel Barlaser
+0
+playerID: 8246
+player: Ashley Barnes
+200
+playerID: 52960
+player: Louie Barry
+0
+playerID: 3312
+player: Kyle Bartley
+51
+playerID: 3581
+player: Chris Basham
+90
+playerID: 49501
+player: Lewis Bate
+3
+playerID: 7450
+player: Michy Batshuayi
+77
+playerID: 14568
+player: Nathan Baxter
+0
+playerID: 33166
+player: Jack Bearne
+0
+playerID: 19589
+player: Jan Bednarek
+135
+playerID: 4474
+player: Héctor Bellerín
+183
+playerID: 9117
+player: Ben Gibson
+67
+playerID: 14758
+player: Ben Woodburn
+6
+playerID: 16671
+player: Filip Benkovic
+0
+playerID: 4351
+player: Ryan Bennett
+111
+playerID: 20517
+player: Saïd Benrahma
+75
+playerID: 14441
+player: Josh Benson
+6
+playerID: 4847
+player: Nabil Bentaleb
+58
+playerID: 4492
+player: Christian Benteke
+280
+playerID: 10761
+player: Gaetano Berardi
+2
+playerID: 21614
+player: Sander Berge
+29
+playerID: 12703
+player: Steven Bergwijn
+60
+playerID: 50975
+player: Adrián Bernabé
+0
+playerID: 5907
+player: Bernard
+73
+playerID: 23591
+player: Bernardo
+39
+playerID: 21422
+player: Bernardo Rosa
+0
+playerID: 5067
+player: Bernardo Silva
+180
+playerID: 2886
+player: Ryan Bertrand
+262
+playerID: 10451
+player: Muhamed Besic
+46
+playerID: 4511
+player: Marcus Bettinelli
+7
+playerID: 21881
+player: Nathan Bishop
+0
+playerID: 50245
+player: Yves Bissouma
+126
+playerID: 107846
+player: Lamare Bogarde
+0
+playerID: 14608
+player: Jayden Bogle
+16
+playerID: 64271
+player: Mateusz Bogusz
+0
+playerID: 14434
+player: Tolaji Bola
+0
+playerID: 4763
+player: Yannick Bolasie
+119
+playerID: 16204
+player: Willy Boly
+91
+playerID: 9929
+player: Jonathan Bond
+0
+playerID: 12584
+player: Sofiane Boufal
+70
+playerID: 23951
+player: Jamie Bowden
+0
+playerID: 8868
+player: Jarrod Bowen
+109
+playerID: 23812
+player: Morgan Boyes
+0
+playerID: 4158
+player: Robert Brady
+160
+playerID: 66318
+player: Jarrad Branthwaite
+10
+playerID: 5810
+player: Claudio Bravo
+29
+playerID: 14742
+player: Rhian Brewster
+27
+playerID: 19894
+player: Mungo Bridge
+0
+playerID: 23837
+player: George Broadbent
+0
+playerID: 14636
+player: Nathan Broadhead
+1
+playerID: 31442
+player: Armando Broja
+45
+playerID: 9457
+player: Josh Brownhill
+78
+playerID: 23396
+player: Bruno Fernandes
+100
+playerID: 25191
+player: Bruno Jordão
+1
+playerID: 64464
+player: Zak Brunt
+0
+playerID: 8185
+player: Joe Bryan
+44
+playerID: 112458
+player: Hugo Bueno
+0
+playerID: 10596
+player: Oliver Burke
+40
+playerID: 8707
+player: Dan Burn
+114
+playerID: 14444
+player: Robbie Burton
+0
+playerID: 4634
+player: Jack Butland
+87
+playerID: 3505
+player: David Button
+5
+playerID: 25435
+player: Oskar Buur
+1
+playerID: 10466
+player: Willy Caballero
+36
+playerID: 2620
+player: Gary Cahill
+394
+playerID: 112203
+player: Moisés Caicedo
+22
+playerID: 32279
+player: Jake Cain
+0
+playerID: 3894
+player: Tom Cairney
+67
+playerID: 14482
+player: Callum Rowe
+0
+playerID: 9576
+player: Dominic Calvert-Lewin
+170
+playerID: 74562
+player: Leonardo Campana
+0
+playerID: 19868
+player: Vontae Campbell
+0
+playerID: 74591
+player: Elia Caprile
+0
+playerID: 50501
+player: Carlos Vinícius
+18
+playerID: 15989
+player: Guido Carrillo
+7
+playerID: 3175
+player: Andy Carroll
+248
+playerID: 2250
+player: Scott Carson
+146
+playerID: 13814
+player: Cameron Carter-Vickers
+0
+playerID: 53269
+player: Oliver Casey
+0
+playerID: 13344
+player: Matty Cash
+79
+playerID: 19951
+player: Lewis Cass
+0
+playerID: 6712
+player: Timothy Castagne
+68
+playerID: 5771
+player: Edinson Cavani
+41
+playerID: 7163
+player: Dani Ceballos
+49
+playerID: 11347
+player: Cédric Soares
+158
+playerID: 4620
+player: Calum Chambers
+165
+playerID: 65849
+player: Kgaogelo Chauke
+0
+playerID: 13491
+player: Ben Chilwell
+142
+playerID: 20858
+player: Tahith Chong
+5
+playerID: 13248
+player: Hamza Choudhury
+53
+playerID: 69747
+player: Ben Chrisene
+0
+playerID: 4495
+player: Andreas Christensen
+93
+playerID: 64522
+player: Christian Marques
+0
+playerID: 8438
+player: Cyrus Christie
+28
+playerID: 64140
+player: Carney Chukwuemeka
+17
+playerID: 51609
+player: Dennis Cirkin
+0
+playerID: 3562
+player: Ciaran Clark
+214
+playerID: 2593
+player: Leon Clarke
+2
+playerID: 33335
+player: Leighton Clarkson
+0
+playerID: 23809
+player: Thomas Clayton
+0
+playerID: 4604
+player: Nathaniel Clyne
+222
+playerID: 4136
+player: Conor Coady
+166
+playerID: 14559
+player: Alex Cochrane
+0
+playerID: 3600
+player: Séamus Coleman
+337
+playerID: 21653
+player: Aaron Connolly
+45
+playerID: 3622
+player: Liam Cooper
+56
+playerID: 53182
+player: Theo Corbeanu
+1
+playerID: 2889
+player: Jack Cork
+300
+playerID: 49256
+player: Ben Cottrell
+0
+playerID: 7336
+player: Vladimír Coufal
+71
+playerID: 94666
+player: Ismaila Coulibaly
+0
+playerID: 15211
+player: Conor Coventry
+1
+playerID: 69286
+player: Charlie Cresswell
+5
+playerID: 10539
+player: Josh Cullen
+3
+playerID: 14565
+player: Jamie Cumming
+0
+playerID: 23989
+player: Luke Cundle
+4
+playerID: 22870
+player: Patrick Cutrone
+14
+playerID: 8148
+player: Stuart Dallas
+72
+playerID: 11362
+player: Daniel Podence
+74
+playerID: 3807
+player: Scott Dann
+241
+playerID: 25892
+player: Kevin Danso
+6
+playerID: 9251
+player: Karl Darlow
+52
+playerID: 4100
+player: David Luiz
+213
+playerID: 13389
+player: Tom Davies
+143
+playerID: 13130
+player: Keinan Davis
+34
+playerID: 4198
+player: Craig Dawson
+243
+playerID: 12198
+player: Laurens De Bock
+0
+playerID: 4288
+player: Kevin De Bruyne
+224
+playerID: 8192
+player: Bobby De Cordova-Reid
+74
+playerID: 4330
+player: David de Gea
+391
+playerID: 14676
+player: Luca de la Torre
+0
+playerID: 51813
+player: Liam Delap
+2
+playerID: 3799
+player: Fabian Delph
+204
+playerID: 67927
+player: Lars Dendoncker
+0
+playerID: 77990
+player: Alfie Devine
+0
+playerID: 14706
+player: Kiernan Dewsbury-Hall
+43
+playerID: 32936
+player: Fousseni Diabaté
+15
+playerID: 75226
+player: Cheikh Diaby
+0
+playerID: 5548
+player: Mbaye Diagne
+16
+playerID: 54032
+player: Mamadou Dialla Sylla
+0
+playerID: 69176
+player: Amad Diallo
+3
+playerID: 15199
+player: Grady Diangana
+37
+playerID: 4112
+player: Eric Dier
+252
+playerID: 5758
+player: Lucas Digne
+139
+playerID: 24252
+player: Diogo Dalot
+57
+playerID: 19758
+player: Diogo Jota
+125
+playerID: 31885
+player: Alpha Richard Dionkou
+0
+playerID: 49884
+player: Issa Diop
+104
+playerID: 50996
+player: Mikkel Diskerud
+0
+playerID: 24231
+player: Elijah Dixon-Bonner
+0
+playerID: 52153
+player: Moussa Djenepo
+67
+playerID: 4229
+player: Matt Doherty
+115
+playerID: 13823
+player: Abdoulaye Doucouré
+195
+playerID: 16347
+player: Barry Douglas
+0
+playerID: 24626
+player: Douglas Luiz
+117
+playerID: 24637
+player: Tommy Doyle
+1
+playerID: 24811
+player: Cody Drameh
+4
+playerID: 3670
+player: Danny Drinkwater
+104
+playerID: 23810
+player: Anthony Driscoll-Glennon
+0
+playerID: 6451
+player: Martin Dúbravka
+127
+playerID: 3601
+player: Shane Duffy
+118
+playerID: 4340
+player: Paul Dummett
+146
+playerID: 8163
+player: Lewis Dunk
+186
+playerID: 14829
+player: Jimmy Dunne
+3
+playerID: 74787
+player: Frankie Ealing
+0
+playerID: 14255
+player: Jake Eastwood
+0
+playerID: 12707
+player: Ederson
+196
+playerID: 31439
+player: Ryan Edmondson
+0
+playerID: 13869
+player: Kyle Edwards
+5
+playerID: 4394
+player: John Egan
+67
+playerID: 11033
+player: Anwar El Ghazi
+73
+playerID: 49259
+player: Anthony Elanga
+33
+playerID: 20946
+player: Elias Sørensen
+0
+playerID: 33185
+player: Harvey Elliott
+24
+playerID: 16803
+player: Emerson
+40
+playerID: 107863
+player: Ulrick Eneme-Ella
+0
+playerID: 12199
+player: Björn Engels
+17
+playerID: 3156
+player: Jonny Evans
+352
+playerID: 21584
+player: Eberechi Eze
+61
+playerID: 3309
+player: Lukasz Fabianski
+331
+playerID: 11247
+player: Fabinho
+129
+playerID: 32289
+player: Fábio Carvalho
+15
+playerID: 66670
+player: Fábio Silva
+54
+playerID: 19771
+player: Fabri
+2
+playerID: 31663
+player: Malachi Fagan-Walcott
+0
+playerID: 23703
+player: Juan Familia-Castillo
+0
+playerID: 6784
+player: Felipe Anderson
+63
+playerID: 14713
+player: Josh Felix-Eppiah
+0
+playerID: 23976
+player: Nathan Ferguson
+1
+playerID: 5672
+player: Federico Fernández
+199
+playerID: 4804
+player: Fernandinho
+264
+playerID: 22002
+player: Will Ferry
+0
+playerID: 13867
+player: Sam Field
+22
+playerID: 78267
+player: Ryan Finnigan
+0
+playerID: 51582
+player: William Fish
+1
+playerID: 51544
+player: Ethan Fitzhugh
+0
+playerID: 8444
+player: John Fleck
+61
+playerID: 52959
+player: Shane Flynn
+0
+playerID: 14805
+player: Phil Foden
+111
+playerID: 3881
+player: Wes Foderingham
+0
+playerID: 66284
+player: Wesley Fofana
+39
+playerID: 25246
+player: Pablo Fornals
+119
+playerID: 3877
+player: Adam Forshaw
+60
+playerID: 3170
+player: Fraser Forster
+134
+playerID: 13561
+player: Timothy Fosu-Mensah
+49
+playerID: 25309
+player: Juan Foyth
+16
+playerID: 24704
+player: Tyrese Francois
+2
+playerID: 8052
+player: Ryan Fraser
+173
+playerID: 5906
+player: Fred
+115
+playerID: 3958
+player: Ryan Fredericks
+71
+playerID: 3320
+player: Luke Freeman
+11
+playerID: 5371
+player: Christian Fuchs
+116
+playerID: 10491
+player: Darnell Furlong
+38
+playerID: 19680
+player: Gabriel Jesus
+173
+playerID: 50234
+player: Gabriel Magalhães
+72
+playerID: 66104
+player: Gabriel Martinelli
+71
+playerID: 24649
+player: Ethan Galbraith
+0
+playerID: 33072
+player: Tony Gallacher
+0
+playerID: 21887
+player: Conor Gallagher
+76
+playerID: 24635
+player: Eric García
+19
+playerID: 26714
+player: Taylor Gardner-Hickman
+0
+playerID: 23841
+player: James Garner
+8
+playerID: 4771
+player: Dwight Gayle
+145
+playerID: 4600
+player: Paulo Gazzaniga
+43
+playerID: 20187
+player: Jean-Philippe Gbamin
+6
+playerID: 50857
+player: Gedson Fernandes
+7
+playerID: 51754
+player: Joe Gelhardt
+31
+playerID: 6889
+player: Rachid Ghezzal
+19
+playerID: 3046
+player: Kieran Gibbs
+180
+playerID: 15259
+player: Morgan Gibbs-White
+61
+playerID: 20081
+player: Ryan Giles
+0
+playerID: 8321
+player: Mark Gillespie
+0
+playerID: 24221
+player: Billy Gilmour
+39
+playerID: 4481
+player: Olivier Giroud
+255
+playerID: 10968
+player: Ben Godfrey
+85
+playerID: 50989
+player: Claudio Gomes
+0
+playerID: 10651
+player: Joe Gomez
+99
+playerID: 66362
+player: Gonçalo Cardoso
+0
+playerID: 14795
+player: Mace Goodridge
+0
+playerID: 64037
+player: John-Kymani Gordon
+0
+playerID: 25429
+player: Robbie Gotts
+0
+playerID: 19909
+player: Kamil Grabara
+0
+playerID: 24399
+player: Sam Graham
+0
+playerID: 1870
+player: Lee Grant
+31
+playerID: 7946
+player: Demarai Gray
+182
+playerID: 4260
+player: Jack Grealish
+130
+playerID: 23911
+player: Sam Greenwood
+13
+playerID: 22542
+player: Pascal Groß
+169
+playerID: 21731
+player: Kamil Grosicki
+18
+playerID: 25291
+player: Jay-Roy Grot
+0
+playerID: 13985
+player: Marko Grujic
+8
+playerID: 7548
+player: Vicente Guaita
+136
+playerID: 6210
+player: Jóhann Gudmundsson
+136
+playerID: 50512
+player: Mattéo Guendouzi
+57
+playerID: 15549
+player: Frédéric Guilbert
+25
+playerID: 5101
+player: Ilkay Gündogan
+169
+playerID: 15269
+player: Angus Gunn
+31
+playerID: 51437
+player: Peter Gwargis
+0
+playerID: 32728
+player: Viktor Gyökeres
+0
+playerID: 83496
+player: Antwoine Hackford
+1
+playerID: 49761
+player: Sébastien Haller
+48
+playerID: 15186
+player: Reece Hannam
+0
+playerID: 14808
+player: Joseph Hardy
+0
+playerID: 23978
+player: George Harmon
+0
+playerID: 20101
+player: Rekeem Harper
+3
+playerID: 14665
+player: Jayden Harris
+0
+playerID: 33135
+player: Jack Harrison
+84
+playerID: 3143
+player: Joe Hart
+340
+playerID: 25447
+player: Taylor Harwood-Bellis
+0
+playerID: 10000
+player: Kortney Hause
+32
+playerID: 20810
+player: Kai Havertz
+69
+playerID: 66517
+player: Kaine Hayden
+0
+playerID: 2933
+player: Tom Heaton
+116
+playerID: 4582
+player: Michael Hector
+4
+playerID: 51917
+player: Karl Hein
+0
+playerID: 5064
+player: Hélder Costa
+48
+playerID: 3058
+player: Stephen Henderson
+0
+playerID: 8586
+player: Jeff Hendrick
+147
+playerID: 2569
+player: Wayne Hennessey
+183
+playerID: 51559
+player: Thomas Hill
+0
+playerID: 20005
+player: James Hillson
+0
+playerID: 14283
+player: George Hirst
+2
+playerID: 6194
+player: Wesley Hoedt
+41
+playerID: 52951
+player: Ki-Jana Hoever
+20
+playerID: 11575
+player: Rob Holding
+88
+playerID: 10564
+player: Mason Holgate
+122
+playerID: 14637
+player: Nathan Holland
+2
+playerID: 24341
+player: Bryce Hosannah
+0
+playerID: 9377
+player: Conor Hourihane
+31
+playerID: 23702
+player: Callum Hudson-Odoi
+72
+playerID: 104260
+player: Niall Huggins
+1
+playerID: 112551
+player: Liam Hughes
+0
+playerID: 5272
+player: Pierre-Emile Højbjerg
+197
+playerID: 10957
+player: Odion Ighalo
+67
+playerID: 13554
+player: Kelechi Iheanacho
+178
+playerID: 8245
+player: Danny Ings
+184
+playerID: 4760
+player: Ryan Inniss
+0
+playerID: 66538
+player: Tim Iroegbunam
+3
+playerID: 5079
+player: Ivan Cavaleiro
+59
+playerID: 3360
+player: Branislav Ivanovic
+274
+playerID: 4717
+player: Alex Iwobi
+198
+playerID: 12212
+player: José Izquierdo
+48
+playerID: 33056
+player: Jaroslaw Jach
+0
+playerID: 3222
+player: Phil Jagielka
+376
+playerID: 15480
+player: Alireza Jahanbakhsh
+50
+playerID: 4786
+player: Eldin Jakupovic
+28
+playerID: 14571
+player: Reece James
+89
+playerID: 52931
+player: Alexandre Jankewitz
+2
+playerID: 24807
+player: Vítezslav Jaros
+0
+playerID: 30527
+player: Sylvester Jasper
+0
+playerID: 98303
+player: Taylor Jay-Hart
+0
+playerID: 111987
+player: Daniel Jebbison
+4
+playerID: 69289
+player: Jack Jenkins
+0
+playerID: 24723
+player: Teddy Jenks
+0
+playerID: 75372
+player: Lukas Jensen
+0
+playerID: 4909
+player: Roberto Jiménez
+8
+playerID: 5051
+player: João Cancelo
+95
+playerID: 11259
+player: João Moutinho
+157
+playerID: 14428
+player: João Virgínia
+1
+playerID: 20607
+player: Joelinton
+117
+playerID: 5154
+player: Stefan Johansen
+12
+playerID: 23743
+player: Kyle John
+0
+playerID: 19880
+player: Tyreece John-Jules
+0
+playerID: 14696
+player: Darnell Johnson
+0
+playerID: 4331
+player: Sam Johnstone
+37
+playerID: 23815
+player: Curtis Jones
+49
+playerID: 20277
+player: Jonny
+100
+playerID: 5682
+player: Jorginho
+138
+playerID: 10604
+player: Jota
+10
+playerID: 13515
+player: James Justin
+63
+playerID: 50165
+player: Ozan Kabak
+20
+playerID: 11267
+player: Aboubakar Kamara
+24
+playerID: 3960
+player: Harry Kane
+297
+playerID: 13492
+player: N'Golo Kanté
+222
+playerID: 108973
+player: Michal Karbownik
+0
+playerID: 19600
+player: Loris Karius
+29
+playerID: 5156
+player: Beram Kayal
+37
+playerID: 20958
+player: Moise Kean
+32
+playerID: 4333
+player: Michael Keane
+219
+playerID: 20178
+player: Neeskens Kebano
+24
+playerID: 12316
+player: Naby Keïta
+76
+playerID: 14723
+player: Caoimhín Kelleher
+4
+playerID: 3644
+player: Martin Kelly
+154
+playerID: 10449
+player: Jonjoe Kenny
+50
+playerID: 67899
+player: Reda Khadra
+1
+playerID: 16793
+player: Kiko Casilla
+3
+playerID: 13522
+player: Maximilian Kilman
+67
+playerID: 3926
+player: Joshua King
+204
+playerID: 15333
+player: Cédric Kipré
+0
+playerID: 15134
+player: Nya Kirby
+0
+playerID: 13089
+player: Mateusz Klich
+79
+playerID: 14693
+player: Josh Knight
+0
+playerID: 8982
+player: Anthony Knockaert
+72
+playerID: 26220
+player: Robin Koch
+51
+playerID: 5368
+player: Sead Kolasinac
+80
+playerID: 12359
+player: Terence Kongolo
+46
+playerID: 13274
+player: Ezri Konsa
+105
+playerID: 66564
+player: Billy Koumetio
+0
+playerID: 5861
+player: Cheikhou Kouyaté
+270
+playerID: 12520
+player: Mateo Kovacic
+126
+playerID: 35733
+player: Matej Kovár
+0
+playerID: 66494
+player: Emil Krafth
+54
+playerID: 23575
+player: Filip Krovinovic
+11
+playerID: 6899
+player: Alexandre Lacazette
+158
+playerID: 23832
+player: Ethan Laird
+0
+playerID: 4618
+player: Adam Lallana
+261
+playerID: 4842
+player: Erik Lamela
+177
+playerID: 23704
+player: Tariq Lamptey
+61
+playerID: 24702
+player: Daniel Langley
+0
+playerID: 3049
+player: Henri Lansbury
+13
+playerID: 13872
+player: Manuel Lanzini
+174
+playerID: 11044
+player: Aymeric Laporte
+112
+playerID: 30528
+player: Yasser Larouci
+0
+playerID: 9257
+player: Jamaal Lascelles
+156
+playerID: 23696
+player: Marcel Lavinier
+0
+playerID: 31441
+player: Henry Lawrence
+0
+playerID: 6528
+player: Valentino Lazaro
+13
+playerID: 20503
+player: Maxime Le Marchand
+28
+playerID: 66222
+player: Zan-Luk Leban
+0
+playerID: 16607
+player: Florian Lejeune
+42
+playerID: 13866
+player: Jonathan Leko
+14
+playerID: 5583
+player: Mario Lemina
+74
+playerID: 4985
+player: Bernd Leno
+114
+playerID: 23784
+player: Thakgalo Leshabela
+1
+playerID: 23830
+player: Dylan Levitt
+0
+playerID: 79245
+player: George Lewis
+0
+playerID: 5066
+player: Victor Lindelöf
+144
+playerID: 66516
+player: Hayden Lindley
+0
+playerID: 4337
+player: Jesse Lingard
+178
+playerID: 3244
+player: Jake Livermore
+196
+playerID: 49495
+player: Tino Livramento
+28
+playerID: 5790
+player: Diego Llorente
+50
+playerID: 4664
+player: Hugo Lloris
+351
+playerID: 19851
+player: Giovani Lo Celso
+55
+playerID: 5179
+player: Ruben Loftus-Cheek
+146
+playerID: 8006
+player: Andy Lonergan
+0
+playerID: 3837
+player: Kevin Long
+48
+playerID: 20055
+player: Emmanuel Longelo
+0
+playerID: 23687
+player: Ryan Longman
+0
+playerID: 23817
+player: Luis Longstaff
+0
+playerID: 74811
+player: Nigel Lonwijk
+0
+playerID: 13278
+player: Ademola Lookman
+96
+playerID: 52201
+player: Joel Lopez Salguero
+0
+playerID: 12444
+player: Jonas Lössl
+71
+playerID: 21611
+player: Lovre Kalinic
+0
+playerID: 4813
+player: Dejan Lovren
+162
+playerID: 8578
+player: Max Lowe
+8
+playerID: 4487
+player: Matthew Lowton
+231
+playerID: 23759
+player: Luca Ashby-Hammond
+0
+playerID: 5762
+player: Lucas Moura
+145
+playerID: 4509
+player: John Lundstram
+62
+playerID: 51223
+player: Ian Maatsen
+0
+playerID: 63633
+player: Alexis Mac Allister
+77
+playerID: 10422
+player: Matt Macey
+0
+playerID: 88771
+player: Wanya Madavidua
+0
+playerID: 8456
+player: James Maddison
+146
+playerID: 14574
+player: Jacob Maddox
+0
+playerID: 9566
+player: Harry Maguire
+207
+playerID: 8983
+player: Riyad Mahrez
+263
+playerID: 10428
+player: Ainsley Maitland-Niles
+94
+playerID: 20048
+player: Josh Maja
+15
+playerID: 71441
+player: Anthony Mancini
+0
+playerID: 6519
+player: Sadio Mané
+263
+playerID: 4918
+player: Javier Manquillo
+123
+playerID: 16640
+player: Marçal
+31
+playerID: 8171
+player: Solly March
+156
+playerID: 20097
+player: Pablo Marí
+14
+playerID: 23952
+player: Dilan Markanday
+0
+playerID: 15136
+player: George Marsh
+0
+playerID: 11272
+player: Anthony Martial
+180
+playerID: 2912
+player: David Martin
+5
+playerID: 4245
+player: Emiliano Martínez
+104
+playerID: 11284
+player: Arthur Masuaku
+105
+playerID: 51556
+player: Tawanda Maswanhise
+0
+playerID: 4287
+player: Juan Mata
+278
+playerID: 20874
+player: Jean-Philippe Mateta
+40
+playerID: 11363
+player: Matheus Pereira
+33
+playerID: 3861
+player: Nemanja Matic
+251
+playerID: 5375
+player: Joël Matip
+130
+playerID: 14903
+player: Matty Longstaff
+14
+playerID: 16256
+player: Neal Maupay
+112
+playerID: 9960
+player: Alfie Mawson
+80
+playerID: 64460
+player: Luke Mbete
+0
+playerID: 4224
+player: James McArthur
+319
+playerID: 8107
+player: Oliver McBurnie
+75
+playerID: 53270
+player: Alfie McCalmont
+0
+playerID: 52613
+player: Liam McCarron
+1
+playerID: 3979
+player: James McCarthy
+272
+playerID: 14585
+player: Luke McCormick
+0
+playerID: 3844
+player: Kevin McDonald
+39
+playerID: 14587
+player: George McEachran
+0
+playerID: 20961
+player: Thomas McGill
+0
+playerID: 51423
+player: John McGinn
+115
+playerID: 2340
+player: David McGoldrick
+63
+playerID: 19865
+player: Mark McGuinness
+0
+playerID: 24797
+player: Dwight McNeil
+149
+playerID: 14824
+player: Scott McTominay
+132
+playerID: 21958
+player: Zech Medley
+0
+playerID: 3909
+player: Ben Mee
+231
+playerID: 68593
+player: Hannibal Mejbri
+3
+playerID: 23835
+player: D'Mani Mellor
+0
+playerID: 54889
+player: Édouard Mendy
+74
+playerID: 27090
+player: Teden Mengi
+0
+playerID: 66378
+player: Illan Meslier
+87
+playerID: 5377
+player: Max Meyer
+46
+playerID: 46268
+player: Kamil Miazek
+0
+playerID: 5859
+player: Luka Milivojevic
+174
+playerID: 23822
+player: Liam Millar
+0
+playerID: 2100
+player: James Milner
+600
+playerID: 32923
+player: Yerry Mina
+80
+playerID: 12322
+player: Takumi Minamino
+40
+playerID: 8900
+player: Tyrone Mings
+135
+playerID: 24334
+player: Tyrick Mitchell
+73
+playerID: 5879
+player: Aleksandar Mitrovic
+116
+playerID: 5102
+player: Henrikh Mkhitaryan
+78
+playerID: 108751
+player: Jakub Moder
+40
+playerID: 5239
+player: Mohamed Elneny
+86
+playerID: 5178
+player: Mohamed Salah
+207
+playerID: 15293
+player: Jayson Molumby
+1
+playerID: 4955
+player: Martín Montoya
+52
+playerID: 4727
+player: Simon Moore
+2
+playerID: 19619
+player: Aaron Mooy
+96
+playerID: 64281
+player: Pablo Moreno
+0
+playerID: 8966
+player: Wes Morgan
+170
+playerID: 3983
+player: Victor Moses
+220
+playerID: 14580
+player: Mason Mount
+119
+playerID: 19603
+player: Lys Mousset
+99
+playerID: 75991
+player: Joel Mumbongo
+4
+playerID: 19911
+player: Arijanet Muric
+0
+playerID: 9662
+player: Jacob Murphy
+108
+playerID: 4772
+player: Glenn Murray
+148
+playerID: 14715
+player: Admiral Muskwe
+0
+playerID: 3869
+player: Shkodran Mustafi
+102
+playerID: 20196
+player: Yoshinori Muto
+25
+playerID: 15019
+player: Daniel N'Lundulu
+13
+playerID: 45351
+player: Marvelous Nakamba
+58
+playerID: 14577
+player: Richard Nartey
+0
+playerID: 31936
+player: Iliman Ndiaye
+1
+playerID: 20479
+player: Wilfred Ndidi
+175
+playerID: 25329
+player: Tanguy Ndombélé
+63
+playerID: 14450
+player: Reiss Nelson
+25
+playerID: 16642
+player: Nélson Semedo
+72
+playerID: 14451
+player: Eddie Nketiah
+71
+playerID: 76258
+player: Niels Nkounkou
+2
+playerID: 19922
+player: Felix Nmecha
+0
+playerID: 3014
+player: Mark Noble
+414
+playerID: 14647
+player: Magnus Norman
+0
+playerID: 32673
+player: Rhys Norrington-Davies
+0
+playerID: 8293
+player: Will Norris
+3
+playerID: 3924
+player: Oliver Norwood
+70
+playerID: 51416
+player: Ørjan Nyland
+7
+playerID: 9491
+player: Jack O'Connell
+35
+playerID: 49367
+player: Warren O'Hora
+0
+playerID: 14671
+player: Matt O'Riley
+0
+playerID: 15154
+player: Dara O'Shea
+28
+playerID: 21532
+player: Michael Obafemi
+32
+playerID: 12536
+player: Denis Odoi
+34
+playerID: 64069
+player: Ademipo Odubeko
+0
+playerID: 5514
+player: Angelo Ogbonna
+176
+playerID: 10543
+player: Sheyi Ojo
+8
+playerID: 66557
+player: Jakub Ojrzynski
+0
+playerID: 23955
+player: Jubril Okedina
+0
+playerID: 23650
+player: Arthur Okonkwo
+0
+playerID: 19873
+player: James Olayinka
+0
+playerID: 11224
+player: Robin Olsen
+9
+playerID: 53610
+player: Akos Onodi
+0
+playerID: 7490
+player: Josh Onomah
+26
+playerID: 51510
+player: Tyler Onyango
+3
+playerID: 14652
+player: Jerome Opoku
+0
+playerID: 10465
+player: Divock Origi
+107
+playerID: 9266
+player: Ben Osborn
+37
+playerID: 114590
+player: William Osula
+0
+playerID: 6058
+player: Nicolás Otamendi
+136
+playerID: 23994
+player: Owen Otasowie
+6
+playerID: 4252
+player: Alex Oxlade-Chamberlain
+229
+playerID: 49489
+player: Daniel Oyegoke
+0
+playerID: 4714
+player: Mesut Özil
+184
+playerID: 4654
+player: Pablo Hernández
+73
+playerID: 49293
+player: Cole Palmer
+11
+playerID: 16467
+player: Erik Palmer-Brown
+0
+playerID: 5093
+player: Sokratis Papastathopoulos
+44
+playerID: 43856
+player: Troy Parrott
+2
+playerID: 4936
+player: Thomas Partey
+59
+playerID: 10440
+player: Mario Pasalic
+0
+playerID: 13485
+player: Bailey Peacock-Farrell
+4
+playerID: 49494
+player: Myles Peart-Harris
+0
+playerID: 4972
+player: Pedro
+137
+playerID: 21998
+player: Pedro Neto
+81
+playerID: 108972
+player: Facundo Pellistri
+0
+playerID: 3138
+player: Lee Peltier
+24
+playerID: 50252
+player: Nicolas Pépé
+80
+playerID: 2911
+player: Pepe Reina
+297
+playerID: 10487
+player: Ayoze Pérez
+220
+playerID: 20079
+player: Taylor Perry
+0
+playerID: 10768
+player: Kalvin Phillips
+50
+playerID: 64519
+player: Jaden Philogene
+2
+playerID: 4640
+player: Jordan Pickford
+225
+playerID: 53151
+player: Brandon Pierrick
+2
+playerID: 4821
+player: Erik Pieters
+225
+playerID: 3920
+player: Paul Pogba
+157
+playerID: 10079
+player: Nick Pope
+156
+playerID: 32229
+player: Pedro Porro
+0
+playerID: 19929
+player: Ian Poveda-Ocampo
+14
+playerID: 5860
+player: Dennis Praet
+49
+playerID: 70216
+player: Isaac Price
+1
+playerID: 16790
+player: Davy Pröpper
+107
+playerID: 25464
+player: Arnau Puigmal
+0
+playerID: 15559
+player: Christian Pulisic
+87
+playerID: 66518
+player: Arjan Raikhy
+0
+playerID: 49504
+player: Jesurun Rak-Sakyi
+2
+playerID: 24001
+player: Kayne Ramsay
+2
+playerID: 13703
+player: Aaron Ramsdale
+123
+playerID: 19888
+player: Jacob Ramsey
+71
+playerID: 2216
+player: Darren Randolph
+34
+playerID: 24156
+player: Raphinha
+65
+playerID: 13565
+player: Marcus Rashford
+218
+playerID: 4276
+player: Tim Ream
+61
+playerID: 3811
+player: Nathan Redmond
+264
+playerID: 4818
+player: Harrison Reed
+62
+playerID: 39606
+player: Sergio Reguilón
+52
+playerID: 14477
+player: Dominic Revan
+0
+playerID: 5343
+player: Ricardo Pereira
+92
+playerID: 15202
+player: Declan Rice
+182
+playerID: 19928
+player: Taylor Richards
+2
+playerID: 67198
+player: Lewis Richardson
+2
+playerID: 24630
+player: Richarlison
+183
+playerID: 4878
+player: Jairo Riedewald
+68
+playerID: 3934
+player: Matt Ritchie
+165
+playerID: 13511
+player: Roberto Firmino
+244
+playerID: 24809
+player: Haydon Roberts
+0
+playerID: 10458
+player: Andrew Robertson
+230
+playerID: 14624
+player: Antonee Robinson
+41
+playerID: 3484
+player: Hal Robson-Kanu
+94
+playerID: 10727
+player: Marek Rodák
+4
+playerID: 13796
+player: Joe Rodon
+15
+playerID: 16286
+player: Rodri
+115
+playerID: 4095
+player: Rodrigo
+87
+playerID: 3851
+player: Jay Rodríguez
+237
+playerID: 3389
+player: Jack Rodwell
+167
+playerID: 10472
+player: Marcos Rojo
+76
+playerID: 13555
+player: Sergio Romero
+7
+playerID: 4286
+player: Oriol Romeu
+239
+playerID: 3507
+player: Danny Rose
+202
+playerID: 16431
+player: Rúben Dias
+73
+playerID: 11180
+player: Rúben Neves
+156
+playerID: 20171
+player: Rúben Vinagre
+37
+playerID: 2896
+player: John Ruddy
+123
+playerID: 16801
+player: Antonio Rüdiger
+133
+playerID: 11341
+player: Rui Patrício
+112
+playerID: 49716
+player: Rúnar Rúnarsson
+1
+playerID: 12192
+player: Mathew Ryan
+124
+playerID: 12817
+player: Allan Saint-Maximin
+93
+playerID: 20745
+player: Romain Saïss
+110
+playerID: 6251
+player: Henri Saivet
+5
+playerID: 49481
+player: Bukayo Saka
+111
+playerID: 4796
+player: Mamadou Sakho
+128
+playerID: 66204
+player: William Saliba
+14
+playerID: 51775
+player: Mohammed Salisu
+60
+playerID: 20490
+player: Mbwana Samatta
+14
+playerID: 15257
+player: Austin Samuels
+0
+playerID: 14538
+player: Robert Sánchez
+78
+playerID: 14554
+player: Max Sanders
+0
+playerID: 11074
+player: Sandro Ramírez
+8
+playerID: 5384
+player: Leroy Sané
+90
+playerID: 25068
+player: Morgan Sanson
+20
+playerID: 14463
+player: Matija Sarkic
+0
+playerID: 20499
+player: Malang Sarr
+8
+playerID: 3752
+player: Romaine Sawyers
+19
+playerID: 66570
+player: Dane Scarlett
+2
+playerID: 5220
+player: Fabian Schär
+103
+playerID: 16234
+player: Ezequiel Schelotto
+28
+playerID: 8980
+player: Jeffrey Schlupp
+219
+playerID: 2508
+player: Kasper Schmeichel
+284
+playerID: 7013
+player: Jean Michaël Seri
+32
+playerID: 54056
+player: Femi Seriki
+1
+playerID: 14657
+player: Steven Sessegnon
+0
+playerID: 19844
+player: Meritan Shabani
+0
+playerID: 14393
+player: Jamie Shackleton
+27
+playerID: 5267
+player: Xherdan Shaqiri
+129
+playerID: 4626
+player: Billy Sharp
+43
+playerID: 15367
+player: Conor Shaughnessy
+0
+playerID: 4608
+player: Luke Shaw
+218
+playerID: 4135
+player: Jonjo Shelvey
+270
+playerID: 64142
+player: Shola Shoretire
+3
+playerID: 20027
+player: Saul Shotton
+0
+playerID: 12576
+player: Djibril Sidibé
+25
+playerID: 23797
+player: Sidnei Tavares
+2
+playerID: 4421
+player: Gylfi Sigurdsson
+318
+playerID: 4145
+player: David Silva
+309
+playerID: 25529
+player: Dynel Simeu
+0
+playerID: 19925
+player: Ellis Simms
+1
+playerID: 4549
+player: Moussa Sissoko
+295
+playerID: 21413
+player: Oliver Skipp
+39
+playerID: 21385
+player: Regan Slater
+0
+playerID: 11364
+player: Islam Slimani
+40
+playerID: 75104
+player: Thierry Small
+0
+playerID: 14997
+player: William Smallbone
+16
+playerID: 3613
+player: Chris Smalling
+219
+playerID: 19862
+player: Matt Smith
+0
+playerID: 14445
+player: Emile Smith Rowe
+59
+playerID: 4558
+player: Robert Snodgrass
+171
+playerID: 32998
+player: Harrison Sohna
+0
+playerID: 4999
+player: Son Heung-Min
+245
+playerID: 49158
+player: Andreas Söndergaard
+0
+playerID: 25183
+player: Tomás Soucek
+101
+playerID: 21379
+player: Jamie Soule
+0
+playerID: 26216
+player: Çaglar Söyüncü
+92
+playerID: 24722
+player: Jack Spong
+0
+playerID: 66563
+player: Jay Stansfield
+3
+playerID: 3457
+player: Jason Steele
+1
+playerID: 4348
+player: Jed Steer
+3
+playerID: 54392
+player: Zack Steffen
+2
+playerID: 4779
+player: Maarten Stekelenburg
+55
+playerID: 8168
+player: Dale Stephens
+109
+playerID: 4316
+player: Raheem Sterling
+332
+playerID: 26571
+player: Jordan Stevens
+0
+playerID: 51561
+player: Layton Stewart
+0
+playerID: 25444
+player: Jakub Stolarczyk
+0
+playerID: 4505
+player: John Stones
+207
+playerID: 33124
+player: Pascal Struijk
+69
+playerID: 92693
+player: Thanawat Suengchitthawon
+0
+playerID: 65961
+player: Crysencio Summerville
+16
+playerID: 98302
+player: Sil Swinkels
+0
+playerID: 19893
+player: Michael Tait
+0
+playerID: 15116
+player: Japhet Tanganga
+23
+playerID: 4815
+player: Matt Targett
+152
+playerID: 8143
+player: James Tarkowski
+209
+playerID: 40320
+player: Percy Tau
+3
+playerID: 24000
+player: Nikola Tavares
+0
+playerID: 4402
+player: Neil Taylor
+146
+playerID: 14592
+player: Martell Taylor-Crossdale
+0
+playerID: 35781
+player: Allan Tchaptchet
+1
+playerID: 70755
+player: Teddy Rowe
+0
+playerID: 14452
+player: Nathan Tella
+33
+playerID: 4880
+player: Kenny Tete
+31
+playerID: 5264
+player: Thiago
+57
+playerID: 5754
+player: Thiago Silva
+67
+playerID: 63836
+player: Bobby Thomas
+0
+playerID: 51505
+player: Max Thompson
+1
+playerID: 5865
+player: Youri Tielemans
+135
+playerID: 12185
+player: Kieran Tierney
+76
+playerID: 3517
+player: James Tomkins
+280
+playerID: 13281
+player: Fikayo Tomori
+17
+playerID: 23033
+player: Lucas Torreira
+63
+playerID: 43098
+player: Ferran Torres
+28
+playerID: 12114
+player: Cenk Tosun
+55
+playerID: 3724
+player: Andros Townsend
+264
+playerID: 32280
+player: James Trafford
+0
+playerID: 10394
+player: Bertrand Traoré
+55
+playerID: 16087
+player: Trézéguet
+56
+playerID: 20486
+player: Leandro Trossard
+114
+playerID: 20051
+player: Nathan Trott
+0
+playerID: 16006
+player: Konstantinos Tsimikas
+25
+playerID: 13559
+player: Axel Tuanzebe
+28
+playerID: 20941
+player: Rayhaan Tulloch
+0
+playerID: 43940
+player: Harry Tyrer
+0
+playerID: 23612
+player: Cengiz Ünder
+9
+playerID: 67201
+player: Harvey Vale
+0
+playerID: 15011
+player: Yan Valery
+43
+playerID: 3362
+player: Patrick van Aanholt
+213
+playerID: 11031
+player: Donny van de Beek
+38
+playerID: 65987
+player: Sepp van den Berg
+0
+playerID: 5140
+player: Virgil van Dijk
+210
+playerID: 4747
+player: Marco van Ginkel
+19
+playerID: 76090
+player: Jan Paul van Hecke
+1
+playerID: 8979
+player: Jamie Vardy
+285
+playerID: 31670
+player: Indiana Vassilev
+4
+playerID: 4874
+player: Joël Veltman
+75
+playerID: 32602
+player: Michael Verrips
+0
+playerID: 4666
+player: Jan Vertonghen
+232
+playerID: 20109
+player: Jannik Vestergaard
+82
+playerID: 67634
+player: Vitinha
+19
+playerID: 15013
+player: Jake Vokins
+2
+playerID: 4398
+player: Michel Vorm
+102
+playerID: 4851
+player: Matej Vydra
+106
+playerID: 2839
+player: Theo Walcott
+380
+playerID: 14467
+player: Jake Walker
+0
+playerID: 13815
+player: Kyle Walker-Peters
+95
+playerID: 8159
+player: Christian Walton
+0
+playerID: 14164
+player: Aaron Wan-Bissaka
+132
+playerID: 3929
+player: Joel Ward
+265
+playerID: 4617
+player: James Ward-Prowse
+320
+playerID: 8658
+player: Ollie Watkins
+86
+playerID: 51238
+player: Caleb Watts
+3
+playerID: 9426
+player: Adam Webster
+95
+playerID: 31046
+player: Jensen Weir
+0
+playerID: 3452
+player: Danny Welbeck
+286
+playerID: 66578
+player: Reece Welch
+0
+playerID: 23599
+player: Timo Werner
+56
+playerID: 15580
+player: Wesley
+25
+playerID: 4489
+player: Ashley Westwood
+286
+playerID: 14548
+player: Ben White
+82
+playerID: 15111
+player: Alfie Whiteman
+0
+playerID: 4396
+player: Connor Wickham
+120
+playerID: 7114
+player: Georginio Wijnaldum
+217
+playerID: 23811
+player: Neco Williams
+28
+playerID: 4748
+player: Willian
+267
+playerID: 5806
+player: Willian José
+17
+playerID: 14446
+player: Joe Willock
+98
+playerID: 3547
+player: Jack Wilshere
+182
+playerID: 13961
+player: Harry Wilson
+38
+playerID: 7488
+player: Harry Winks
+128
+playerID: 23659
+player: Ben Winterbottom
+0
+playerID: 3756
+player: Chris Wood
+185
+playerID: 14149
+player: Sam Woods
+0
+playerID: 24151
+player: Xande Silva
+1
+playerID: 12136
+player: Granit Xhaka
+202
+playerID: 66506
+player: Romaric Yapi
+0
+playerID: 6389
+player: Andrii Yarmolenko
+66
+playerID: 10522
+player: DeAndre Yedlin
+109
+playerID: 32796
+player: Okay Yokuslu
+16
+playerID: 4605
+player: Maya Yoshida
+154
+playerID: 62919
+player: Brad Young
+0
+playerID: 4539
+player: Wilfried Zaha
+291
+playerID: 25313
+player: Davide Zappacosta
+26
+playerID: 50230
+player: Andi Zeqiri
+9
+playerID: 24220
+player: Karlo Ziger
+0
+playerID: 19620
+player: Oleksandr Zinchenko
+83
+playerID: 11034
+player: Richairo Zivkovic
+5
+playerID: 20750
+player: Hakim Ziyech
+51
+playerID: 6627
+player: Kenneth Zohore
+19
+playerID: 5175
+player: Kurt Zouma
+203
+playerID: 107891
+player: Oliwier Zych
+0
+playerID: 11419
+player: Martin Ødegaard
+63
