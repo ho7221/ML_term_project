@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Assists <= -0.153\ngini = 0.643\nsamples = 2835\nvalue = [882, 673, 1280]\nclass = Draw", fillcolor="#e5d7fa"] ;
+1 [label="Assists <= -0.862\ngini = 0.637\nsamples = 1198\nvalue = [568, 309, 321]\nclass = Draw", fillcolor="#f8dcc7"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Clean sheets <= -0.037\ngini = 0.548\nsamples = 510\nvalue = [313, 109, 88]\nclass = Draw", fillcolor="#f2bf9a"] ;
+1 -> 2 ;
+3 [label="gini = 0.508\nsamples = 443\nvalue = [291, 88, 64]\nclass = Draw", fillcolor="#f0b78e"] ;
+2 -> 3 ;
+4 [label="gini = 0.666\nsamples = 67\nvalue = [22, 21, 24]\nclass = Draw", fillcolor="#f9f6fe"] ;
+2 -> 4 ;
+5 [label="Clean sheets <= 0.503\ngini = 0.663\nsamples = 688\nvalue = [255, 200, 233]\nclass = Draw", fillcolor="#fef9f5"] ;
+1 -> 5 ;
+6 [label="gini = 0.659\nsamples = 573\nvalue = [232, 167, 174]\nclass = Draw", fillcolor="#fbede2"] ;
+5 -> 6 ;
+7 [label="gini = 0.614\nsamples = 115\nvalue = [23, 33, 59]\nclass = Draw", fillcolor="#d7c0f7"] ;
+5 -> 7 ;
+8 [label="Clean sheets <= 1.013\ngini = 0.571\nsamples = 1637\nvalue = [314, 364, 959]\nclass = Draw", fillcolor="#c4a2f3"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="Assists <= 0.511\ngini = 0.613\nsamples = 1253\nvalue = [279, 321, 653]\nclass = Draw", fillcolor="#d2b8f6"] ;
+8 -> 9 ;
+10 [label="gini = 0.652\nsamples = 697\nvalue = [189, 207, 301]\nclass = Draw", fillcolor="#e7d9fa"] ;
+9 -> 10 ;
+11 [label="gini = 0.531\nsamples = 556\nvalue = [90, 114, 352]\nclass = Draw", fillcolor="#bb94f1"] ;
+9 -> 11 ;
+12 [label="Goals Conceded <= 0.678\ngini = 0.344\nsamples = 384\nvalue = [35, 43, 306]\nclass = Draw", fillcolor="#9e66eb"] ;
+8 -> 12 ;
+13 [label="gini = 0.319\nsamples = 366\nvalue = [29, 39, 298]\nclass = Draw", fillcolor="#9b62ea"] ;
+12 -> 13 ;
+14 [label="gini = 0.642\nsamples = 18\nvalue = [6, 4, 8]\nclass = Draw", fillcolor="#eadefb"] ;
+12 -> 14 ;
+}

@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled", color="black", fontname="helvetica"] ;
+edge [fontname="helvetica"] ;
+0 [label="Assists <= -0.153\ngini = 0.644\nsamples = 2835\nvalue = [900, 671, 1264]\nclass = Home", fillcolor="#e7dafa"] ;
+1 [label="Clean sheets <= -0.327\ngini = 0.634\nsamples = 1241\nvalue = [595, 307, 339]\nclass = Away", fillcolor="#f8dbc7"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="Assists <= -0.682\ngini = 0.572\nsamples = 740\nvalue = [433, 152, 155]\nclass = Away", fillcolor="#f3c3a1"] ;
+1 -> 2 ;
+3 [label="gini = 0.502\nsamples = 498\nvalue = [331, 84, 83]\nclass = Away", fillcolor="#efb489"] ;
+2 -> 3 ;
+4 [label="gini = 0.655\nsamples = 242\nvalue = [102, 68, 72]\nclass = Away", fillcolor="#fae9dc"] ;
+2 -> 4 ;
+5 [label="Catches <= -0.647\ngini = 0.665\nsamples = 501\nvalue = [162, 155, 184]\nclass = Home", fillcolor="#f7f2fd"] ;
+1 -> 5 ;
+6 [label="gini = 0.598\nsamples = 124\nvalue = [23, 34, 67]\nclass = Home", fillcolor="#d1b6f5"] ;
+5 -> 6 ;
+7 [label="gini = 0.665\nsamples = 377\nvalue = [139, 121, 117]\nclass = Away", fillcolor="#fdf6f1"] ;
+5 -> 7 ;
+8 [label="Clean sheets <= 0.469\ngini = 0.574\nsamples = 1594\nvalue = [305, 364, 925]\nclass = Home", fillcolor="#c6a5f3"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="Shots on target <= 0.009\ngini = 0.639\nsamples = 860\nvalue = [213, 244, 403]\nclass = Home", fillcolor="#deccf8"] ;
+8 -> 9 ;
+10 [label="gini = 0.664\nsamples = 251\nvalue = [92, 74, 85]\nclass = Away", fillcolor="#fefaf7"] ;
+9 -> 10 ;
+11 [label="gini = 0.61\nsamples = 609\nvalue = [121, 170, 318]\nclass = Home", fillcolor="#d5bcf6"] ;
+9 -> 11 ;
+12 [label="Shots on target <= -0.202\ngini = 0.452\nsamples = 734\nvalue = [92, 120, 522]\nclass = Home", fillcolor="#ad7dee"] ;
+8 -> 12 ;
+13 [label="gini = 0.643\nsamples = 98\nvalue = [23, 31, 44]\nclass = Home", fillcolor="#e7d9fa"] ;
+12 -> 13 ;
+14 [label="gini = 0.404\nsamples = 636\nvalue = [69, 89, 478]\nclass = Home", fillcolor="#a572ed"] ;
+12 -> 14 ;
+}
